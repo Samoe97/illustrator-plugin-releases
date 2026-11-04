@@ -1,18 +1,18 @@
 {
   "plugin": "OpenDimensions",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "released": "2026-11-04",
-  "notes": "- Update checks work on Windows (the check used to fail with \"download failed (0x800c0005)\")\n- Clearer messages when an update check can't connect",
+  "notes": "- Deleting a sign deletes its dimensions\n- Dimensions resize correctly when the sign is scaled, also when they were selected with it\n- Text near the edge of a sign no longer counts toward its measured size",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.1/OpenDimensions-1.1.1-mac-2025.zip",
-      "sha256": "27ca77e2b8eddc02b7e7c07b66c0961ab988f15fbbcd8ea01d7a3d118d162c76",
-      "size": 574146
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.2/OpenDimensions-1.1.2-mac-2025.zip",
+      "sha256": "17484311d1e013888e0e2131f51d6879e26542cbd155eca1c6630363675119b9",
+      "size": 578376
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.1/OpenDimensions-1.1.1-win-2025.zip",
-      "sha256": "ea1a83e785eddf32050abf5112a06d3a267a20b7b205d111e80763c020feb1e6",
-      "size": 355803
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.2/OpenDimensions-1.1.2-win-2025.zip",
+      "sha256": "0a4bab0ce60408aea0a78fc8d9f3ae4bb7e4d1023b18b16c293d57c9e74a0b40",
+      "size": 358397
     }
   }
 }
