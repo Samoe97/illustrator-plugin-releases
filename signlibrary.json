@@ -1,18 +1,18 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "released": "2026-11-04",
-  "notes": "- Version numbers and automatic updates: the panel tells you when a new version is out and installs it when you quit Illustrator\n- Speed limit, weight, clearance and other variable signs ask for their value, with a live preview\n- Your MUTCD 2009 pack is the preferred version of every sign; other versions are listed in the details\n- Large size bar above Place; any size can be made a sign's default\n- Placing from the panel is one undo step; Ctrl+Z in the panel undoes the document",
+  "notes": "- Update checks work on Windows (the check used to fail with \"download failed (0x800c0005)\")\n- Clearer messages when an update check can't connect",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.2.0/SignLibrary-0.2.0-mac-2025.zip",
-      "sha256": "640e0f5dbb0aba224f5eb3c20b5f54002c190b8160cb406d3ec44be70377f77e",
-      "size": 2140357
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.2.1/SignLibrary-0.2.1-mac-2025.zip",
+      "sha256": "acb3c15f27b3929878b900c008c1bb951555f39d9ae306a514b8ba4af65ca581",
+      "size": 2140675
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.2.0/SignLibrary-0.2.0-win-2025.zip",
-      "sha256": "4e607a293a0052031cc4c8f77cf6d2b920c47a67ef0d03f690541a38d4ed1097",
-      "size": 1309779
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.2.1/SignLibrary-0.2.1-win-2025.zip",
+      "sha256": "9773b47818c9e8cf3e81d0362aaf9efe4a38b5d8a8c206d8cbe9c2f9a94f86b0",
+      "size": 1311334
     }
   }
 }
