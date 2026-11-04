@@ -1,0 +1,18 @@
+{
+  "plugin": "OpenDimensions",
+  "version": "1.1.0",
+  "released": "2026-11-04",
+  "notes": "- Version numbers and automatic updates: OpenDimensions now knows its version, checks for a new one a few seconds after Illustrator starts and offers to install it (it finishes when you quit Illustrator). Help > Check for OpenDimensions Updates... checks on request.\n- Per-layer scales that read and write HotDoor CADtools layer scales, and dimensions that follow the scale when it changes.\n- Corner radius tool, and Universal, Aligned and Auto dimension tools.\n- Mac build and Mac settings panel.",
+  "assets": {
+    "mac-2025": {
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.0/OpenDimensions-1.1.0-mac-2025.zip",
+      "sha256": "4dab390c37c7c03fba5b67d516c508d00f7fefb7060723fcdeb931eeddeaadb5",
+      "size": 573800
+    },
+    "win-2025": {
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.0/OpenDimensions-1.1.0-win-2025.zip",
+      "sha256": "b4253e259ba68953c8702ed3d60384bb4bbf8383f852dce507938f2478c3a959",
+      "size": 354800
+    }
+  }
+}
