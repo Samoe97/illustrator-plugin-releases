@@ -1,17 +1,17 @@
 {
   "plugin": "OpenDimensions",
-  "version": "1.1.2",
-  "released": "2026-11-04",
-  "notes": "- Deleting a sign deletes its dimensions\n- Dimensions resize correctly when the sign is scaled, also when they were selected with it\n- Text near the edge of a sign no longer counts toward its measured size",
+  "version": "1.1.3",
+  "released": "2026-11-05",
+  "notes": "- After moving a sign, the sign stays selected (not its dimensions), so arrow keys keep moving it",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.2/OpenDimensions-1.1.2-mac-2025.zip",
-      "sha256": "17484311d1e013888e0e2131f51d6879e26542cbd155eca1c6630363675119b9",
-      "size": 578376
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.3/OpenDimensions-1.1.3-mac-2025.zip",
+      "sha256": "710ce106125b1da915a562e237441d363c7abc41b612529279dd9fe1c65ab61e",
+      "size": 578381
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.2/OpenDimensions-1.1.2-win-2025.zip",
-      "sha256": "0a4bab0ce60408aea0a78fc8d9f3ae4bb7e4d1023b18b16c293d57c9e74a0b40",
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.3/OpenDimensions-1.1.3-win-2025.zip",
+      "sha256": "12410a17b912b6e90df489a2247ba05f4b01b9f92ff047568984be5580d7af47",
       "size": 358397
     }
   }
