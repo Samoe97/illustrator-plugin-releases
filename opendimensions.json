@@ -1,18 +1,18 @@
 {
   "plugin": "OpenDimensions",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "released": "2026-11-05",
-  "notes": "- Fixes a crash on the Mac when a document opens with the settings panel loaded\n- Redesigned settings panel: live preview of your dimension style, one scale row per layer with the current layer highlighted, foldable sections\n- Precision is one list: fractions for inches, decimal places for metric and decimal units\n- Pick the Auto tool's sides by clicking a square; menu to rebuild all dimensions or check for updates",
+  "notes": "- Fixes crashes on the Mac when a document opens or the settings panel draws\n- Redesigned settings panel: live preview of your dimension style, one scale row per layer with the current layer highlighted, foldable sections\n- Precision is one list: fractions for inches, decimal places for metric and decimal units\n- Pick the Auto tool's sides by clicking a square; menu to rebuild all dimensions or check for updates",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.2/OpenDimensions-1.2.2-mac-2025.zip",
-      "sha256": "b57a32622f50c94b857dc0a4eb7615f25ac1cf85b481f898077dab9cf148765a",
-      "size": 622591
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.3/OpenDimensions-1.2.3-mac-2025.zip",
+      "sha256": "1fe663fd99de7db9241b0d642f8563f20d14dd37692348bb2b1ba588db592f07",
+      "size": 625066
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.2/OpenDimensions-1.2.2-win-2025.zip",
-      "sha256": "b035bf19a91c36c02921da11a1f4a371f5b846fb247ceb442137b733b04b3f66",
-      "size": 394228
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.3/OpenDimensions-1.2.3-win-2025.zip",
+      "sha256": "ae2d8f7dfd63f9f03d57109d0968fece6089b255cd2bc1d02cf1c44afaa0b6d5",
+      "size": 394229
     }
   }
 }
