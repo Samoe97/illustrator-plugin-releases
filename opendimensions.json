@@ -1,18 +1,18 @@
 {
   "plugin": "OpenDimensions",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "released": "2026-11-05",
-  "notes": "- Redesigned settings panel: live preview of your dimension style, one scale row per layer with the current layer highlighted, foldable sections\n- Precision is one list: fractions for inches, decimal places for metric and decimal units\n- Pick the Auto tool's sides by clicking a square; menu to rebuild all dimensions or check for updates\n- Fixes the Mac build of 1.2.0",
+  "notes": "- Fixes a crash on the Mac when a document opens with the settings panel loaded\n- Redesigned settings panel: live preview of your dimension style, one scale row per layer with the current layer highlighted, foldable sections\n- Precision is one list: fractions for inches, decimal places for metric and decimal units\n- Pick the Auto tool's sides by clicking a square; menu to rebuild all dimensions or check for updates",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.1/OpenDimensions-1.2.1-mac-2025.zip",
-      "sha256": "eedeb0740b68d960ffd8d2acfb95173b10cd080b44ef67aa1f10ac717e1bf609",
-      "size": 622176
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.2/OpenDimensions-1.2.2-mac-2025.zip",
+      "sha256": "b57a32622f50c94b857dc0a4eb7615f25ac1cf85b481f898077dab9cf148765a",
+      "size": 622591
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.1/OpenDimensions-1.2.1-win-2025.zip",
-      "sha256": "14a2354e503837e59de09c6c3d1ec429fbc15f85c5116400bbe46629f6bb8889",
-      "size": 394220
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.2/OpenDimensions-1.2.2-win-2025.zip",
+      "sha256": "b035bf19a91c36c02921da11a1f4a371f5b846fb247ceb442137b733b04b3f66",
+      "size": 394228
     }
   }
 }
