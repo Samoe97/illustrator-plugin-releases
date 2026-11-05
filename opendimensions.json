@@ -1,18 +1,18 @@
 {
   "plugin": "OpenDimensions",
-  "version": "1.1.3",
+  "version": "1.2.1",
   "released": "2026-11-05",
-  "notes": "- After moving a sign, the sign stays selected (not its dimensions), so arrow keys keep moving it",
+  "notes": "- Redesigned settings panel: live preview of your dimension style, one scale row per layer with the current layer highlighted, foldable sections\n- Precision is one list: fractions for inches, decimal places for metric and decimal units\n- Pick the Auto tool's sides by clicking a square; menu to rebuild all dimensions or check for updates\n- Fixes the Mac build of 1.2.0",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.3/OpenDimensions-1.1.3-mac-2025.zip",
-      "sha256": "710ce106125b1da915a562e237441d363c7abc41b612529279dd9fe1c65ab61e",
-      "size": 578381
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.1/OpenDimensions-1.2.1-mac-2025.zip",
+      "sha256": "eedeb0740b68d960ffd8d2acfb95173b10cd080b44ef67aa1f10ac717e1bf609",
+      "size": 622176
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.1.3/OpenDimensions-1.1.3-win-2025.zip",
-      "sha256": "12410a17b912b6e90df489a2247ba05f4b01b9f92ff047568984be5580d7af47",
-      "size": 358397
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/opendimensions/1.2.1/OpenDimensions-1.2.1-win-2025.zip",
+      "sha256": "14a2354e503837e59de09c6c3d1ec429fbc15f85c5116400bbe46629f6bb8889",
+      "size": 394220
     }
   }
 }
