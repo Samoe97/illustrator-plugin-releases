@@ -1,18 +1,18 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "released": "2026-11-06",
-  "notes": "- CA R28 parking/stopping signs rebuilt with L/R and live text; L/R twins for one-way arrow signs; shop blank radii and filled borders; Highway Gothic legends in the 2024 set; SW24 school signs",
+  "notes": "- R28 Both variants, R28F P fix, all fields in the bottom panel, thumbnail values by default, search keeps best match",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.4/SignLibrary-0.3.4-mac-2025.zip",
-      "sha256": "6fee75eef63329ea86a258ebab45f1798c953bb7270f2ff8b31e1e03853e7ef4",
-      "size": 2296030
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.5/SignLibrary-0.3.5-mac-2025.zip",
+      "sha256": "52123a16743014986d19753feb893b909f98edc35a85124dda5d68383f622463",
+      "size": 2296097
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.4/SignLibrary-0.3.4-win-2025.zip",
-      "sha256": "2f2fa2d1d82d204d4b61a57e5b4ed79c1bdcc58e375a9727545e5ee3dd28071e",
-      "size": 1400209
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.5/SignLibrary-0.3.5-win-2025.zip",
+      "sha256": "263a3d50111296b732dc5b1b90bb31da55ac4394e1c47f4dd96ef3f90d5df8a8",
+      "size": 1400281
     }
   }
 }
