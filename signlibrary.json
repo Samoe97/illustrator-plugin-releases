@@ -1,18 +1,18 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "released": "2026-11-06",
-  "notes": "- Typable variable-width guide signs: destination, distance, bicycle and shared-use-path signs, jurisdiction and service plaques (pick the height, type each line, Auto or chosen width)\n- Bicycle / pedestrian symbol picker per line on bike and path guide signs\n- Live text on more signs from the 2004, 2012 and CA sets\n- Mac build fixes (0.3.0 and 0.3.1 did not publish)",
+  "notes": "- The panel always comes with the plug-in (fixes missing guide-sign options); missing thumbnails are made automatically in the background",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.2/SignLibrary-0.3.2-mac-2025.zip",
-      "sha256": "d1a25bd37b5f46345f47a215a803adf68c65ead885f83a0265dc542951121937",
-      "size": 2267798
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.3/SignLibrary-0.3.3-mac-2025.zip",
+      "sha256": "8f3519de4069d845836c0609a273e75868c034a457b6ffd21e575eac411fbc41",
+      "size": 2293794
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.2/SignLibrary-0.3.2-win-2025.zip",
-      "sha256": "c3daa508e9e269876cf73134e7ec1d7d3a37bb952ebc842c787852daa8bb5ea9",
-      "size": 1384612
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.3/SignLibrary-0.3.3-win-2025.zip",
+      "sha256": "18dda3912609556b9d98f195869fdc298eb99121b907aa0df1d40b50fd2feeca",
+      "size": 1399160
     }
   }
 }
