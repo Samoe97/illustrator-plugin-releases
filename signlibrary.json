@@ -1,18 +1,18 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.2.1",
-  "released": "2026-11-04",
-  "notes": "- Update checks work on Windows (the check used to fail with \"download failed (0x800c0005)\")\n- Clearer messages when an update check can't connect",
+  "version": "0.3.2",
+  "released": "2026-11-06",
+  "notes": "- Typable variable-width guide signs: destination, distance, bicycle and shared-use-path signs, jurisdiction and service plaques (pick the height, type each line, Auto or chosen width)\n- Bicycle / pedestrian symbol picker per line on bike and path guide signs\n- Live text on more signs from the 2004, 2012 and CA sets\n- Mac build fixes (0.3.0 and 0.3.1 did not publish)",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.2.1/SignLibrary-0.2.1-mac-2025.zip",
-      "sha256": "acb3c15f27b3929878b900c008c1bb951555f39d9ae306a514b8ba4af65ca581",
-      "size": 2140675
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.2/SignLibrary-0.3.2-mac-2025.zip",
+      "sha256": "d1a25bd37b5f46345f47a215a803adf68c65ead885f83a0265dc542951121937",
+      "size": 2267798
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.2.1/SignLibrary-0.2.1-win-2025.zip",
-      "sha256": "9773b47818c9e8cf3e81d0362aaf9efe4a38b5d8a8c206d8cbe9c2f9a94f86b0",
-      "size": 1311334
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.2/SignLibrary-0.3.2-win-2025.zip",
+      "sha256": "c3daa508e9e269876cf73134e7ec1d7d3a37bb952ebc842c787852daa8bb5ea9",
+      "size": 1384612
     }
   }
 }
