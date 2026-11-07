@@ -1,18 +1,18 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.5",
-  "released": "2026-11-06",
-  "notes": "- R28 Both variants, R28F P fix, all fields in the bottom panel, thumbnail values by default, search keeps best match",
+  "version": "0.3.6",
+  "released": "2026-11-07",
+  "notes": "- Mac installer (.dmg): choose the Illustrator versions, installs the plug-in, the sign library and the fonts\n- The plug-in finds a library in ~/Library/Application Support/SignLibrary/Library without any setting",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.5/SignLibrary-0.3.5-mac-2025.zip",
-      "sha256": "52123a16743014986d19753feb893b909f98edc35a85124dda5d68383f622463",
-      "size": 2296097
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.6/SignLibrary-0.3.6-mac-2025.zip",
+      "sha256": "11af2333a6136f7d166dcd8becbf7667d29dfec125f17d1f983fe4663b804dc2",
+      "size": 2296312
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.5/SignLibrary-0.3.5-win-2025.zip",
-      "sha256": "263a3d50111296b732dc5b1b90bb31da55ac4394e1c47f4dd96ef3f90d5df8a8",
-      "size": 1400281
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.6/SignLibrary-0.3.6-win-2025.zip",
+      "sha256": "7010d4536ced8080fcfb9b26c483ac942c9f8a4d585446585cc2559a94ffd735",
+      "size": 1400469
     }
   }
 }
