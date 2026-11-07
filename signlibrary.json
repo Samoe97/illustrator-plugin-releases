@@ -1,18 +1,18 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "released": "2026-11-07",
-  "notes": "- Mac installer (.dmg): choose the Illustrator versions, installs the plug-in, the sign library and the fonts\n- The plug-in finds a library in ~/Library/Application Support/SignLibrary/Library without any setting",
+  "notes": "- Mac installer: no false 'Illustrator is running', quits/opens the right Illustrator version\n- The panel says why the sign library didn't load (missing folder, no sign_library.db, macOS privacy); the library folder setting accepts ~/ paths",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.6/SignLibrary-0.3.6-mac-2025.zip",
-      "sha256": "11af2333a6136f7d166dcd8becbf7667d29dfec125f17d1f983fe4663b804dc2",
-      "size": 2296312
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.7/SignLibrary-0.3.7-mac-2025.zip",
+      "sha256": "eb9531c5e849bde8ff9b5e71fcb64a1d4f801718683d9f2723bae63f8016a3ec",
+      "size": 2300825
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.6/SignLibrary-0.3.6-win-2025.zip",
-      "sha256": "7010d4536ced8080fcfb9b26c483ac942c9f8a4d585446585cc2559a94ffd735",
-      "size": 1400469
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.7/SignLibrary-0.3.7-win-2025.zip",
+      "sha256": "8884448af6d8446f8cd014f57d3cc523985398c80f9ad95c891cfab602a9aa38",
+      "size": 1404634
     }
   }
 }
