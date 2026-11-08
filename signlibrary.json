@@ -1,18 +1,28 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "released": "2026-11-08",
-  "notes": "- 2009 set: invisible label boxes and leftover marks removed; L/R options for 37 more signs; type-in text for 138 signs (R8-3hP times, R3-12h distance, exit plaques, mile markers ...)\n- R3-1 / R3-2: clean red circle and slash, no gap at the arrow\n- R2-5aP / R2-5bP / R2-5cP 30x9 text centred; R3-8a right-side arrow fixed\n- Place tool: re-arming, Esc and panel reloads keep the armed state right; a double Enter places one sign\n- Settings changes are all saved; a stuck update shows Try again; Reload recovers the library",
+  "notes": "- Windows installer: installs into every Illustrator 2024 or newer, switches off duplicate copies, optional road-sign fonts, clean uninstall\n- One Windows build for Illustrator 2024 and every newer version\n- Type-in text for 104 more signs (W3-9 hours, W7-1a grade, W7-4 distance, exit plaques, route shields, mile markers ...)\n- Spec card: the ruler button (or S) shows the selected size's dimensions, corner radius, border, colours and legend series and heights, with a link to the official sheet\n- 2003 set: 40 more signs identified (I-series information signs, metric and white-on-blue versions, W9-2 left), sizes filled in; CA: names and sizes from the 2026 CA MUTCD",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.8/SignLibrary-0.3.8-mac-2025.zip",
-      "sha256": "e892bfc6849fcc947bb7e2c66b98c327d4937683c0c804f6d52ad4d3b887a87a",
-      "size": 2309609
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.9/SignLibrary-0.3.9-mac-2025.zip",
+      "sha256": "59d2ed4c97f2f304aa280e591f4fc5ee694acaae241b0cacc48bf980fea95261",
+      "size": 2320707
+    },
+    "win-2024": {
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.9/SignLibrary-0.3.9-win-2024.zip",
+      "sha256": "b3f2205f0e193b38ac7d52a0d0e7cc32cc49b52e21d828434f77cddd18df5a73",
+      "size": 1413098
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.8/SignLibrary-0.3.8-win-2025.zip",
-      "sha256": "f3f806f869179ed059a1669322c4753fc2a46de04c75133c1da638972101a0a3",
-      "size": 1408701
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.9/SignLibrary-0.3.9-win-2024.zip",
+      "sha256": "b3f2205f0e193b38ac7d52a0d0e7cc32cc49b52e21d828434f77cddd18df5a73",
+      "size": 1413098
+    },
+    "win-2026": {
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.9/SignLibrary-0.3.9-win-2024.zip",
+      "sha256": "b3f2205f0e193b38ac7d52a0d0e7cc32cc49b52e21d828434f77cddd18df5a73",
+      "size": 1413098
     }
   }
 }
