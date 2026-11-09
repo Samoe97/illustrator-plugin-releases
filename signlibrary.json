@@ -1,28 +1,28 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "released": "2026-11-09",
-  "notes": "- R3-1 family turn arrows are whole again (no white wedge at the head); W1-1R shows the mirror of W1-1L\n- Every circle-and-slash symbol (R3-1...R3-4, R9-13...R9-16, No Parking and more) is one clean red ring and slash\n- Sign artwork uses far fewer anchor points: outlines refitted to the original drawings",
+  "notes": "- Sign library updates: new and corrected signs now arrive in the panel (Update, no restart) without a new plug-in version\n- Custom sizes show their custom-size note again",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.10/SignLibrary-0.3.10-mac-2025.zip",
-      "sha256": "9648600e538066ed9594ab46d4def462f63965f41a0369322053d4cd594428c6",
-      "size": 2320760
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.11/SignLibrary-0.3.11-mac-2025.zip",
+      "sha256": "91b70db0b2d1022c88cf8688f6279874e2d6729e98a01f524a27c63f8d0818de",
+      "size": 2387220
     },
     "win-2024": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.10/SignLibrary-0.3.10-win-2024.zip",
-      "sha256": "edce6d731c626ceae1289105fab02b6eb8171f56df6046bb1d3d85f47e1256e3",
-      "size": 1413147
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.11/SignLibrary-0.3.11-win-2024.zip",
+      "sha256": "2b6bf3cd35a5257b63ded6c9a791157e7bf90b886dd39d367f14f323ccdc514a",
+      "size": 1452391
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.10/SignLibrary-0.3.10-win-2024.zip",
-      "sha256": "edce6d731c626ceae1289105fab02b6eb8171f56df6046bb1d3d85f47e1256e3",
-      "size": 1413147
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.11/SignLibrary-0.3.11-win-2024.zip",
+      "sha256": "2b6bf3cd35a5257b63ded6c9a791157e7bf90b886dd39d367f14f323ccdc514a",
+      "size": 1452391
     },
     "win-2026": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.10/SignLibrary-0.3.10-win-2024.zip",
-      "sha256": "edce6d731c626ceae1289105fab02b6eb8171f56df6046bb1d3d85f47e1256e3",
-      "size": 1413147
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.11/SignLibrary-0.3.11-win-2024.zip",
+      "sha256": "2b6bf3cd35a5257b63ded6c9a791157e7bf90b886dd39d367f14f323ccdc514a",
+      "size": 1452391
     }
   }
 }
