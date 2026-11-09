@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="33.956in" height="28.192in" viewBox="0 0 2444.832 2029.796">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-PENNANT</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-PENNANT Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M0 135.135C0 39.403 96.879 -25.913 185.625 9.987L2360.457 889.749C2472.957 935.258 2472.957 1094.538 2360.457 1140.046L185.625 2019.809C96.879 2055.708 0 1990.393 0 1894.66Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M877.5 474.898C877.5 482.354 871.456 488.398 864 488.398C856.544 488.398 850.5 482.354 850.5 474.898C850.5 467.442 856.544 461.398 864 461.398C871.456 461.398 877.5 467.442 877.5 474.898Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M877.5 1554.898C877.5 1562.354 871.456 1568.398 864 1568.398C856.544 1568.398 850.5 1562.354 850.5 1554.898C850.5 1547.442 856.544 1541.398 864 1541.398C871.456 1541.398 877.5 1547.442 877.5 1554.898Z"/>
+</svg>

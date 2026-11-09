@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="16.542in" viewBox="0 0 1728 1191.024">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p156-3</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p156-3</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 158.794,276.913 C 372.189,335.469 585.586,394.029 798.983,452.589 C 838.7,460.465 871.446,489.272 903.199,521.073 C 1137.437,744.39 1371.677,967.707 1605.918,1191.024 C 1646.61,1188.047 1687.305,1185.069 1728,1182.092 C 1465.969,843.641 1203.939,505.191 941.908,166.743 C 883.347,79.406 781.114,35.736 635.214,35.73 C 482.36,23.82 329.51,11.909 176.66,2.274E-13 C 70.46,2.98 11.903,41.688 0.98,116.125 C -8.955,200.995 57.55,247.644 158.794,276.913 Z"/>
+</svg>

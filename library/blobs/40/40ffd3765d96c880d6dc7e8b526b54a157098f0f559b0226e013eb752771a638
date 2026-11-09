@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="8.172in" height="12in" viewBox="0 0 588.38 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Archery</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Archery</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 472.258,551.428 L 477.676,559.123 C 621.942,398.245 630.107,149.507 473.18,0 L 470.056,2.958 L 260.024,259.19 L 6.596,259.19 L 6.596,305.348 L 138.318,320.747 L 153.72,479.609 L 0,864 L 74.65,858.952 L 241.585,561.595 L 406.309,858.952 L 476.662,864 L 327.247,479.609 L 335.689,392.383 L 472.258,551.428 M 479.971,536.013 L 336.518,365.249 L 342.668,320.747 L 551.317,305.348 C 542.693,390.265 521.686,470.269 479.971,536.013 M 282.859,258.094 L 478.038,23.02 C 523.987,84.202 547.012,169.24 551.317,259.19 L 282.859,258.094"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 206.457,115.705 C 238.473,115.705 264.62,141.836 264.62,173.858 C 264.62,205.853 238.473,231.997 206.457,231.997 C 174.462,231.997 148.318,205.853 148.318,173.858 C 148.318,141.836 174.462,115.705 206.457,115.705"/>
+</svg>

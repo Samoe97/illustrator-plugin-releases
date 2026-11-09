@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 864 1296" style="enable-background:new 0 0 864 1296;" xml:space="preserve">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>R26S(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<style type="text/css">
+	.st0{fill:#ffffff;stroke:#231f20;stroke-miterlimit:10;}
+	.st1{fill:#a6192e;}
+	.st2{fill:#ffffff;}
+	.st3{font-family:'HighwayGothicCondensed';}
+	.st4{font-size:376.1195px;}
+	.st5{font-size:322.3885px;}
+	.st6{letter-spacing:-6.1;}
+	.st7{letter-spacing:-18.4;}
+	.st8{letter-spacing:-12.3;}
+	.st9{font-size:241.791px;}
+	.st10{font-family:'HighwayGothicNarrow';}
+</style>
+<path d="M756 1296L108 1296C48.4 1296 0 1247.6 0 1188L0 108C0 48.4 48.4 0 108 0L756 0C815.6 0 864 48.4 864 108L864 1188C864 1247.6 815.6 1296 756 1296Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <g>
+	<path class="st1" d="M108,1278c-49.6,0-90-40.4-90-90V108c0-49.6,40.4-90,90-90h648c49.6,0,90,40.4,90,90v1080   c0,49.6-40.4,90-90,90H108z M756,1260c39.7,0,72-32.3,72-72V108c0-39.7-32.3-72-72-72H108c-39.7,0-72,32.3-72,72v1080   c0,39.7,32.3,72,72,72H756z"/>
+	<path class="st1" d="M414,414H18V108c0-49.7,40.3-90,90-90h306V414z"/>
+	<text transform="matrix(1 0 0 1 68.0647 350.9999)" class="st2 st3 st4">NO</text>
+	<text transform="matrix(0.8155 0 0 1 83.645 675)"><tspan x="0" y="0" class="st1 st3 st5 st6">STO</tspan><tspan x="330.4" y="0" class="st1 st3 st5 st7">PP</tspan><tspan x="546.4" y="0" class="st1 st3 st5 st8">I</tspan><tspan x="606.1" y="0" class="st1 st3 st5 st6">N</tspan><tspan x="730.2" y="0" class="st1 st3 st5">G</tspan></text>
+	<text transform="matrix(1.1829 0 0 1 258.248 900.0004)" class="st1 st3 st9">ANY</text>
+	<text transform="matrix(1.0625 0 0 1 218.7786 1125.0005)" class="st1 st10 st9">TIME</text>
+</g>
+</svg>

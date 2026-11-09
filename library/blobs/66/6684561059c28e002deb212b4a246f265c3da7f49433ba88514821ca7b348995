@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.19in" viewBox="0 0 864 589.703">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Picnic area</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Picnic area</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 864,271.477 L 637.813,271.477 L 576.969,63.396 L 696.927,63.295 L 696.927,0 L 165.064,0 L 164.976,63.764 L 289.85,63.665 L 229.179,271.111 L 0,271.111 L 0,325.141 L 212.812,325.141 L 134.513,589.703 L 226.465,589.703 L 304.491,325.141 L 558.599,325.141 L 635.726,589.703 L 731.665,589.703 L 652.996,325.5 L 864,325.5 L 864,271.477 M 321.119,271.459 L 382.235,63.467 L 482.733,63.375 L 542.117,271.459 L 321.119,271.459"/>
+</svg>

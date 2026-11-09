@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="24in" viewBox="0 0 3456 1728">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-RECT-H</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-RECT-H Border</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M0 135C0 60.442 60.442 0 135 0L3321 0C3395.558 0 3456 60.442 3456 135L3456 1593C3456 1667.558 3395.558 1728 3321 1728L135 1728C60.442 1728 0 1667.558 0 1593Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M27 135C27 75.353 75.353 27 135 27L3321 27C3380.647 27 3429 75.353 3429 135L3429 1593C3429 1652.647 3380.647 1701 3321 1701L135 1701C75.353 1701 27 1652.647 27 1593ZM72 135C72 100.206 100.206 72 135 72L3321 72C3355.794 72 3384 100.206 3384 135L3384 1593C3384 1627.794 3355.794 1656 3321 1656L135 1656C100.206 1656 72 1627.794 72 1593Z"/>
+</svg>

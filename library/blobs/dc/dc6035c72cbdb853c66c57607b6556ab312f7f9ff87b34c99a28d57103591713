@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="29.183in" height="28in" viewBox="0 0 2101.209 2016">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Recycling</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Recycling</title>
+<path fill="#231f20" d="M 449.196,1864.504 C 374.83,1866.041 304.647,1827.411 266.884,1762.868 L 29.742,1347.341 C 28.946,1345.947 27.351,1343.152 26.554,1341.756 C -10.906,1276.115 -8.268,1193.147 31.53,1129.715 L 224.092,796.875 L 105.311,728.175 L 505.314,721.752 L 699.216,1071.671 L 580.436,1002.971 L 350.087,1401.107 C 342.968,1411.341 342.402,1425.144 348.587,1435.981 C 354.899,1447.043 367.356,1453.56 379.759,1452.697 L 922.468,1452.48 L 922.808,1864.132"/>
+<path fill="#231f20" d="M 623.172,107.961 C 658.698,42.613 727.039,0.805 801.811,0.454 L 1280.246,0.454 C 1281.854,0.454 1285.068,0.454 1286.679,0.454 C 1362.255,0.454 1433.007,43.417 1468.371,109.425 L 1662.002,441.644 L 1780.542,372.533 L 1587.855,723.123 L 1187.834,718.088 L 1306.375,648.979 L 1074.766,251.573 C 1069.407,240.319 1057.7,232.987 1045.22,232.987 C 1032.486,232.987 1020.65,240.576 1015.251,251.773 L 746.438,723.231 L 388.743,519.487"/>
+<path fill="#231f20" d="M 2071.112,1148.677 C 2109.731,1212.247 2111.5,1292.343 2074.594,1357.376 L 1833.995,1770.911 C 1833.186,1772.301 1831.568,1775.081 1830.759,1776.472 C 1792.752,1841.795 1719.647,1881.117 1644.807,1878.489 L 1260.278,1878.784 L 1260.402,2016 L 1054.268,1673.143 L 1259.786,1329.916 L 1259.91,1467.133 L 1719.88,1466.789 C 1732.306,1467.819 1744.528,1461.388 1750.804,1450.601 C 1757.21,1439.592 1756.6,1425.548 1749.638,1415.251 L 1477.316,945.811 L 1833.302,739.097"/>
+</svg>

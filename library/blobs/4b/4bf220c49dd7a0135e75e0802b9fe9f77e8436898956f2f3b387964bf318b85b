@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2592 2592">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R3-27</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2592 2430A162 162 0 0 1 2430 2592L162 2592A162 162 0 0 1 0 2430L0 162A162 162 0 0 1 162 0L2430 0A162 162 0 0 1 2592 162Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2547 2430A117 117 0 0 1 2430 2547L162 2547A117 117 0 0 1 45 2430L45 162A117 117 0 0 1 162 45L2430 45A117 117 0 0 1 2547 162ZM2484 2430L2484 162A54 54 0 0 0 2430 108L162 108A54 54 0 0 0 108 162L108 2430A54 54 0 0 0 162 2484L2430 2484A54 54 0 0 0 2484 2430Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1159.3 889.1L1432.7 889.1L1432.7 2169L1159.3 2169Z" fill="#231f20"/>
+  <path d="M1602.18 995.49C1606.408 996.729 1610.709 997.312 1614.938 997.312C1640.088 997.312 1660.5 976.9 1660.5 951.75C1660.5 942.856 1657.948 933.889 1652.554 926.016L1296 405L939.446 926.016C934.052 933.889 931.5 942.856 931.5 951.75C931.5 976.9 951.912 997.312 977.062 997.312C981.291 997.312 985.592 996.729 989.82 995.49L1296 906.188Z" fill="#231f20"/>
+  <path d="M2430 1296C2430 1922.291 1922.291 2430 1296 2430C669.709 2430 162 1922.291 162 1296C162 669.709 669.709 162 1296 162C1922.291 162 2430 669.709 2430 1296ZM2214.158 1296C2214.158 788.915 1803.085 377.842 1296 377.842C1081.365 377.842 883.932 451.489 727.592 574.892L2017.108 1864.408C2140.511 1708.068 2214.158 1510.635 2214.158 1296ZM574.892 727.592C451.489 883.932 377.842 1081.365 377.842 1296C377.842 1803.085 788.915 2214.158 1296 2214.158C1510.635 2214.158 1708.068 2140.511 1864.408 2017.108L574.892 727.592Z" fill="#a6192e" fill-rule="evenodd"/>
+</svg>

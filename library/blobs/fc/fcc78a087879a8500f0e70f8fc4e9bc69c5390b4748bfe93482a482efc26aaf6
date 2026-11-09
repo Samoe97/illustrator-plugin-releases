@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="34.731in" height="32.543in" viewBox="0 0 2500.6 2343.063">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Truck rollover</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Truck rollover</title>
+<path fill="#231f20" d="M 340.6,145.263 c -1.9,-4.9 -4.4,-9.4 -7.4,-13.4 c -17.9,-23.8 -51.8,-28.6 -75.6,-10.6 c -8.4,6.3 -15.1,15.2 -18.7,25.9 l -238.9,709.1 l 747.5,-34.1 c 11.3,-0.5 21.6,-4.5 30,-10.8 c 23.8,-17.9 28.6,-51.8 10.6,-75.6 c -3,-4 -6.6,-7.6 -10.8,-10.8 l -302.9,-226.1 l -133.9,-353.5 Z"/>
+<path fill="#231f20" d="M 2176.6,1440.063 l 324,0 s 0,-216 0,-216 c 0,-132.3 -21.3,-262.9 -63.3,-388.4 c -42,-125.4 -103.6,-242.6 -183.2,-348.2 c -99.4,-131.9 -221.7,-240.5 -363.6,-322.6 c -68.2,-39.5 -140.6,-72.5 -215.3,-98.2 c -73.9,-25.4 -150.7,-43.8 -228.2,-54.7 c -77.5,-10.9 -156.4,-14.4 -234.5,-10.3 c -78.9,4.1 -157.6,15.9 -234,35 c -159,39.9 -306.6,110.5 -438.5,209.9 l -179.2,135.1 l 195,258.8 l 179.2,-135.1 c 97.1,-73.2 205.5,-125.1 322.3,-154.4 c 112.9,-28.3 228.8,-34.4 344.6,-18.1 c 115.8,16.3 225.6,54.1 326.3,112.4 c 104.2,60.3 194.1,140.1 267.2,237.2 c 58.5,77.7 103.9,163.8 134.7,256.1 c 30.9,92.2 46.5,188.3 46.5,285.6 l 0,216 Z"/>
+<path fill="#231f20" d="M 729.9,1598.263 l -34.2,-19.8 c -18.3,-10.6 -40.5,-8.7 -56.7,2.9 c 1.9,-19.8 -7.6,-40 -25.9,-50.5 l -34.2,-19.8 c -24.9,-14.4 -57.1,-5.8 -71.5,19.1 l -87.2,151 c -14.4,24.9 -5.8,57.1 19.1,71.5 l 34.2,19.8 c 18.3,10.6 40.5,8.7 56.7,-2.9 c -1.9,19.8 7.6,40 25.9,50.5 l 34.2,19.8 c 24.9,14.4 57.1,5.8 71.5,-19.1 l 87.2,-151 c 14.4,-24.9 5.8,-57.1 -19.1,-71.5 Z"/>
+<path fill="#231f20" d="M 551.567,1450.783 L 1082.817,530.631 L 1882.678,992.431 L 1351.428,1912.583 Z"/>
+<path fill="#231f20" d="M 1285.8,1919.163 l -34.2,-19.8 c -18.3,-10.6 -40.5,-8.7 -56.7,2.9 c 1.9,-19.8 -7.6,-40 -25.9,-50.5 l -34.2,-19.8 c -24.9,-14.4 -57.1,-5.8 -71.5,19.1 l -87.2,151 c -14.4,24.9 -5.8,57.1 19.1,71.5 l 34.2,19.8 c 18.3,10.6 40.5,8.7 56.7,-2.9 c -1.9,19.8 7.6,40 25.9,50.5 l 34.2,19.8 c 24.9,14.4 57.1,5.8 71.5,-19.1 l 87.2,-151 c 14.4,-24.9 5.8,-57.1 -19.1,-71.5 Z"/>
+<path fill="#231f20" d="M 100.6,2223.063 L 2164.6,2223.063 L 2164.6,2343.063 L 100.6,2343.063 Z"/>
+</svg>

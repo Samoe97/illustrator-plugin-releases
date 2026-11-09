@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18in" height="13.5in" viewBox="0 0 1296 972">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W7-5a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W7-5a</title>
+  <path d="M81 0L1215 0C1259.735 0 1296 36.265 1296 81L1296 891C1296 935.735 1259.735 972 1215 972L81 972C36.265 972 0 935.735 0 891L0 81C0 36.265 36.265 0 81 0Z" fill="#ffcd00"/>
+  <path d="M81 27L1215 27C1244.823 27 1269 51.177 1269 81L1269 891C1269 920.823 1244.823 945 1215 945L81 945C51.177 945 27 920.823 27 891L27 81C27 51.177 51.177 27 81 27ZM81 72C76.029 72 72 76.029 72 81L72 891C72 895.971 76.029 900 81 900L1215 900C1219.971 900 1224 895.971 1224 891L1224 81C1224 76.029 1219.971 72 1215 72L81 72Z" fill="#231f20" fill-rule="evenodd"/>
+  <path fill="#231f20" d="M451.612 660.563L396.866 660.563L396.866 510.271L270.849 510.271L270.849 660.563L216.103 660.563L216.103 314.53L270.849 314.53L270.849 454.493L396.866 454.493L396.866 314.53L451.612 314.53Z"/>
+  <path d="M588.353 660.563L588.353 314.549L532.616 314.549L532.616 660.563L588.353 660.563Z" fill="#231f20"/>
+  <path fill="#231f20" d="M884.243 660.563L669.405 660.563L669.405 314.549L724.147 314.549L724.147 604.788L884.243 604.788Z"/>
+  <path fill="#231f20" d="M1149.658 660.563L934.82 660.563L934.82 314.549L989.562 314.549L989.562 604.788L1149.658 604.788Z"/>
+</svg>

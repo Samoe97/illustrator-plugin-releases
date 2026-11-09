@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="11.794in" height="13.001in" viewBox="0 0 849.2 936.1">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Lane arrow: split (Y)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Lane arrow: split (Y)</title>
+<path fill="#231f20" d="M 488.4,936.1 l -128.2,0 l 0,-233.5 c 0,-55.1 -6.8,-109.9 -20.1,-162.8 c -13,-51.4 -32.2,-101.1 -57.1,-148 c -48.9,-92 -120,-172.4 -205.5,-232.4 l -77.5,-54.4 l 73.7,-105 l 77.5,54.4 c 102,71.5 186.7,167.4 245.1,277.2 c 29.8,56 52.7,115.5 68.2,176.8 c 15.9,63.2 24,128.5 24,194.2 l 0,233.5 Z"/>
+<path fill="#231f20" d="M 488.9,702.6 l -128.2,0 c 0,-65.7 8.1,-131.1 24,-194.2 c 15.5,-61.4 38.4,-120.9 68.2,-176.8 c 58.4,-109.8 143.1,-205.6 245.1,-277.2 l 77.5,-54.4 l 73.7,105 l -77.5,54.4 c -85.5,60 -156.6,140.4 -205.5,232.4 c -24.9,46.8 -44.1,96.6 -57.1,148 c -13.4,52.9 -20.1,107.7 -20.1,162.8 Z"/>
+</svg>

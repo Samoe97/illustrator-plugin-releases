@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 432" width="24in" height="6in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>G33-1P(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1650.6 0A77.4 77.4 0 0 1 1728 77.4L1728 354.6A77.4 77.4 0 0 1 1650.6 432L77.4 432A77.4 77.4 0 0 1 0 354.6L0 77.4A77.4 77.4 0 0 1 77.4 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1650.6 40.5A36.9 36.9 0 0 1 1687.5 77.4L1687.5 354.6A36.9 36.9 0 0 1 1650.6 391.5L77.4 391.5A36.9 36.9 0 0 1 40.5 354.6L40.5 77.4A36.9 36.9 0 0 1 77.4 40.5Z" fill="#006747"/>
+  <path d="M1177.643 86.427C1177.643 95.582 1170.221 103.005 1161.065 103.005C1151.909 103.005 1144.487 95.582 1144.487 86.427C1144.487 77.271 1151.909 69.849 1161.065 69.849C1170.221 69.849 1177.643 77.271 1177.643 86.427Z" fill="#ffffff"/>
+  <path d="M1172.478 351.179C1172.478 360.336 1165.054 367.759 1155.897 367.759C1146.741 367.759 1139.317 360.336 1139.317 351.179C1139.317 342.022 1146.741 334.599 1155.897 334.599C1165.054 334.599 1172.478 342.022 1172.478 351.179Z" fill="#ffffff"/>
+  <path d="M1372.688 221.203C1372.688 230.359 1365.265 237.781 1356.109 237.781C1346.953 237.781 1339.53 230.359 1339.53 221.203C1339.53 212.046 1346.953 204.624 1356.109 204.624C1365.265 204.624 1372.688 212.046 1372.688 221.203Z" fill="#ffffff"/>
+  <path d="M320.803 167.035L1162.677 167.388L1144.781 87.823L1172.333 72.599L1367.57 207.214L1367.082 234.066L1166.885 362.768L1140.551 345.426L1162.167 271.532L320.803 271.179Z" fill="#ffffff"/>
+</svg>

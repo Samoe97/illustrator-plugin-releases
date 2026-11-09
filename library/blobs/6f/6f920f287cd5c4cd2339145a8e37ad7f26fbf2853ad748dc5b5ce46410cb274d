@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="6.572in" viewBox="0 0 864 473.186">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Lighthouse</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Lighthouse</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 53.265,365.647 L 0,263.431 L 42.834,149.608 L 79.4,149.553 L 79.4,165.637 L 174.472,165.637 L 174.472,143.267 L 160.89,143.285 L 160.377,124.421 L 214.703,124.421 L 214.685,153.733 L 810.6,91.06 L 810.552,0.025 L 864,0 L 864,473.186 L 809.674,473.069 L 809.674,380.441 L 220.44,357.457 L 220.44,398.201 L 160.739,398.699 L 160.772,379.858 L 174.321,379.843 L 174.354,348.6 L 80.394,348.568 L 80.412,365.647 L 53.265,365.647 M 647.738,146.419 L 802.36,140.151 L 802.343,202.835 L 647.738,208.059 L 647.738,146.419"/>
+</svg>

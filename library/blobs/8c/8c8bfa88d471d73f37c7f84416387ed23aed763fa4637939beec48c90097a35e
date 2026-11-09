@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2027.376 11016" width="28.158in" height="153in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-TURN-THRU-NARROW</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1076.482 4682.697L1542.957 0L2027.376 4682.697L1704.431 4072.691L1722.371 11016L1399.426 11016C1399.964 11013.039 1399.563 11001.831 1399.552 10999.06C1399.508 10988.361 1399.425 10977.661 1399.345 10966.962C1399.273 10957.576 1399.198 10948.189 1399.124 10938.803C1398.98 10920.607 1398.837 10902.452 1398.702 10884.297C1398.534 10861.681 1398.376 10839.066 1398.233 10816.451C1397.897 10763.313 1397.638 10710.175 1397.459 10657.036C1397.217 10584.891 1397.12 10512.745 1397.167 10440.6C1397.223 10354.574 1397.481 10268.548 1397.938 10182.524C1398.192 10134.815 1398.507 10087.107 1398.884 10039.4L1399.691 9948.17C1399.837 9934.009 1399.994 9919.847 1400.153 9905.686C1400.36 9887.241 1400.572 9868.796 1400.772 9850.351C1400.874 9841.007 1400.973 9831.716 1401.068 9822.371C1402.152 9715.268 1402.62 9608.155 1401.221 9501.052C1398.394 9284.823 1388.325 9068.461 1363.949 8853.515C1339.681 8639.527 1301.46 8425.204 1237.342 8219.341C1147.671 7931.434 1001.211 7646.224 753.538 7463.609L932.951 9365.396L0 6494.775L932.951 4234.164L753.538 6046.242C794.196 6076.595 832.77 6109.72 869.05 6145.187C1094.028 6365.129 1218.532 6662.29 1322.22 6953.68C1339.049 7000.974 1355.421 7048.428 1371.727 7095.904C1377.276 7112.061 1382.815 7128.221 1388.364 7144.377C1390.207 7149.745 1392.05 7155.112 1393.896 7160.479C1395.738 7165.835 1397.581 7171.191 1399.426 7176.547L1381.485 4054.75L1076.482 4682.697Z" fill="#231f20"/>
+</svg>

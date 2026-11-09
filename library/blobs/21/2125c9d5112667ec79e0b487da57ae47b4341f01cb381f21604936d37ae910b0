@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1296 1242.265" width="18in" height="17.254in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-COUNTY</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1210.606 216.657A144 144 0 0 1 1288.661 393.483L1007.345 1242.265L288.655 1242.265L7.339 393.483A144 144 0 0 1 85.394 216.657L501.418 31.194A360 360 0 0 1 794.582 31.194Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M662.02 1170.265C662.02 1178.008 655.743 1184.286 648 1184.286C640.256 1184.286 633.979 1178.008 633.979 1170.265C633.979 1162.522 640.256 1156.244 648 1156.244C655.743 1156.244 662.02 1162.522 662.02 1170.265ZM661.021 1170.265C661.021 1163.073 655.191 1157.243 648 1157.243C640.808 1157.243 634.978 1163.073 634.978 1170.265C634.978 1177.457 640.808 1183.287 648 1183.287C655.191 1183.287 661.021 1177.457 661.021 1170.265Z" fill="#231f20"/>
+  <path d="M662.02 90.265C662.02 98.008 655.743 104.286 648 104.286C640.256 104.286 633.979 98.008 633.979 90.265C633.979 82.522 640.256 76.244 648 76.244C655.743 76.244 662.02 82.522 662.02 90.265ZM661.021 90.265C661.021 83.073 655.191 77.243 648 77.243C640.808 77.243 634.978 83.073 634.978 90.265C634.978 97.457 640.808 103.287 648 103.287C655.191 103.287 661.021 97.457 661.021 90.265Z" fill="#231f20"/>
+</svg>

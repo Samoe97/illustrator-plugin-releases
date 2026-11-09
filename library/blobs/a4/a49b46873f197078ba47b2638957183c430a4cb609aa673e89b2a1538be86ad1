@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="9.63in" height="12in" viewBox="0 0 693.345 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Gas</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Gas</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,803.181 L 184.196,803.181 L 184.196,31.545 L 184.441,31.524 C 184.441,14.258 198.77,0.36 216.04,0.36 C 216.162,0.36 216.125,0.173 216.186,0.173 L 493.436,0 C 510.583,0 524.786,14.445 524.963,31.582 L 524.973,85.025 L 599.938,146.507 C 613.826,156.992 622.931,173.633 623.835,190.953 C 623.767,299.124 623.835,396.362 623.835,481.703 C 623.835,579.202 681.659,652.858 681.659,726.888 C 681.659,764.088 651.124,794.433 614.145,794.433 C 582.957,794.433 553.853,769.91 545.482,739.358 C 532.291,691.207 539.425,437.902 538.861,381.937 L 524.786,381.937 L 524.786,803.181 L 693.345,803.181 L 693.345,864 L 0,864 L 0,803.181 M 574.515,360.681 C 574.515,346.531 562.976,334.992 549.098,334.965 L 524.103,333.973 L 524.103,132.388 L 538.735,143.672 L 538.735,224.041 L 588.015,223.993 C 588.749,315.401 589.48,406.81 590.211,498.218 C 590.353,589.225 642.6,669.665 644.14,722.055 C 644.653,739.47 629.929,753.691 612.507,753.691 C 603.612,753.691 591.679,749.157 584.178,736.693 C 562.986,701.478 574.865,406.334 574.515,360.681 M 250.572,43.699 L 457.683,43.699 C 468.828,43.699 477.947,52.818 477.947,63.966 L 477.947,222.141 C 477.947,233.286 468.828,242.405 457.683,242.405 L 250.572,242.405 C 239.427,242.405 230.305,233.286 230.305,222.141 L 230.305,63.966 C 230.305,52.818 239.427,43.699 250.572,43.699"/>
+</svg>

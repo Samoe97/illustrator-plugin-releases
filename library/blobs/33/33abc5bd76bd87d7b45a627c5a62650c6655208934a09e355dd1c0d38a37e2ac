@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="11.842in" height="12in" viewBox="0 0 852.63 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Fishing</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Fishing</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 1.172,852.03 C 26.937,805.963 52.705,759.895 78.47,713.83 C 52.313,673.228 26.157,632.625 0,592.026 C 52.313,622.867 104.626,653.708 156.939,684.55 C 243.656,620.816 342.718,577.287 463.792,569.774 C 621.55,550.188 740.22,599.008 847.945,666.982 C 837.404,682.206 826.862,697.432 816.324,712.658 C 828.034,724.369 839.748,736.082 851.458,747.793 C 760.533,814.637 648.832,862.512 486.047,863.741 C 393.912,867.257 286.553,835.243 156.939,751.306 C 105.018,784.883 53.093,818.457 1.172,852.03 M 747.807,651.756 C 755.87,651.756 762.447,658.333 762.447,666.396 C 762.447,674.46 755.87,681.037 747.807,681.037 C 739.743,681.037 733.169,674.46 733.169,666.396 C 733.169,658.333 739.743,651.756 747.807,651.756"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 832.234,331.657 C 843.926,334.592 852.63,345.205 852.63,357.786 C 852.63,369.381 845.237,379.304 834.926,383.088 C 834.926,427.82 834.926,472.554 834.926,517.285 C 830.764,536.764 819.795,547.166 802.02,548.491 C 791.52,549.435 781.498,546.599 772.518,535.441 C 760.224,517.852 760.791,497.993 774.218,475.867 C 779.702,491.375 785.187,503.858 790.671,513.312 C 787.645,512.746 785.375,512.934 783.864,513.882 C 785.753,523.903 791.429,528.632 800.884,528.065 C 813.586,525.62 815.653,517.863 816.203,509.342 C 816.203,467.226 816.203,425.106 816.203,382.99 C 806.026,379.137 798.754,369.286 798.754,357.786 C 798.754,346.119 806.239,336.144 816.649,332.415 L 816.649,0 L 832.234,0 L 832.234,331.657 M 826.78,347.543 C 832.36,347.543 836.911,352.093 836.911,357.671 C 836.911,363.251 832.36,367.802 826.78,367.802 C 821.2,367.802 816.649,363.251 816.649,357.671 C 816.649,352.093 821.2,347.543 826.78,347.543"/>
+</svg>

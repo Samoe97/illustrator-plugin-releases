@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="26.25in" height="26.25in" viewBox="0 0 1890 1890">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>No pedestrians</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>No pedestrians</title>
+<path fill="#a6192e" d="M 945,0 c -521.9,0 -945,423.1 -945,945 s 423.1,945 945,945 s 945,-423.1 945,-945 S 1466.9,0 945,0 Z M 1710,945 c 0,178.8 -61.4,343.3 -164.2,473.6 L 471.4,344.2 c 130.3,-102.8 294.7,-164.2 473.6,-164.2 c 422.5,0 765,342.5 765,765 Z M 180,945 c 0,-178.8 61.4,-343.3 164.2,-473.6 l 1074.4,1074.4 c -130.3,102.8 -294.7,164.2 -473.6,164.2 c -422.5,0 -765,-342.5 -765,-765 Z"/>
+<path fill="#231f20" d="M 495,892.9 l 207.2,-138.1 c 9.6,-40.5 49.3,-220.2 129,-261.8 c 78.9,-52.2 370,162.2 371.7,164 l 0,312.8 l -63.1,-11 l -24.7,-249.7 c -23.8,-4.8 -47.6,-9.6 -71.3,-14.3 c 52,134.3 71.1,263.8 41.2,349.1 l 126.2,515.9 l -85.1,60.4 l -183.8,-477.4 l -85.1,90.6 l -118,359.5 l -112.5,-41.2 l 101.5,-378.7 l 118,-211.3 l -45.2,-155.9 l -48.1,62.6 l -225,74.1 l -32.9,-49.4 Z"/>
+<path fill="#231f20" d="M 794.1,270 c 54.4,0 98.8,44.4 98.8,98.8 s -44.4,98.8 -98.8,98.8 s -98.8,-44.4 -98.8,-98.8 s 44.4,-98.8 98.8,-98.8 Z"/>
+</svg>

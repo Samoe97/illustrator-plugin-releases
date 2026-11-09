@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="3.718in" viewBox="0 0 864 267.686">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Motorboating</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Motorboating</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,134.801 C 124.855,130.174 249.711,125.548 374.564,120.921 C 366.929,92.568 359.294,64.215 351.659,35.861 C 308.98,38.22 266.303,40.579 223.625,42.938 C 221.892,34.755 220.16,26.574 218.427,18.392 C 329.516,12.262 440.604,6.13 551.693,0 C 567.944,37.288 584.193,74.576 600.444,111.863 C 688.296,107.819 776.148,103.774 864,99.727 C 834.301,146.839 804.603,193.949 774.906,241.061 C 760.232,275.249 722.085,268.227 705.333,239.795 C 670.166,271.705 618.816,278.955 588.785,235.795 C 567.997,283.832 498.902,274.076 477.914,230.016 C 459.184,278.128 388.105,277.402 363.077,235.452 C 336.141,277.038 268.476,279.311 246.53,231.451 C 216.949,279.379 161.993,277.946 126.051,236.783 C 96.241,280.494 25.796,274.674 13.54,217.81 C 9.026,190.14 4.514,162.471 0,134.801 M 421.719,34.51 L 537.743,30.107 L 569.873,113.859 L 443.643,118.285 L 421.719,34.51"/>
+</svg>

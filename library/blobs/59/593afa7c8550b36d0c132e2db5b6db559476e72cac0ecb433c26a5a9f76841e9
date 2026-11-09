@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="22.434in" height="31.703in" viewBox="0 0 1615.236 2282.631">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Lane ends (merge)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Lane ends (merge)</title>
+<path fill="#231f20" d="M 267.287,1315.149 l 547.245,-547.246 c 62.998,-62.998 112.228,-136.676 146.322,-218.987 c 34.094,-82.311 51.381,-169.219 51.381,-258.311 l 0,-290.606 s -378,0 -378,0 l 0,290.606 c 0,39.201 -7.606,77.44 -22.607,113.657 c -15.002,36.217 -36.663,68.635 -64.382,96.354 l -547.246,547.247 l 267.287,267.286 Z"/>
+<path fill="#231f20" d="M 1471.236,2282.631 l 144,0 s 0,-2016.002 0,-2016.002 l -144,0 s 0,23.976 0,23.976 c 0,74.486 -7.398,149.267 -21.99,222.265 c -14.456,72.318 -36.1,143.543 -64.33,211.699 c -28.231,68.154 -63.291,133.823 -104.205,195.182 c -41.3,61.935 -88.946,120.045 -141.615,172.714 l -547.247,547.247 l 101.824,101.823 l 547.246,-547.246 c 59.355,-59.356 113.053,-124.846 159.599,-194.648 c 25.684,-38.518 49.319,-78.539 70.719,-119.715 l 0,1402.705 Z"/>
+</svg>

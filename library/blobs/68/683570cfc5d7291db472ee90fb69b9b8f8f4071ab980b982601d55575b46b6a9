@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="20.945in" height="21.608in" viewBox="0 0 1508.04 1555.792">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Laptop computer</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Laptop computer</title>
+<path fill="#231f20" d="M 921.382,963.95 l -145.934,-488.995 c -4.303,-10.705 -15.248,-21.65 -36.17,-18.089 l -711.542,82.527 c -29.381,6.626 -30.322,22.747 -25.593,42.653 l 157.315,556.278 c 5.688,19.895 24.637,20.837 39.094,16.975 l 702.331,-156.735 c 31.655,-6.954 20.5,-34.615 20.5,-34.615 Z M 224.182,1093.515 l -138.929,-504.295 l 646.835,-84.72 l 134.125,450.353 l -642.031,138.662 Z"/>
+<path fill="#231f20" d="M 1321.359,1308.456 c -0.023,-4.085 0.06,-25.087 0.038,-26.668 c -0.038,-2.548 -4.485,-4.665 -6.979,-4.163 c -4.838,0.967 -14.168,4.588 -14.168,4.588 l 0,0.051 c -80.597,28.568 -617.809,221.094 -617.809,221.094 c 0,0 -28.634,13.563 -48.225,-4.518 l -428.024,-305.944 c -11.014,-7.679 -16.54,1.478 -17.762,5.538 c -1.499,6.03 -6.367,23.083 10.214,36.655 l 422.008,310.479 s 25.622,16.568 55.763,7.523 c 0,0 638.812,-237.066 638.82,-237.11 c 6.911,-2.834 6.16,-3.775 6.122,-7.525 Z"/>
+<path fill="#231f20" d="M 1297.449,1242.362 l -361.981,-213.708 c -11.148,-7.732 -30.161,-9.037 -43.713,-4.518 l -660.034,144.726 s -9.343,2.842 3.011,12.059 l 406.931,287.864 s 12.051,10.556 27.126,6.03 l 629.224,-220.083 c 7.324,-2.781 5.582,-9.018 -0.563,-12.37 Z M 844.076,1366.977 l -100.315,-67.4 l 190.28,-56.862 l 105.243,60.282 l -195.208,63.98 Z"/>
+<path fill="#231f20" d="M 1449.168,166.226 l 0,682.179 l -52.614,0 l 0,-682.179 c -34.18,-11.08 -58.902,-43.164 -58.902,-81.032 c 0,-47.055 38.153,-85.194 85.201,-85.194 c 47.048,0 85.186,38.139 85.186,85.194 c 0,37.868 -24.699,69.952 -58.872,81.032 Z"/>
+</svg>

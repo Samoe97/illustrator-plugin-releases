@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="6.492in" viewBox="0 0 864 467.429">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Playground</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Playground</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 662.982,72.752 C 642.947,72.752 626.605,56.412 626.605,36.375 C 626.605,16.34 642.947,0 662.982,0 C 683.017,0 699.359,16.34 699.359,36.375 C 699.359,56.412 683.017,72.752 662.982,72.752"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 123.74,187.823 C 103.705,187.823 87.363,171.483 87.363,151.446 C 87.363,131.411 103.705,115.071 123.74,115.071 C 143.777,115.071 160.117,131.411 160.117,151.446 C 160.117,171.483 143.777,187.823 123.74,187.823"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 203.28,333.138 L 230.847,369.946 L 196.743,396.673 L 133.844,348.604 L 8.775,376.355 L 0,333.925 C 14.992,331.18 29.51,327.411 44.504,324.666 C 41.587,320.853 38.985,317.721 36.068,313.908 C 26.406,301.741 25.424,290.141 33.127,279.103 L 89.909,186.169 C 104.741,188.857 119.575,191.544 134.409,194.23 C 155.582,208.522 176.753,222.812 197.926,237.102 C 204.47,241.721 207.235,248.094 206.22,256.218 L 203.804,267.099 L 213.046,287.019 L 641.102,194.469 L 641.102,172.51 L 634.332,163.655 C 629.993,156.711 629.819,149.769 633.811,142.824 C 647.005,120.95 660.198,99.077 673.391,77.204 C 685.717,68.526 698.041,59.844 710.367,51.166 L 800.984,111.577 C 812.615,118.347 816.608,129.284 812.961,144.387 C 811.92,149.073 810.879,153.008 809.838,157.695 C 824.593,153.877 839.35,151.186 854.105,147.365 L 864,189.55 L 738.865,217.006 L 702.034,287.081 L 659.851,277.188 L 669.37,232.196 L 203.28,333.138 M 122.81,271.948 L 136.337,231.801 L 185.959,255.857 L 197.786,290.907 L 173.371,296.237 L 122.81,271.948 M 716.617,142.824 L 687.453,112.098 L 652.561,154.801 L 656.58,191.575 L 680.972,186.135 L 716.617,142.824"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 474.944,467.429 L 474.944,325.072 L 431.923,286.354 L 387.73,325.072 L 387.73,467.429 L 474.944,467.429"/>
+</svg>

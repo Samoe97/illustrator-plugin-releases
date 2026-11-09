@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4708.6 4708.6" style="enable-background:new 0 0 4708.6 4708.6;" xml:space="preserve">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>C12(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<style type="text/css">
+	.st0{fill:#ffcd00;}
+	.st1{fill:#231f20;}
+	.st2{font-family:'HighwayGothic';}
+	.st3{font-size:859.7015px;}
+	.st4{letter-spacing:-7;}
+</style>
+<path class="st0" d="M2201.5,4645.3L63.3,2507c-84.4-84.4-84.4-221.1,0-305.5L2201.5,63.3c84.4-84.4,221.1-84.4,305.5,0
+	l2138.3,2138.3c84.4,84.4,84.4,221.1,0,305.5L2507,4645.3C2422.7,4729.7,2285.9,4729.7,2201.5,4645.3z"/>
+<path class="st1" d="M2354.3,4654.6c-43.3,0-83.9-16.9-114.6-47.5L101.4,2468.8c-63.2-63.2-63.2-165.9,0-229.1L2239.7,101.4
+	C2270.3,70.8,2311,54,2354.3,54s83.9,16.9,114.6,47.4l2138.3,2138.3c63.2,63.2,63.2,165.9,0,229.1L2468.8,4607.1
+	C2438.2,4637.7,2397.6,4654.6,2354.3,4654.6z M2405.2,4543.5l2138.3-2138.3c28.1-28.1,28.1-73.8,0-101.8L2405.2,165.1
+	c-13.8-13.8-31.4-21.1-50.9-21.1s-37.1,7.3-50.9,21.1L165.1,2303.4c-28.1,28.1-28.1,73.8,0,101.8l2138.3,2138.3
+	c13.8,13.8,31.4,21.1,50.9,21.1S2391.4,4557.3,2405.2,4543.5z"/>
+<text transform="matrix(1 0 0 1 862.7205 2348.5183)" class="st1 st2 st3">NARROW</text>
+<text transform="matrix(1 0 0 1 1202.7213 3356.5183)" class="st1 st2 st3 st4">LANES</text>
+</svg>

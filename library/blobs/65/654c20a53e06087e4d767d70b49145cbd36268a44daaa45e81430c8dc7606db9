@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="27.876in" height="39in" viewBox="0 0 2007.062 2808.015">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Reverse curve (W1-4)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Reverse curve (W1-4)</title>
+<path fill="#231f20" d="M 1192.316,1049.753 c 7.56,2.205 15.182,3.247 22.679,3.25 c 44.735,0 81.004,-36.275 81.004,-81.01 c 0.014,-15.783 -4.57,-31.734 -14.156,-45.743 l -633.843,-926.25 l -633.843,926.25 c -9.586,14.009 -14.171,29.96 -14.156,45.743 c 0,44.735 36.269,81.01 81.003,81.01 c 7.497,-0.003 15.12,-1.046 22.679,-3.25 l 544.317,-158.759 l 544.317,158.759 Z"/>
+<path fill="#231f20" d="M 1521.062,2808.015 l 486,0 s 0,-432.002 0,-432.002 c 0,-114.017 -28.294,-227.493 -81.82,-328.162 c -53.527,-100.67 -131.783,-187.581 -226.307,-251.337 l -713.987,-481.591 c -58.792,-39.656 -93.893,-105.67 -93.893,-176.586 l 0,-277.715 s -486,0 -486,0 l 0,277.715 c 0,114.015 28.293,227.491 81.819,328.162 c 53.527,100.669 131.782,187.581 226.306,251.337 l 713.988,481.591 c 58.794,39.656 93.894,105.67 93.894,176.587 l 0,432.002 Z"/>
+</svg>

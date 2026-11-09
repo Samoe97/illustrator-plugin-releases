@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="24in" viewBox="0 0 2160 1728">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-RECT-H</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-RECT-H Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M0 108C0 48.353 48.353 0 108 0L2052 0C2111.647 0 2160 48.353 2160 108L2160 1620C2160 1679.647 2111.647 1728 2052 1728L108 1728C48.353 1728 0 1679.647 0 1620Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M1093.5 216C1093.5 223.456 1087.456 229.5 1080 229.5C1072.544 229.5 1066.5 223.456 1066.5 216C1066.5 208.544 1072.544 202.5 1080 202.5C1087.456 202.5 1093.5 208.544 1093.5 216Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M1093.5 1512C1093.5 1519.456 1087.456 1525.5 1080 1525.5C1072.544 1525.5 1066.5 1519.456 1066.5 1512C1066.5 1504.544 1072.544 1498.5 1080 1498.5C1087.456 1498.5 1093.5 1504.544 1093.5 1512Z"/>
+</svg>

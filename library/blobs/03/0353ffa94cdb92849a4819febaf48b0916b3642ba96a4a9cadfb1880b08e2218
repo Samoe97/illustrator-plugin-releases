@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W16-5P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M864 540A108 108 0 0 1 756 648L108 648A108 108 0 0 1 0 540L0 108A108 108 0 0 1 108 0L756 0A108 108 0 0 1 864 108Z" fill="#ffcd00"/>
+  <path d="M837 540A81 81 0 0 1 756 621L108 621A81 81 0 0 1 27 540L27 108A81 81 0 0 1 108 27L756 27A81 81 0 0 1 837 108ZM810 540L810 108A54 54 0 0 0 756 54L108 54A54 54 0 0 0 54 108L54 540A54 54 0 0 0 108 594L756 594A54 54 0 0 0 810 540Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M117 266.6L552.8 266.6L552.8 381.4L117 381.4Z" fill="#231f20"/>
+  <path d="M499.04 452.52C498.52 454.295 498.275 456.1 498.275 457.875C498.275 468.432 506.843 477 517.4 477C521.133 477 524.897 475.929 528.202 473.665L746.9 324L528.202 174.335C524.897 172.071 521.133 171 517.4 171C506.843 171 498.275 179.568 498.275 190.125C498.275 191.9 498.52 193.705 499.04 195.48L536.525 324Z" fill="#231f20"/>
+</svg>

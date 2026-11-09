@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="36in" viewBox="0 0 864 2592">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>OM3-L</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>OM3-L</title>
+<path d="M108 0L756 0C815.647 0 864 48.353 864 108L864 2484C864 2543.647 815.647 2592 756 2592L108 2592C48.353 2592 0 2543.647 0 2484L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+<path d="M0 1337.184L0 1011.168L864 1875.168L864 2201.184L0 1337.184ZM0 705.672L0 379.656L864 1243.656L864 1569.672L0 705.672ZM0 1968.696L0 1642.68L862.019 2504.698C852.363 2554.443 808.567 2592 756 2592L623.304 2592L0 1968.696ZM108 0L251.856 0L864 612.144L864 938.16L4.136 78.296C17.039 33.093 58.655 0 108 0ZM108 2592C48.353 2592 0 2543.647 0 2484L0 2274.192L317.808 2592L108 2592ZM557.352 0L756 0C815.647 0 864 48.353 864 108L864 306.648L557.352 0Z" fill="#231f20"/>
+</svg>

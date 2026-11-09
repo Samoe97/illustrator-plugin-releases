@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>I3-5</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 2025A135 135 0 0 1 2025 2160L135 2160A135 135 0 0 1 0 2025L0 135A135 135 0 0 1 135 0L2025 0A135 135 0 0 1 2160 135Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2106 2025A81 81 0 0 1 2025 2106L135 2106A81 81 0 0 1 54 2025L54 135A81 81 0 0 1 135 54L2025 54A81 81 0 0 1 2106 135Z" fill="#006747"/>
+  <path d="M1183.846 283.846C1183.846 226.58 1137.266 180 1080 180C1022.734 180 976.154 226.58 976.154 283.846L976.154 855C716.538 1009.013 456.923 1163.027 197.308 1317.04L197.308 1507.425L976.154 1270.385L976.154 1685.769L803.077 1824.231L803.077 1980L1080 1893.462L1356.923 1980L1356.923 1824.231L1183.846 1685.769L1183.846 1270.385L1962.692 1507.425L1962.692 1317.04L1183.846 855L1183.846 283.846Z" fill="#ffffff"/>
+</svg>

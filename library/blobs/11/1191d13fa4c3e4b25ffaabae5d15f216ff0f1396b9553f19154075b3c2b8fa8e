@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="10in" viewBox="0 0 864 719.998">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Turn left (W1-1)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Turn left (W1-1)</title>
+<path fill="#231f20" d="M 379.077,37.441 c 0.796,-2.73 1.172,-5.482 1.174,-8.19 c 0,-16.154 -13.099,-29.251 -29.254,-29.251 c -5.699,-0.005 -11.46,1.65 -16.518,5.112 l -334.479,228.888 l 334.479,228.888 c 5.059,3.462 10.819,5.117 16.518,5.112 c 16.154,0 29.254,-13.097 29.254,-29.251 c -0.001,-2.707 -0.378,-5.46 -1.174,-8.19 l -57.33,-196.559 l 57.33,-196.559 Z"/>
+<path fill="#231f20" d="M 661.5,321.73 c 14.912,0 27,12.088 27,27 l 0,371.268 s 175.5,0 175.5,0 l 0,-528.768 c 0,-24.853 -20.147,-45 -45,-45 l -508.22,0 s 0,175.5 0,175.5 l 350.72,0 Z"/>
+</svg>

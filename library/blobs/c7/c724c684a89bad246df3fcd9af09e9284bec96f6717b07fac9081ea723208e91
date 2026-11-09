@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="24in" viewBox="0 0 1728 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D5-5a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D5-5a</title>
+  <path d="M108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 1620C1728 1679.647 1679.647 1728 1620 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 36L1620 36C1659.765 36 1692 68.235 1692 108L1692 1620C1692 1659.765 1659.765 1692 1620 1692L108 1692C68.235 1692 36 1659.765 36 1620L36 108C36 68.235 68.235 36 108 36Z" fill="#002f6c"/>
+  <path d="M151.649 779.513L151.649 689.516L430.635 689.516L430.635 779.513Z" fill="#ffffff" fill-rule="evenodd"/>
+  <path d="M1297.594 779.513L1297.594 689.516L1576.582 689.516L1576.582 779.513Z" fill="#ffffff" fill-rule="evenodd"/>
+  <path d="M430.635 434.527L430.635 344.533L1297.594 344.533L1297.594 434.527Z" fill="#ffffff" fill-rule="evenodd"/>
+  <path d="M1364.671 1343.485L1231.678 908.505L1576.582 908.505L1576.582 821.509L1205.081 821.509L1099.604 476.526L946.612 476.526L1052.089 821.509L680.221 821.509L785.699 476.526L632.704 476.526L527.227 821.509L151.649 821.509L151.649 908.505L500.63 908.505L367.64 1343.485L520.631 1343.485L653.624 908.505L1078.687 908.505L1211.677 1343.485Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

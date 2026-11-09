@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="37.608in" viewBox="0 0 1728 2707.776">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p121-2</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p121-2</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 1728,722.275 C 1728,301.71 1398.859,4.547E-13 905.144,4.547E-13 C 576,4.547E-13 329.143,118.855 164.572,329.139 C 54.856,475.421 9.144,630.849 0,877.703 L 448,877.703 C 466.286,603.42 603.428,466.279 886.858,466.279 C 1115.428,466.279 1261.714,575.993 1261.714,740.561 C 1261.714,877.703 1197.714,1005.7 1051.43,1133.699 L 960.001,1225.127 C 886.858,1289.127 886.858,1289.127 859.429,1316.554 C 786.287,1389.697 749.714,1453.696 713.143,1535.981 C 676.572,1636.551 667.428,1709.692 658.286,1956.547 L 1051.43,1956.547 C 1060.571,1801.121 1060.571,1782.833 1078.857,1709.692 C 1115.428,1590.837 1152.001,1545.123 1298.285,1426.268 C 1636.572,1151.984 1728,1005.7 1728,722.275 Z M 621.716,2459.397 C 621.716,2596.539 722.287,2707.776 859.429,2707.776 C 996.571,2707.776 1097.143,2596.539 1097.143,2459.397 C 1097.143,2322.257 996.571,2221.686 859.429,2221.686 C 722.287,2221.686 621.716,2322.257 621.716,2459.397"/>
+</svg>

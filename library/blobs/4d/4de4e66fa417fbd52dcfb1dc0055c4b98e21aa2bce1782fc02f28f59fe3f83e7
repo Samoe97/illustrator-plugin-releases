@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="26.25in" height="8.75in" viewBox="0 0 1890 630">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Truck (tractor-trailer)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Truck (tractor-trailer)</title>
+<path fill="#231f20" d="M 504,0 l 1386,0 l 0,498.276 l -135.983,0 c 2.811,14.167 2.811,28.747 0,42.914 c -11.851,59.723 -69.874,98.531 -129.599,86.681 c -59.725,-11.85 -98.535,-69.872 -86.684,-129.595 l -525.655,0 l -104.542,-104.539 l -403.536,0 l 0,-393.737 M 464.625,79.584 l -181.125,0 c -41.549,0 -78.223,27.137 -90.371,66.869 l -43.622,142.678 l -78.75,0 c -17.397,0 -31.5,14.103 -31.5,31.499 l 0,177.646 l -39.257,0 l 0,42.807 l 135.962,0 c 11.792,59.735 69.777,98.6 129.514,86.809 c 43.863,-8.658 78.154,-42.948 86.812,-86.809 l 66.805,0 l 0,-42.807 l 172.743,0 c -11.851,59.723 26.959,117.745 86.684,129.595 c 59.725,11.85 117.749,-26.958 129.599,-86.681 c 2.811,-14.167 2.811,-28.747 0,-42.914 l 126,0 l -65.167,-65.165 l -404.327,0 l 0,-353.527"/>
+</svg>

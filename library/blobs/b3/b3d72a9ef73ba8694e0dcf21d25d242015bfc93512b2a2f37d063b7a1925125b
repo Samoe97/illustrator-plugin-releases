@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 864 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D10-1</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M864 1620A108 108 0 0 1 756 1728L108 1728A108 108 0 0 1 0 1620L0 108A108 108 0 0 1 108 0L756 0A108 108 0 0 1 864 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M828 1620A72 72 0 0 1 756 1692L108 1692A72 72 0 0 1 36 1620L36 108A72 72 0 0 1 108 36L756 36A72 72 0 0 1 828 108Z" fill="#006747"/>
+  <path d="M714.613 540L604.571 540L604.571 252L710.744 252L710.744 289.397L640.679 289.397L640.679 363.331L687.532 363.331L687.532 401.588L640.679 401.588L640.679 502.603L714.613 502.603Z" fill="#ffffff"/>
+  <path d="M354.207 540L354.207 252L391.646 252L391.646 540Z" fill="#ffffff"/>
+  <path d="M564.781 540L454.739 540L454.739 252L490.847 252L490.847 502.603L564.781 502.603Z" fill="#ffffff"/>
+  <path d="M291.387 540L255.28 540L255.28 369.349L220.892 477.242L185.214 369.349L185.214 540L149.107 540L149.107 252L180.486 252L220.892 369.349L259.578 252L291.387 252Z" fill="#ffffff"/>
+  <path d="M693.671 1296.538L624.895 1296.538L624.895 1476L510.985 1476L510.985 1296.538L170.329 1296.538L170.329 1192.3L510.985 756.003L624.895 756.003L624.895 1193.374L693.671 1193.374ZM510.985 1193.374L510.985 935.465L306.806 1193.374Z" fill="#ffffff"/>
+</svg>

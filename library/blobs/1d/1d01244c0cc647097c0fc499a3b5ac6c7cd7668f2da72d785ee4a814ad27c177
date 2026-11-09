@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="11.047in" viewBox="0 0 864 795.409">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Drinking water</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Drinking water</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 4.377,0 L 864,141.568 L 862.542,639.246 L 0,795.409 L 1.458,706.382 L 776.434,567.733 L 773.515,226.218 L 2.919,89.027 C 2.919,89.027 5.838,0 4.377,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 118.216,658.218 C 151.299,609.083 143.513,565.788 94.865,528.326 C 138.894,482.354 141.813,439.544 84.65,401.352 C 151.178,348.569 146.069,300.408 91.946,255.407 C 124.541,216.003 127.947,176.596 102.164,137.191 C 120.161,137.678 146.919,142.542 164.92,143.029 C 196.169,175.14 213.214,214.031 166.381,258.326 C 203.353,300.895 208.704,346.624 167.839,396.975 C 208.217,441.734 209.675,484.544 172.219,525.407 C 202.14,560.676 216.251,599.597 195.567,646.542 C 169.784,650.435 144,654.328 118.216,658.218"/>
+</svg>

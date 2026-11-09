@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="11.377in" height="12in" viewBox="0 0 819.127 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Parking (P)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Parking (P)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 332.038,474.099 L 444.669,474.099 C 593.869,474.099 664.079,462.443 721.126,430.055 C 782.559,392.491 819.127,322.543 819.127,240.936 C 819.127,163.215 786.948,98.446 726.975,58.289 C 667.005,18.132 585.091,0 462.222,0 L 0,0 L 0,98.446 L 46.806,98.446 C 119.943,98.446 127.255,106.219 127.255,177.464 L 127.255,686.536 C 127.255,757.781 119.943,765.554 46.806,765.554 L 0,765.554 L 0,864 L 469.537,864 L 469.537,765.554 L 412.49,765.554 C 339.353,765.554 332.038,757.781 332.038,686.536 L 332.038,474.099 M 332.038,375.652 L 332.038,98.446 L 403.712,98.446 C 476.849,98.446 503.179,101.036 529.507,110.105 C 579.242,126.944 605.569,172.281 605.569,235.753 C 605.569,281.089 590.943,318.657 566.075,340.678 C 538.285,366.586 497.327,375.652 412.49,375.652"/>
+</svg>

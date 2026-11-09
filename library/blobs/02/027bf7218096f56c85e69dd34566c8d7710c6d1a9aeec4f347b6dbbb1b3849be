@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="16.365in" height="7.75in" viewBox="0 0 1178.3 558.006">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Arrow (curved left)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Arrow (curved left)</title>
+<path fill="#231f20" d="M 277.3,354.006 c 267.1,-177.7 605.7,-209.3 901,-84 l 0,-234 c -345.2,-93.9 -714.5,-1.3 -974.4,244.6 l -58.5,-170.3 c -6.5,-18.8 -26.9,-28.8 -45.7,-22.3 c -12.4,4.3 -21.6,15 -23.8,28 l -75.9,442 l 442,-75.9 c 19.6,-3.4 32.8,-22 29.4,-41.6 c -2.2,-13 -11.3,-23.7 -23.8,-28 l -170.3,-58.5 Z"/>
+</svg>

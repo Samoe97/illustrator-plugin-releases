@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 432 1080">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D10-2</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M432 1026A54 54 0 0 1 378 1080L54 1080A54 54 0 0 1 0 1026L0 54A54 54 0 0 1 54 0L378 0A54 54 0 0 1 432 54Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M405 1026A27 27 0 0 1 378 1053L54 1053A27 27 0 0 1 27 1026L27 54A27 27 0 0 1 54 27L378 27A27 27 0 0 1 405 54Z" fill="#006747"/>
+  <path d="M357.306 288L302.285 288L302.285 144L355.372 144L355.372 162.699L320.339 162.699L320.339 199.666L343.766 199.666L343.766 218.794L320.339 218.794L320.339 269.301L357.306 269.301Z" fill="#ffffff"/>
+  <path d="M177.104 288L177.104 144L195.823 144L195.823 288Z" fill="#ffffff"/>
+  <path d="M282.39 288L227.369 288L227.369 144L245.423 144L245.423 269.301L282.39 269.301Z" fill="#ffffff"/>
+  <path d="M145.694 288L127.64 288L127.64 202.675L110.446 256.621L92.607 202.675L92.607 288L74.553 288L74.553 144L90.243 144L110.446 202.675L129.789 144L145.694 144Z" fill="#ffffff"/>
+</svg>

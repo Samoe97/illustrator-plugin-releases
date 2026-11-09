@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="24in" viewBox="0 0 3456 1728">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-RECT-H</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-RECT-H Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M0 135C0 60.442 60.442 0 135 0L3321 0C3395.558 0 3456 60.442 3456 135L3456 1593C3456 1667.558 3395.558 1728 3321 1728L135 1728C60.442 1728 0 1667.558 0 1593Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M661.5 216C661.5 223.456 655.456 229.5 648 229.5C640.544 229.5 634.5 223.456 634.5 216C634.5 208.544 640.544 202.5 648 202.5C655.456 202.5 661.5 208.544 661.5 216Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M661.5 1512C661.5 1519.456 655.456 1525.5 648 1525.5C640.544 1525.5 634.5 1519.456 634.5 1512C634.5 1504.544 640.544 1498.5 648 1498.5C655.456 1498.5 661.5 1504.544 661.5 1512Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M2821.5 216C2821.5 223.456 2815.456 229.5 2808 229.5C2800.544 229.5 2794.5 223.456 2794.5 216C2794.5 208.544 2800.544 202.5 2808 202.5C2815.456 202.5 2821.5 208.544 2821.5 216Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M2821.5 1512C2821.5 1519.456 2815.456 1525.5 2808 1525.5C2800.544 1525.5 2794.5 1519.456 2794.5 1512C2794.5 1504.544 2800.544 1498.5 2808 1498.5C2815.456 1498.5 2821.5 1504.544 2821.5 1512Z"/>
+</svg>

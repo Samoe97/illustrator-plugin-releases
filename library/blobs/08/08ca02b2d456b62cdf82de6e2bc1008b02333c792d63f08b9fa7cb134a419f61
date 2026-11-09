@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="6in" height="24in" viewBox="0 0 432 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D10-3</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D10-3</title>
+  <path d="M51.94 0L380.06 0C408.746 0 432 23.254 432 51.94L432 1676.06C432 1704.746 408.746 1728 380.06 1728L51.94 1728C23.254 1728 0 1704.746 0 1676.06L0 51.94C0 23.254 23.254 0 51.94 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M51.94 17.267L380.06 17.267C399.209 17.267 414.733 32.791 414.733 51.94L414.733 1676.06C414.733 1695.209 399.209 1710.733 380.06 1710.733L51.94 1710.733C32.791 1710.733 17.267 1695.209 17.267 1676.06L17.267 51.94C17.267 32.791 32.791 17.267 51.94 17.267Z" fill="#006747"/>
+  <path d="M176.306 388.798L144.826 388.798L108.442 317.837L92.702 334.351L92.702 388.798L64.834 388.798L64.834 227.007L92.702 213.073L92.702 299L127.279 262.616L162.372 262.616L129.085 297.194Z" fill="#ffffff"/>
+  <path d="M366.992 388.798L339.955 388.798L339.955 307.168Q340.212 299.701 333.646 292.361Q327.079 285.023 317.551 285.28Q308.281 285.28 302.487 291.975Q296.693 298.67 296.951 307.168L296.951 388.798L267.853 388.798L267.853 307.168Q268.11 299.185 261.673 292.104Q255.235 285.023 245.707 285.28Q237.209 285.538 231.158 292.104Q225.106 298.67 224.849 307.168L224.849 388.798L196.523 388.798L196.523 260.817L224.334 260.817L224.334 268.542Q235.922 259.272 251.63 259.272Q273.002 259.272 285.106 277.04Q297.466 259.529 319.354 259.529Q338.152 259.529 352.444 273.95Q366.735 288.37 366.992 307.683Z" fill="#ffffff"/>
+</svg>

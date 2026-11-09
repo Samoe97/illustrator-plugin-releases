@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="72in" height="30in" viewBox="0 0 5184 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>E5-1bP</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>E5-1bP</title>
+  <path d="M215.998 0L4968.002 0C5087.294 0 5184 96.706 5184 215.998L5184 1944.002C5184 2063.294 5087.294 2160 4968.002 2160L215.998 2160C96.706 2160 0 2063.294 0 1944.002L0 215.998C0 96.706 96.706 0 215.998 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M215.998 108L4968.002 108C5027.647 108 5076 156.352 5076 215.998L5076 1944.002C5076 2003.648 5027.647 2052 4968.002 2052L215.998 2052C156.352 2052 108 2003.648 108 1944.002L108 215.998C108 156.352 156.352 108 215.998 108Z" fill="#006747"/>
+  </svg>

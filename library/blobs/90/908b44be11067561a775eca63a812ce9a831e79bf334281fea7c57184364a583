@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="10.518in" height="12.249in" viewBox="0 0 757.3 881.925">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Curve left (W1-2)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Curve left (W1-2)</title>
+<path fill="#231f20" d="M 294.4,405.325 c 0,2.7 -0.4,5.4 -1.2,7.9 c -4.5,14.9 -20.2,23.3 -35,18.8 c -5.2,-1.6 -10.1,-4.7 -13.8,-9.3 l -244.4,-303.5 l 371.4,-117.9 c 5.6,-1.8 11.4,-1.7 16.6,-0.1 c 14.9,4.5 23.3,20.2 18.8,35 c -0.8,2.5 -1.9,4.9 -3.4,7.2 l -107.3,165.1 l -1.8,196.9 Z"/>
+<path fill="#231f20" d="M 757.3,881.925 l -168.8,0 l 0,-233.5 c -0.1,-37.4 -6.2,-74.5 -18,-110.3 c -11.7,-35.4 -28.8,-68.7 -50.7,-98.9 c -45.5,-62.6 -108.4,-107.5 -182,-130.1 l -76.2,-22.9 l 48.7,-161.6 l 76.6,23.1 c 55,16.8 106.4,42.3 152.8,75.9 c 44.7,32.3 84,71.5 116.6,116.4 c 32.2,44.3 57.2,93.1 74.4,145.1 c 17.4,52.7 26.3,107.5 26.5,162.7 l 0,234 Z"/>
+</svg>

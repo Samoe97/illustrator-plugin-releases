@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="18in" viewBox="0 0 1728 1296">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>W16-5P</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>W16-5pR</title>
+<path fill="#ffcd00" d="M108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 1188C1728 1247.647 1679.647 1296 1620 1296L108 1296C48.353 1296 0 1247.647 0 1188L0 108C0 48.353 48.353 0 108 0Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M108 28.8L1620 28.8C1663.741 28.8 1699.2 64.259 1699.2 108L1699.2 1188C1699.2 1231.741 1663.741 1267.2 1620 1267.2L108 1267.2C64.259 1267.2 28.8 1231.741 28.8 1188L28.8 108C28.8 64.259 64.259 28.8 108 28.8ZM107.961 71.601C87.705 71.601 71.284 88.022 71.284 108.278L71.284 1188.198C71.284 1208.454 87.705 1224.875 107.961 1224.875L1620.04 1224.875C1640.296 1224.875 1656.717 1208.454 1656.717 1188.198L1656.717 108.278C1656.717 88.022 1640.296 71.601 1620.04 71.601L107.961 71.601Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 320.964,560.233 L 1099.967,560.502 L 1065.496,460.09 C 1062.473,454.627 1061.507,448.092 1060.611,441.826 C 1057.906,422.906 1077.146,405.018 1097.418,405.018 C 1106.905,405.018 1116.258,408.901 1123.012,415.373 L 1460.124,649.843 L 1123.012,893.245 C 1116.254,899.714 1106.906,903.597 1097.418,903.597 C 1077.143,903.597 1058.804,887.06 1060.606,866.787 C 1061.167,860.485 1062.478,853.99 1065.496,848.525 L 1099.967,744.568 L 320.964,743.466 Z"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M7-1</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M7-1</title>
+  <path d="M108 0L756 0C815.647 0 864 48.353 864 108L864 540C864 599.647 815.647 648 756 648L108 648C48.353 648 0 599.647 0 540L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 27L756 27C800.735 27 837 63.265 837 108L837 540C837 584.735 800.735 621 756 621L108 621C63.265 621 27 584.735 27 540L27 108C27 63.265 63.265 27 108 27Z" fill="#006747"/>
+  <path d="M340.673 174.915C350.406 168.284 363.742 170.829 370.361 180.581C374.983 187.389 373.953 193.933 371.496 202.766L352.466 266.677L743.637 266.677L743.637 382.607L352.466 382.607L371.95 447.569C373.984 455.594 374.782 462.344 370.361 468.856C363.742 478.607 350.406 481.152 340.673 474.521L119.777 324.597Z" fill="#ffffff"/>
+</svg>

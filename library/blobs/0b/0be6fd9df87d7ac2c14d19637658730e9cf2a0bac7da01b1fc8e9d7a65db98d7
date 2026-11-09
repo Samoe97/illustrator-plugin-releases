@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="9.925in" height="12in" viewBox="0 0 714.585 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Locker</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Locker</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 235.565,0 C 272.982,0 305.195,22.997 318.806,55.577 L 575.585,55.577 L 596.716,91.026 L 561.267,129.202 L 523.774,129.202 L 501.277,108.752 L 482.19,128.523 L 475.372,128.523 L 453.558,108.752 L 434.47,128.523 L 411.974,108.07 L 388.795,129.202 L 317.026,128.72 C 302.53,159.177 271.438,180.318 235.565,180.318 C 185.907,180.318 145.406,139.816 145.406,90.159 C 145.406,40.502 185.907,0 235.565,0 M 217.344,55.577 C 237.433,55.577 253.815,71.963 253.815,92.051 C 253.815,112.137 237.433,128.523 217.344,128.523 C 197.256,128.523 180.873,112.137 180.873,92.051 C 180.873,71.963 197.256,55.577 217.344,55.577"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,211.549 L 714.585,211.549 L 714.585,864 L 0,864 Z M 42.13,250.015 L 672.455,250.015 L 672.455,825.533 L 42.13,825.533 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 158.304,395.006 L 303.291,395.006 L 303.291,360.139 C 303.291,354.904 307.573,350.622 312.81,350.622 L 403.255,350.622 C 408.492,350.622 412.774,354.904 412.774,360.139 L 412.774,395.006 L 559.241,395.006 C 566.565,395.006 572.558,400.998 572.558,408.322 L 572.558,668.71 C 572.558,676.033 566.565,682.023 559.241,682.023 L 158.304,682.023 C 150.98,682.023 144.987,676.033 144.987,668.71 L 144.987,408.322 C 144.987,400.998 150.98,395.006 158.304,395.006 M 322.606,368.206 L 393.283,368.206 L 393.283,394.796 L 322.606,394.796 Z"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="25.177in" viewBox="0 0 1728 1812.744">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p157-1</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p157-1</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 862.32,4.547E-13 C 1020.636,4.547E-13 1149.759,129.122 1149.759,287.439 C 1149.759,418.371 1061.432,529.328 941.323,563.796 L 941.323,1648.698 C 1178.196,1621.529 1347.507,1497.231 1469.136,1304.396 C 1428.793,1278.623 1388.451,1252.848 1348.109,1227.073 C 1469.136,1171.044 1590.163,1115.013 1711.191,1058.981 C 1716.793,1192.335 1722.396,1325.689 1728,1459.041 C 1686.535,1434.388 1645.073,1409.735 1603.611,1385.08 C 1411.396,1687.172 1127.853,1823.902 864,1812.034 C 600.146,1823.902 316.604,1687.172 124.389,1385.08 C 82.926,1409.735 41.464,1434.388 0,1459.041 C 5.603,1325.689 11.207,1192.335 16.809,1058.981 C 137.836,1115.013 258.864,1171.044 379.891,1227.073 C 339.549,1252.848 299.206,1278.623 258.864,1304.396 C 378.759,1494.483 544.989,1617.977 776.591,1647.482 L 776.591,561.776 C 659.924,525.16 574.879,415.917 574.879,287.439 C 574.879,129.122 704.003,4.547E-13 862.32,4.547E-13 Z"/>
+<path fill="#ffffff" fill-rule="evenodd" d="M 862.32,161.369 C 931.757,161.369 988.389,218 988.389,287.436 C 988.389,356.873 931.757,413.505 862.32,413.505 C 792.883,413.505 736.251,356.873 736.251,287.436 C 736.251,218 792.883,161.369 862.32,161.369 Z"/>
+</svg>

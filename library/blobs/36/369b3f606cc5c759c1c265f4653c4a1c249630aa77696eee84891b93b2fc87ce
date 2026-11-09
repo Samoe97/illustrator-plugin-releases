@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M7-5</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M7-5</title>
+  <path d="M108 0L756 0C815.647 0 864 48.353 864 108L864 540C864 599.647 815.647 648 756 648L108 648C48.353 648 0 599.647 0 540L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 27L756 27C800.735 27 837 63.265 837 108L837 540C837 584.735 800.735 621 756 621L108 621C63.265 621 27 584.735 27 540L27 108C27 63.265 63.265 27 108 27Z" fill="#006747"/>
+  <path d="M570.205 174.915L791.102 324.597L570.205 474.521C560.473 481.152 547.136 478.607 540.517 468.856C536.097 462.344 536.895 455.594 538.928 447.569L558.414 382.607C504.927 382.607 360.254 382.607 306.765 382.607L326.25 447.569C328.285 455.594 329.082 462.344 324.661 468.856C318.042 478.607 304.706 481.152 294.973 474.521L74.078 324.597L294.972 174.915C304.706 168.284 318.042 170.829 324.661 180.58C329.283 187.389 328.254 193.933 325.796 202.766L306.765 266.677C360.254 266.677 504.927 266.677 558.414 266.677L539.382 202.766C536.925 193.933 535.895 187.389 540.517 180.58C547.136 170.829 560.473 168.284 570.205 174.915Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

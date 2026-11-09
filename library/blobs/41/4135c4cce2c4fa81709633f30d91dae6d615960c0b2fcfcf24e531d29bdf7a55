@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="18in" viewBox="0 0 1728 1296">
+<title>C23BP(CA)</title>
+<path fill="none" stroke="#231f20" stroke-width="3.751" d="M 1728,52.439 C 1728,26.22 1705.461,-2.132E-14 1675.409,-2.132E-14 L 52.591,-2.132E-14 C 22.539,-2.132E-14 -2.274E-13,26.22 -2.274E-13,52.439 L -2.274E-13,1243.561 C -2.274E-13,1273.526 22.539,1296 52.591,1296 L 1675.409,1296 C 1705.461,1296 1728,1273.526 1728,1243.561 Z"/>
+<path fill="none" stroke="#231f20" stroke-width="18.755" d="M 1716.73,74.913 C 1716.73,44.948 1690.435,22.474 1660.383,22.474 L 71.374,22.474 C 41.322,22.474 18.783,44.948 18.783,74.913 L 18.783,1224.832 C 18.783,1254.798 41.322,1281.017 71.374,1281.017 L 1660.383,1281.017 C 1690.435,1281.017 1716.73,1254.798 1716.73,1224.832 Z"/>
+<text x="180.313" y="543.121" font-family="'Roadgeek 2005 Series C', sans-serif" font-size="429.439" fill="#231f20" textLength="1369.459" lengthAdjust="spacingAndGlyphs">HIGHWAY</text>
+<text x="97.67" y="1048.786" font-family="'Roadgeek 2005 Series C', sans-serif" font-size="428.81" fill="#231f20" textLength="1533.112" lengthAdjust="spacingAndGlyphs">WIDENING</text>
+</svg>

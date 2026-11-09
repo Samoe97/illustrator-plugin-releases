@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.86in" viewBox="0 0 864 637.936">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Post office</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Post office</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,0 L 864,0 L 864,637.936 L 0,637.936 Z M 763.354,57.291 L 97.547,57.291 C 198.194,156.389 299.496,254.823 399.483,354.582 C 416.439,371.497 444.554,371.409 461.418,354.582 C 561.41,254.825 662.71,156.389 763.354,57.291 M 798.856,537.401 L 798.969,102.194 L 582.194,315.871 L 798.856,537.401 M 99.096,580.646 L 761.806,580.646 L 541.934,357.678 C 526.451,373.161 512.658,390.544 495.483,404.13 C 446.652,442.761 414.249,442.758 365.419,404.13 C 348.246,390.544 334.45,373.161 318.967,357.678 L 99.096,580.646 M 61.935,102.194 L 62.132,536.894 L 278.71,315.871 L 61.935,102.194"/>
+</svg>

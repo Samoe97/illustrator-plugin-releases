@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3600 3600" style="enable-background:new 0 0 3600 3600;" xml:space="preserve">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>C19(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<style type="text/css">
+	.st0{fill:#ffcd00;}
+	.st1{fill:#231f20;}
+	.st2{font-family:'HighwayGothic';}
+	.st3{font-size:537.3136px;}
+</style>
+<path class="st0" d="M1685.4,3518.3L81.7,1914.6c-63.3-63.3-63.3-165.8,0-229.1L1685.4,81.7c63.3-63.3,165.8-63.3,229.1,0
+	l1603.7,1603.7c63.3,63.3,63.3,165.8,0,229.1L1914.6,3518.3C1851.3,3581.5,1748.7,3581.5,1685.4,3518.3z"/>
+<path class="st1" d="M113.6,1882.7c-45.6-45.6-45.6-119.8,0-165.5L1717.3,113.6c45.6-45.6,119.8-45.6,165.5,0l1603.7,1603.7
+	c45.6,45.6,45.6,119.8,0,165.5L1882.7,3486.4c-45.6,45.6-119.8,45.6-165.5,0L113.6,1882.7z M1761.8,3441.9
+	c21.1,21.1,55.3,21.1,76.4,0l1603.7-1603.7c21.1-21.1,21.1-55.3,0-76.4L1838.2,158.1c-21.1-21.1-55.3-21.1-76.4,0L158.1,1761.8
+	c-21.1,21.1-21.1,55.3,0,76.4L1761.8,3441.9z"/>
+<g>
+	<text transform="matrix(1 0 0 1 1187.4712 1313.9995)" class="st1 st2 st3">ROAD</text>
+	<text transform="matrix(1 0 0 1 932.2478 1961.9996)" class="st1 st2 st3">CLOSED</text>
+	<text transform="matrix(1 0 0 1 1038.364 2609.9995)" class="st1 st2 st3">AHEAD</text>
+</g>
+</svg>

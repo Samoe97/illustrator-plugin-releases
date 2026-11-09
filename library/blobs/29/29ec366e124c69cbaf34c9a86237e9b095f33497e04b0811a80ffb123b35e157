@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.723in" viewBox="0 0 864 628.069">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Amphitheater</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Amphitheater</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 344.527,0 L 520.366,0 C 529.699,0 537.332,7.635 537.332,16.966 L 537.332,123.396 C 537.332,132.729 529.699,140.364 520.366,140.364 L 344.527,140.364 C 335.194,140.364 327.559,132.729 327.559,123.396 L 327.559,16.966 C 327.559,7.635 335.194,0 344.527,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 705.149,273.708 C 694.867,257.769 684.583,241.832 674.3,225.893 C 522.616,333.388 341.651,333.388 189.968,225.893 C 179.684,241.832 169.402,257.769 159.119,273.708 C 322.476,393.395 541.794,393.395 705.149,273.708"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 432.025,444.974 C 321.754,446.808 209.976,415.785 110.003,347.745 C 96.556,363.684 92.36,371.912 78.911,387.851 C 185.707,465.241 309.33,501.489 432.025,500.193 C 554.721,501.489 678.345,465.241 785.14,387.851 C 771.691,371.912 767.495,363.684 754.046,347.745 C 654.075,415.785 542.297,446.808 432.025,444.974"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 432,628.039 C 582.396,629.338 726.407,587.236 864,492.29 C 847.515,476.351 842.372,468.126 825.888,452.187 C 714.212,521.899 601.442,576.327 432,572.821 C 262.558,576.327 149.788,521.899 38.112,452.187 C 21.628,468.126 16.485,476.351 0,492.29 C 137.593,587.236 281.604,629.338 432,628.039"/>
+</svg>

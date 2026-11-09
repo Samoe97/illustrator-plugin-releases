@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 432 576" width="6in" height="8in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>C20B(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M405 0A27 27 0 0 1 432 27L432 549A27 27 0 0 1 405 576L27 576A27 27 0 0 1 0 549L0 27A27 27 0 0 1 27 0Z" fill="#e57200"/>
+  <path d="M355.265 428.632L355.265 503.113L68.713 503.113C70.13 471.745 74.76 439.731 90.421 412.016C103.765 388.4 123.89 369.629 145.263 353.324C153.167 347.295 161.376 341.716 169.459 335.937C190.774 320.698 212.247 305.459 232.125 288.351C248.731 274.059 265.266 257.593 270.909 235.73C272.829 228.29 273.549 220.599 273.753 212.935C274.232 194.881 271.649 175.903 260.575 161.04C249.664 146.395 232.836 139.773 214.91 139.649C197.346 139.527 180.88 145.577 169.779 159.608C159.408 172.719 155.459 189.816 154.538 206.199C154.134 213.393 154.321 220.656 154.321 227.838L74.056 227.838C74.056 212.46 73.971 197.263 76.296 182.035C81.035 150.996 94.54 121.179 119.148 100.942C141.085 82.901 169.062 74.404 197.056 72.292C243.879 68.76 294.6 80.432 326.484 117.099C350.758 145.014 358.852 181.54 356.714 217.778C355.915 231.327 353.476 244.794 348.475 257.45C340.387 277.918 326.039 295.035 310.206 310.015C288.013 331.012 262.796 348.28 238.359 366.482C229.719 372.917 221.134 379.438 212.808 386.276C197.376 398.95 185.31 410.623 176.32 428.632L355.265 428.632Z" fill="#231f20"/>
+</svg>

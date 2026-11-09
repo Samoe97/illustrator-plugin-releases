@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="21.109in" height="38in" viewBox="0 0 1519.837 2736">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Merge (arrow)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Merge (arrow)</title>
+<path fill="#231f20" d="M 241.83,2460.14 c 236.024,-236.024 429.891,-507.813 576.212,-807.819 c 41.909,-85.924 74.061,-176.721 95.566,-269.87 c 21.505,-93.149 32.409,-188.852 32.409,-284.451 l 0,-109.403 s -342,0 -342,0 l 0,109.403 c 0,69.743 -7.955,139.562 -23.644,207.517 c -15.688,67.956 -39.145,134.196 -69.719,196.881 c -129.675,265.872 -301.484,506.739 -510.655,715.911 l 241.83,241.83 Z"/>
+<path fill="#231f20" d="M 294.4,1078.913 c -7.77,2.266 -15.604,3.337 -23.309,3.341 c -45.977,0 -83.254,-37.283 -83.254,-83.26 c -0.015,-16.221 4.697,-32.616 14.55,-47.014 l 651.45,-951.979 l 651.45,951.979 c 9.853,14.398 14.564,30.793 14.55,47.014 c 0,45.977 -37.276,83.26 -83.254,83.26 c -7.705,-0.004 -15.54,-1.075 -23.309,-3.341 l -559.437,-163.169 l -559.436,163.169 Z"/>
+<path fill="#231f20" d="M 604.029,884.527 L 1103.529,884.527 L 1103.529,2736 L 604.029,2736 Z"/>
+</svg>

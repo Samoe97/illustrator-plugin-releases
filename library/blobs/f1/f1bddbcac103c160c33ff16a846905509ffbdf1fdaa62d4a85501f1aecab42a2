@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="36in" viewBox="0 0 864 2592">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p3-1</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p3-1</title>
+<path fill="#ffcd00" fill-rule="evenodd" d="M 115.2,0 L 748.8,0 C 812.249,0 864,51.749 864,115.2 L 864,2476.8 C 864,2540.249 812.249,2592 748.8,2592 L 115.2,2592 C 51.751,2592 0,2540.249 0,2476.8 L 0,115.2 C 0,51.749 51.751,0 115.2,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0.27,115.2 L 0.28,308.027 L 307.828,0.48 L 115.472,0 C 52.021,0 0.27,51.749 0.27,115.2"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 432.271,1768.952 L 0.126,2201.343 L 0.126,1876.421 L 432.938,1445.362 L 864.417,1876.421 L 864.417,2201.343"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 432.271,2400.152 L 238.491,2592 L 111.045,2592.194 C 59.296,2592.194 13.276,2556.194 0.225,2506.694 L 0.27,2506.289 L 432.271,2075.23 L 864.272,2506.289 L 864.317,2506.694 C 851.268,2556.194 805.247,2592.194 753.497,2592.194 L 626.053,2592"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 865.55,115.2 L 865.54,308.027 L 557.992,0.48 L 750.35,0 C 813.799,0 865.55,51.749 865.55,115.2"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 432.271,1137.767 C 432.271,1136.498 863.032,1567.479 864.364,1568.811 L 865.695,1245.221 L 432.271,812.211 L 0.126,1245.221 L 1.457,1568.811 C 1.465,1570.693 432.271,1139.038 432.271,1137.767"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 596.135,343.558 L 865.625,613.738 L 865.625,940.456 L 432.829,507.907 L 0.197,940.456 L 0.197,613.738 L 432.271,180.48"/>
+</svg>

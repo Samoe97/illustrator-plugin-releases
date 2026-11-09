@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 2160" width="30in" height="30in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>RS-006</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2025 0A135 135 0 0 1 2160 135L2160 2025A135 135 0 0 1 2025 2160L135 2160A135 135 0 0 1 0 2025L0 135A135 135 0 0 1 135 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2025 45A90 90 0 0 1 2115 135L2115 2025A90 90 0 0 1 2025 2115L135 2115A90 90 0 0 1 45 2025L45 135A90 90 0 0 1 135 45Z" fill="#693f23"/>
+  <path d="M721.063 1825.428L698.623 1926.019L554.831 1925.569L801.314 811.264L659.052 810.334L659.052 404.518L1075.428 218.065L1491.804 404.518L1491.804 810.334L1349.481 811.264L1595.995 1925.569L1452.203 1926.019L1429.883 1825.608L1075.428 1393.692ZM815.385 461.579L815.385 666.001L1335.411 666.001L1335.411 461.579ZM1246.07 993.966L1205.689 811.144L945.106 811.144L904.935 993.276L1075.488 1202.169ZM779.174 1563.044L997.157 1297.601L871.305 1145.138ZM1279.52 1145.138L1153.789 1297.601L1371.622 1563.044Z" fill="#ffffff"/>
+</svg>

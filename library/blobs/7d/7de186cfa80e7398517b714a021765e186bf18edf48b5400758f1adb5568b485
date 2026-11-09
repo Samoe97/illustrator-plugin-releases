@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="3.76in" height="12in" viewBox="0 0 270.734 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Mechanic</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Mechanic</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 168.937,0 C 224.651,18.649 267.849,48.741 270.62,110.788 C 272.202,146.227 257.192,172.218 234.197,189.706 C 202.629,213.716 187.381,238.72 187.149,267.106 C 185.627,452.76 187.149,638.426 187.149,824.084 C 188.64,851.208 181.051,864.361 164.384,863.543 C 149.713,863.543 135.042,863.543 120.371,863.543 C 99.568,866.181 85.313,857.898 85.466,825.602 C 85.466,640.954 82.955,456.29 85.466,271.66 C 85.787,247.983 81.092,226.348 56.631,210.953 C 17.662,186.43 -3.513,157.086 0.479,119.895 C 6.097,67.532 30.511,41.143 72.8,14.144 C 76.849,55.121 81.42,81.954 85.466,122.931 C 103.172,127.989 120.879,133.048 138.583,138.107 C 153.761,127.989 168.937,117.872 184.113,107.755 C 179.055,71.836 173.996,35.918 168.937,0"/>
+</svg>

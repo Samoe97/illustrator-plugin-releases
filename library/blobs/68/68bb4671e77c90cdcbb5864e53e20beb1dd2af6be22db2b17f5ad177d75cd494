@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2942.9 2942.9">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W11-2</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M39.537 1566.911A135.002 135.002 0 0 1 39.537 1375.989L1375.989 39.537A135.002 135.002 0 0 1 1566.911 39.537L2903.363 1375.989A135.002 135.002 0 0 1 2903.363 1566.911L1566.911 2903.363A135.002 135.002 0 0 1 1375.989 2903.363Z" fill="#ffcd00"/>
+  <path d="M64.994 1541.455A99.001 99.001 0 0 1 64.994 1401.445L1401.445 64.994A99.001 99.001 0 0 1 1541.455 64.994L2877.906 1401.445A99.001 99.001 0 0 1 2877.906 1541.455L1541.455 2877.906A99.001 99.001 0 0 1 1401.445 2877.906ZM103.178 1503.27L1439.63 2839.722A45.001 45.001 0 0 0 1503.27 2839.722L2839.722 1503.27A45.001 45.001 0 0 0 2839.722 1439.63L1503.27 103.178A45.001 45.001 0 0 0 1439.63 103.178L103.178 1439.63A45.001 45.001 0 0 0 103.178 1503.27Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1328.2 499.4C1403.6 499.4 1465.2 560.9 1465.2 636.4C1465.2 711.9 1403.7 773.4 1328.2 773.4C1252.7 773.4 1191.2 711.9 1191.2 636.4C1191.2 560.9 1252.7 499.4 1328.2 499.4Z" fill="#231f20"/>
+  <path d="M913.4 1363.1L1200.7 1171.5C1214 1115.4 1269.1 866.1 1379.6 808.4C1489.1 736 1892.7 1033.4 1895 1035.8L1895 1469.6L1807.5 1454.4L1773.3 1108.2C1740.3 1101.6 1707.3 1094.9 1674.4 1088.3C1746.5 1274.6 1772.9 1454.1 1731.5 1572.4L1906.5 2287.7L1788.5 2371.4L1533.6 1709.3L1415.6 1834.9L1252 2333.3L1096 2276.2L1236.8 1751.1L1400.4 1458.1L1337.7 1241.9L1271 1328.8L959 1431.5L913.3 1363L913.4 1363.1Z" fill="#231f20"/>
+</svg>

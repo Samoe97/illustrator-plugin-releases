@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.405in" viewBox="0 0 864 605.149">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Smoking (cigarette)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Smoking (cigarette)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,483.079 L 734.634,483.079 L 734.634,605.149 L 0,605.149 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 754.642,483.079 L 797.372,483.079 L 797.372,605.149 L 754.642,605.149 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 818.42,483.079 L 861.152,483.079 L 861.152,605.149 L 818.42,605.149 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 754.647,465.626 C 754.694,449.282 755.453,431.937 755.118,415.09 C 755.677,382.403 740.452,360.994 702.153,356.064 C 668.281,356.229 634.407,356.399 600.535,356.567 C 522.529,353.906 481.866,313.345 496.495,237.483 C 341.914,219.666 355.909,6.313 505.62,0 L 505.723,40.904 C 403.808,55.214 399.818,194.163 515.09,197.026 C 542.152,195.985 551.174,207.435 542.152,231.374 C 521.335,280.292 549.438,316.027 601.479,313.599 C 634.091,313.599 666.705,313.599 699.316,313.599 C 759.684,316.722 792.296,346.21 797.153,402.068 C 797.153,423.231 797.153,444.395 797.153,465.559 L 754.647,465.626"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 540.86,80.986 C 541.447,67.742 542.036,54.498 542.626,41.254 C 630.781,41.392 703.771,110.547 664.465,221.367 C 786.527,215.183 852.597,281.4 863.118,385.584 C 863.411,412.072 863.705,438.56 864,465.047 C 848.403,465.634 832.804,466.224 817.207,466.813 C 817.499,442.091 817.794,417.37 818.089,392.648 C 808.306,299.755 759.304,265.691 688.303,264.629 C 671.527,264.629 654.754,264.629 637.978,264.629 C 611.49,264.334 603.839,253.443 615.022,231.961 C 661.189,159.085 619.18,75.578 540.86,80.986"/>
+</svg>

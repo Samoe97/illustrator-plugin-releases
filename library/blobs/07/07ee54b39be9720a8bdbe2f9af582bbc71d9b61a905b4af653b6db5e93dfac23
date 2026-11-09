@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="42in" height="42in" viewBox="0 0 3024 3024">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>No U-turn</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>No U-turn</title>
+<path fill="#a6192e" d="M 1512,0 c -835.1,0 -1512,676.9 -1512,1512 s 676.9,1512 1512,1512 s 1512,-676.9 1512,-1512 S 2347.1,0 1512,0 Z M 2736,1512 c 0,286.1 -98.2,549.3 -262.7,757.7 L 754.3,550.7 c 208.4,-164.5 471.6,-262.7 757.7,-262.7 c 676,0 1224,548 1224,1224 Z M 288,1512 c 0,-286.1 98.2,-549.3 262.7,-757.7 l 1719,1719 c -208.4,164.5 -471.6,262.7 -757.7,262.7 c -676,0 -1224,-548 -1224,-1224 Z"/>
+<path fill="#231f20" d="M 1380.2,1588.7 c 5.7,-1.7 11.4,-2.4 17,-2.4 c 33.6,0 60.8,27.2 60.8,60.8 c 0,11.8 -3.4,23.8 -10.6,34.3 l -475.4,694.7 l -475.4,-694.7 c -7.2,-10.5 -10.6,-22.5 -10.6,-34.3 c 0,-33.6 27.2,-60.8 60.8,-60.8 c 5.6,0 11.3,0.8 17,2.4 l 408.2,119.1 l 408.2,-119.1 Z"/>
+<path fill="#231f20" d="M 789.7,1188 c 0,-398.3 324,-722.3 722.3,-722.3 s 722.3,324 722.3,722.3 l 0,0 l 0,1188 l -364.5,0 l 0,-1188 c 0,-197.3 -160.5,-357.8 -357.8,-357.8 s -357.8,160.5 -357.8,357.8 l 0,542.5 l -364.5,0 l 0,-542.5 l 0,0 Z"/>
+</svg>

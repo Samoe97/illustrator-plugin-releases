@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2592 1728" style="enable-background:new 0 0 2592 1728;" xml:space="preserve">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>C2(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<style type="text/css">
+	.st0{fill:#ffffff;stroke:#231f20;stroke-miterlimit:10;}
+	.st1{font-family:'HighwayGothic';}
+	.st2{font-size:644.773px;}
+	.st3{letter-spacing:51;}
+</style>
+<path class="st0" d="M2484,1728H108c-59.6,0-108-48.4-108-108V108C0,48.4,48.4,0,108,0h2376c59.6,0,108,48.4,108,108v1512
+	C2592,1679.6,2543.6,1728,2484,1728z"/>
+<path d="M108,1701c-44.7,0-81-36.3-81-81V108c0-44.7,36.3-81,81-81h2376c44.7,0,81,36.3,81,81v1512c0,44.7-36.3,81-81,81H108z
+	 M2484,1656c19.9,0,36-16.1,36-36V108c0-19.9-16.1-36-36-36H108c-19.9,0-36,16.1-36,36v1512c0,19.9,16.1,36,36,36H2484z"/>
+<text transform="matrix(1 0 0 1 483.5963 719.8888)"><tspan x="0" y="0" class="st1 st2 st3">ROAD</tspan><tspan x="-357.8" y="720" class="st1 st2 st3">CLOSED</tspan></text>
+</svg>

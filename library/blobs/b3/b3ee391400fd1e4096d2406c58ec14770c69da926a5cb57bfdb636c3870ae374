@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1296 432" width="1296" height="432">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R1-3P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1296 324A108 108 0 0 1 1188 432L108 432A108 108 0 0 1 0 324L0 108A108 108 0 0 1 108 0L1188 0A108 108 0 0 1 1296 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1260 324A72 72 0 0 1 1188 396L108 396A72 72 0 0 1 36 324L36 108A72 72 0 0 1 108 36L1188 36A72 72 0 0 1 1260 108Z" fill="#a6192e"/>
+  <path d="M262.148 324L230.877 324L215.725 265.003L169.623 265.003L155.116 324L124.166 324L178.005 108L208.31 108ZM208.31 234.698L192.513 172.478L177.36 234.698Z" fill="#ffffff"/>
+  <path d="M402.619 324L292.685 324L292.685 108L323.634 108L323.634 293.696L402.619 293.696Z" fill="#ffffff"/>
+  <path d="M543.073 324L433.139 324L433.139 108L464.088 108L464.088 293.696L543.073 293.696Z" fill="#ffffff"/>
+  <path d="M1020.579 324L989.308 324L974.155 265.003L928.054 265.003L913.546 324L882.597 324L936.436 108L966.74 108ZM966.74 234.698L950.943 172.478L935.791 234.698Z" fill="#ffffff"/>
+  <path d="M869.234 108L834.416 324L807.657 324L787.347 211.164L766.714 324L739.634 324L705.46 108L735.765 108L754.141 223.093L775.096 108L799.598 108L819.908 223.093L838.929 108Z" fill="#ffffff"/>
+  <path d="M1171.834 108L1117.995 226.317L1117.995 324L1087.046 324L1087.046 226.317L1033.852 108L1066.413 108L1102.843 186.018L1138.306 108Z" fill="#ffffff"/>
+</svg>

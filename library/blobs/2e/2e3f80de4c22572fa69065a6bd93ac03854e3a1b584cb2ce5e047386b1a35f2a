@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="15.728in" height="15.728in" viewBox="0 0 1132.41 1132.41">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-DIAMOND</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-DIAMOND Border</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M489.838 31.632C532.014 -10.544 600.396 -10.544 642.573 31.632L1100.778 489.838C1142.955 532.014 1142.955 600.396 1100.778 642.573L642.573 1100.778C600.396 1142.955 532.014 1142.955 489.838 1100.778L31.632 642.573C-10.544 600.396 -10.544 532.014 31.632 489.838Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M508.93 50.724C540.562 19.092 591.848 19.092 623.481 50.724L1081.686 508.93C1113.318 540.562 1113.318 591.848 1081.686 623.481L623.481 1081.686C591.848 1113.318 540.562 1113.318 508.93 1081.686L50.724 623.481C19.092 591.848 19.092 540.562 50.724 508.93ZM531.229 73.024C550.546 53.707 581.865 53.707 601.182 73.024L1059.387 531.229C1078.704 550.546 1078.704 581.865 1059.387 601.182L601.182 1059.387C581.865 1078.704 550.546 1078.704 531.229 1059.387L73.024 601.182C53.707 581.865 53.707 550.546 73.024 531.229Z"/>
+</svg>

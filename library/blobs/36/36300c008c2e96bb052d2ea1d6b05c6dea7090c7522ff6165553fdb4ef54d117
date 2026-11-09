@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="6in" viewBox="0 0 1728 432">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M4-13</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M4-13</title>
+  <path d="M108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 324C1728 383.647 1679.647 432 1620 432L108 432C48.353 432 0 383.647 0 324L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 43.2L1620 43.2C1655.788 43.2 1684.8 72.212 1684.8 108L1684.8 324C1684.8 359.788 1655.788 388.8 1620 388.8L108 388.8C72.212 388.8 43.2 359.788 43.2 324L43.2 108C43.2 72.212 72.212 43.2 108 43.2Z" fill="#006747"/>
+  <path fill="#ffffff" d="M803.562 112.013L751.154 112.013L751.154 361.168L709.485 361.168L709.485 112.013L657.077 112.013L657.077 73.351L803.562 73.351Z"/>
+  <path fill="#ffffff" d="M988.651 365.96Q944.403 365.96 923.782 328.8Q903.161 291.64 903.161 216.89Q903.161 143 923.782 105.625Q944.403 68.25 988.651 68.25Q1032.899 68.25 1053.52 105.625Q1074.141 143 1074.141 216.89Q1074.141 291.64 1053.52 328.8Q1032.899 365.96 988.651 365.96ZM988.651 325.578Q1012.279 326.008 1022.589 299.373Q1032.899 272.738 1032.899 216.031Q1032.899 160.184 1022.589 134.408Q1012.279 108.632 988.651 108.632Q965.023 108.632 954.713 134.408Q944.403 160.184 944.403 216.031Q944.403 272.738 954.713 299.373Q965.023 326.008 988.651 325.578Z"/>
+</svg>

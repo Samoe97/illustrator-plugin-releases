@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 1738.449" width="24in" height="24.145in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-FOREST</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1547.951 0A180 180 0 0 1 1725.24 211.122L1479.338 1611.903A153 153 0 0 1 1328.643 1738.449L399.357 1738.449A153 153 0 0 1 248.662 1611.903L2.76 211.122A180 180 0 0 1 180.049 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M878.02 180C878.02 187.743 871.743 194.021 864 194.021C856.256 194.021 849.979 187.743 849.979 180C849.979 172.257 856.256 165.979 864 165.979C871.743 165.979 878.02 172.257 878.02 180ZM877.021 180C877.021 172.808 871.191 166.978 864 166.978C856.808 166.978 850.978 172.808 850.978 180C850.978 187.192 856.808 193.022 864 193.022C871.191 193.022 877.021 187.192 877.021 180Z" fill="#231f20"/>
+  <path d="M878.02 1620C878.02 1627.743 871.743 1634.021 864 1634.021C856.256 1634.021 849.979 1627.743 849.979 1620C849.979 1612.257 856.256 1605.979 864 1605.979C871.743 1605.979 878.02 1612.257 878.02 1620ZM877.021 1620C877.021 1612.808 871.191 1606.978 864 1606.978C856.808 1606.978 850.978 1612.808 850.978 1620C850.978 1627.192 856.808 1633.022 864 1633.022C871.191 1633.022 877.021 1627.192 877.021 1620Z" fill="#231f20"/>
+</svg>

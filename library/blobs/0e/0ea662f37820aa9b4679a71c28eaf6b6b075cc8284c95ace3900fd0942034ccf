@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 864">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W16-15P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1728 756A108 108 0 0 1 1620 864L108 864A108 108 0 0 1 0 756L0 108A108 108 0 0 1 108 0L1620 0A108 108 0 0 1 1728 108Z" fill="#ffcd00"/>
+  <path d="M1701 756A81 81 0 0 1 1620 837L108 837A81 81 0 0 1 27 756L27 108A81 81 0 0 1 108 27L1620 27A81 81 0 0 1 1701 108ZM1656 756L1656 108A36 36 0 0 0 1620 72L108 72A36 36 0 0 0 72 108L72 756A36 36 0 0 0 108 792L1620 792A36 36 0 0 0 1656 756Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M980.378 612L711.722 612L711.722 252L974.468 252L974.468 316.478L777.274 316.478L777.274 383.642L884.737 383.642L884.737 449.194L777.274 449.194L777.274 547.522L980.378 547.522Z" fill="#231f20"/>
+  <path d="M616.575 612L561.231 612L389.291 369.134L389.291 612L326.425 612L326.425 252L389.291 252L554.784 492.179L554.784 252L616.575 252Z" fill="#231f20"/>
+  <path d="M1402.096 252L1337.619 612L1269.38 612L1211.35 370.746L1154.395 612L1086.156 612L1020.604 252L1087.231 252L1126.454 484.657L1179.648 252L1244.126 252L1299.469 484.657L1336.007 252Z" fill="#231f20"/>
+</svg>

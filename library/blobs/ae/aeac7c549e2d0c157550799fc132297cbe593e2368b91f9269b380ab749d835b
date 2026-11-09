@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="7.564in" height="25.847in" viewBox="0 0 544.6 1861">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Traffic signal</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Traffic signal</title>
+<path fill="#a6192e" d="M 544.6,272.3 A 272.3,272.3 0 0,1 272.3,544.6 A 272.3,272.3 0 0,1 0,272.3 A 272.3,272.3 0 0,1 272.3,0 A 272.3,272.3 0 0,1 544.6,272.3 Z"/>
+<path fill="#ffcd00" d="M 544.6,930.5 A 272.3,272.3 0 0,1 272.3,1202.8 A 272.3,272.3 0 0,1 0,930.5 A 272.3,272.3 0 0,1 272.3,658.2 A 272.3,272.3 0 0,1 544.6,930.5 Z"/>
+<path fill="#006747" d="M 544.6,1588.7 A 272.3,272.3 0 0,1 272.3,1861 A 272.3,272.3 0 0,1 0,1588.7 A 272.3,272.3 0 0,1 272.3,1316.4 A 272.3,272.3 0 0,1 544.6,1588.7 Z"/>
+</svg>

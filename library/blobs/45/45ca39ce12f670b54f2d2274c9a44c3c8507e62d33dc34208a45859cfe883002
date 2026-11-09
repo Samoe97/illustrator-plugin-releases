@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="36in" viewBox="0 0 2592 2592">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>M1-4</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>M1-4</title>
+<path fill="#ffffff" d="M1296.001 2592C1180.366 2453.1 1006.68 2368.345 825.955 2368.345C823.609 2368.345 781.632 2368.345 779.217 2368.345C768.023 2368.345 726.074 2368.345 714.948 2368.345C322.722 2368.345 2.824 2047.47 2.824 1654.046C2.824 1410.869 157.603 1232.329 157.603 980.87C157.603 809.881 99.709 632.44 0 496.94L513.166 2.242C618.786 91.706 760.863 148.32 901.689 148.32C1044.862 148.32 1190.381 94.171 1296.001 0C1401.619 94.171 1547.138 148.32 1690.311 148.32C1831.137 148.32 1973.216 91.706 2078.833 2.242L2592 496.94C2492.291 632.44 2434.396 809.881 2434.396 980.87C2434.396 1232.329 2589.176 1410.869 2589.176 1654.046C2589.176 2047.47 2269.277 2368.345 1877.054 2368.345C1865.926 2368.345 1823.977 2368.345 1812.784 2368.345C1810.368 2368.345 1768.393 2368.345 1766.044 2368.345C1585.319 2368.345 1411.636 2453.1 1296.001 2592Z" stroke="#231f20" stroke-width="1"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="21in" height="15in" viewBox="0 0 1512 1080">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>M6-1</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>M6-1</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M 1512,972.004 C 1512,1031.651 1463.644,1080 1403.99,1080 L 107.989,1080 C 48.356,1080 0,1031.651 0,972.004 L 0,107.996 C 0,48.349 48.356,0 107.989,0 L 1403.99,0 C 1463.644,0 1512,48.349 1512,107.996 Z"/>
+<path fill="#002f6c" d="M 107.989,1043.999 C 68.292,1043.999 35.994,1011.701 35.994,972.004 L 35.994,107.996 C 35.994,68.292 68.292,35.994 107.989,35.994 L 1403.99,35.994 C 1443.694,35.994 1475.999,68.292 1475.999,107.996 L 1475.999,972.004 C 1475.999,1011.701 1443.694,1043.999 1403.99,1043.999 Z"/>
+<path fill="#ffffff" d="M601.482 294.295C607.264 290.354 614.236 288.051 621.761 288.051C641.641 288.051 657.755 304.165 657.755 324.052C657.755 328.532 656.922 332.83 655.417 336.792L615.853 445.223L1295.707 445.223L1295.707 634.224L615.622 634.224L655.417 743.305C656.922 747.274 657.755 751.565 657.755 756.045C657.755 775.933 641.641 792.047 621.761 792.047C614.236 792.047 607.264 789.744 601.482 785.803L243.761 540.045Z"/>
+</svg>

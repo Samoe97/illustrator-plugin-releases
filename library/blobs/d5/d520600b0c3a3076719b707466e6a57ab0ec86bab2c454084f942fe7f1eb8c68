@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="33.891in" viewBox="0 0 1728 2440.152">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p150-3</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p150-3</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,928.148 C 167.349,811.39 334.701,694.633 502.053,577.875 C 540.972,445.552 579.89,313.228 618.812,180.902 C 650.058,112.497 693.733,54.033 764.755,17.442 C 857.887,-20.939 938.576,9.104 1015.785,58.309 C 1167.792,252.103 1273.946,476.471 1354.378,717.984 C 1402.235,880.853 1384.464,994.498 1336.865,1085.769 C 1467.244,1490.528 1597.622,1895.284 1728,2300.043 C 1669.621,2346.744 1611.242,2393.448 1552.865,2440.152 C 1389.407,2107.393 1225.944,1774.636 1062.485,1441.879 C 996.324,1521.662 930.162,1601.447 864.001,1681.232 C 852.325,1761.013 840.647,1840.798 828.971,1920.583 C 916.539,2074.312 1004.109,2228.044 1091.676,2381.773 C 1046.917,2389.555 1002.162,2397.341 957.405,2405.124 C 902.919,2315.612 848.432,2226.096 793.946,2136.584 C 774.485,2235.827 755.028,2335.069 735.567,2434.314 C 644.107,2414.854 552.647,2395.393 461.19,2375.935 C 498.161,2175.503 535.134,1975.069 572.108,1774.636 C 431.999,1535.285 291.891,1295.933 151.784,1056.581 C 130.379,1064.364 108.973,1072.15 87.568,1079.932 C 58.376,1029.338 29.188,978.741 0,928.148 Z"/>
+<path fill="#ffffff" fill-rule="evenodd" d="M 274.377,1004.04 C 400.862,939.823 527.351,875.606 653.838,811.39 C 681.081,762.74 708.324,714.095 735.567,665.445 C 784.216,758.851 832.865,852.256 881.513,945.661 C 772.82,1149.984 687.735,1354.309 618.812,1558.635 C 503.998,1373.77 389.188,1188.905 274.377,1004.04 Z"/>
+</svg>

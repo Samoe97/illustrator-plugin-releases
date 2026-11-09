@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="60in" height="18in" viewBox="0 0 4320 1296">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>E11-2</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>E11-2</title>
+  <path d="M135 0L4185 0C4259.559 0 4320 60.442 4320 135L4320 1161C4320 1235.558 4259.559 1296 4185 1296L135 1296C60.442 1296 0 1235.558 0 1161L0 135C0 60.442 60.442 0 135 0Z" fill="#ffcd00"/>
+  <path fill="#231f20" d="M2098.993 1080L1454.217 1080L1454.217 216L2084.808 216L2084.808 370.746L1611.542 370.746L1611.542 531.94L1869.453 531.94L1869.453 689.266L1611.542 689.266L1611.542 925.254L2098.993 925.254Z"/>
+  <path fill="#231f20" d="M2962.988 370.746L2475.537 370.746L2475.537 546.125L2745.054 546.125L2745.054 704.74L2475.537 704.74L2475.537 1080L2318.212 1080L2318.212 216L2962.988 216Z"/>
+  <path fill="#231f20" d="M1267.393 1080L622.617 1080L622.617 216L779.942 216L779.942 925.254L1267.393 925.254Z"/>
+  <path fill="#231f20" d="M3699.323 368.167L3450.439 368.167L3450.439 1080L3299.561 1080L3299.561 368.167L3050.677 368.167L3050.677 216L3699.323 216Z"/>
+  </svg>

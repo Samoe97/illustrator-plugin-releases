@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="36.017in" viewBox="0 0 2159.999 2593.243">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Two-way traffic (W6-3)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Two-way traffic (W6-3)</title>
+<path fill="#231f20" d="M 92.163,1660.13 c -6.72,-1.96 -13.495,-2.886 -20.159,-2.889 c -39.764,0 -72.003,32.245 -72.003,72.009 c -0.013,14.029 4.062,28.208 12.584,40.661 l 563.416,823.333 l 563.416,-823.333 c 8.521,-12.453 12.596,-26.631 12.584,-40.661 c 0,-39.764 -32.239,-72.009 -72.003,-72.009 c -6.664,0.003 -13.44,0.929 -20.159,2.889 l -483.837,141.119 l -483.837,-141.119 Z"/>
+<path fill="#231f20" d="M 359.95,73.243 L 791.95,73.243 L 791.95,1828.247 L 359.95,1828.247 Z"/>
+<path fill="#231f20" d="M 2067.837,933.114 c 6.72,1.96 13.495,2.886 20.159,2.889 c 39.764,0 72.003,-32.245 72.003,-72.009 c 0.012,-14.029 -4.062,-28.208 -12.584,-40.661 l -563.416,-823.333 l -563.416,823.333 c -8.521,12.453 -12.596,26.631 -12.584,40.661 c 0,39.764 32.239,72.009 72.003,72.009 c 6.664,-0.003 13.44,-0.929 20.159,-2.889 l 483.837,-141.119 l 483.837,141.119 Z"/>
+<path fill="#231f20" d="M 1368.049,764.996 L 1800.049,764.996 L 1800.049,2520 L 1368.049,2520 Z"/>
+</svg>

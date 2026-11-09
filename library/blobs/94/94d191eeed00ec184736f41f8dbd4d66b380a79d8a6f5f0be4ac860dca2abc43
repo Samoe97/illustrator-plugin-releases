@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="20in" height="20in" viewBox="0 0 1440 1440">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>No stopping on tracks</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>No stopping on tracks</title>
+<path fill="#a6192e" d="M 720,0 c -397.6,0 -720,322.4 -720,720 s 322.4,720 720,720 s 720,-322.4 720,-720 S 1117.6,0 720,0 Z M 1296,720 c 0,133.1 -45.2,255.7 -121,353.2 L 366.8,265 c 97.5,-75.8 220.1,-121 353.2,-121 c 318.1,0 576,257.9 576,576 Z M 144,720 c 0,-133.1 45.2,-255.7 121,-353.2 l 808.2,808.2 c -97.5,75.8 -220.1,121 -353.2,121 c -318.1,0 -576,-257.9 -576,-576 Z"/>
+<path fill="#231f20" d="M 847.3,889.4 l 0,50.3 c 0.1,0 -242.3,0 -242.3,0 l 0,-50.3 l 242.3,0 Z M 605,1060.3 l 242.4,0 l 0,-55.4 l -242.4,0 l 0,55.4 Z M 605,1174.4 l 242.4,0 l 0,-48.9 l -242.4,0 l 0,48.9 Z M 1017.3,625.3 c -34.2,0 -62.1,27.9 -62.1,62.1 s 27.9,62.1 62.1,62.1 s 62.1,-27.9 62.1,-62.1 s -27.9,-62.1 -62.1,-62.1 Z M 422.7,625.3 c 34.2,0 62.1,27.9 62.1,62.1 s -27.9,62.1 -62.1,62.1 s -62.1,-27.9 -62.1,-62.1 s 27.9,-62.1 62.1,-62.1 Z M 720,561.7 l -279,0 l 58.9,-157.5 c 3.9,-15.9 16,-23.9 29.7,-23.9 l 190.3,0 c 0,0 190.3,0 190.3,0 c 13.8,0 25.9,8 29.8,23.9 l 58.9,157.5 l -279,0 Z M 879.8,889.4 l 73.5,0 s 0,100.6 0,100.6 c 0,20.4 16.7,37 37,37 l 52.2,0 c 20.4,0 37,-16.7 37,-37 l 0.4,-100.7 l 69.9,0 l 0,-234.5 c 0,-42.1 -32.2,-86.2 -76.1,-93.5 l -81,-192.6 c -12.6,-31.7 -49.6,-51.6 -84.9,-51.6 l -27.9,0 l -0.3,-52.2 l 49.6,0 l 0,-65.2 l -49.6,0 l 0,-28.7 l -32.1,0 l 0,28.7 l -242.4,0 l 0,-28.7 l -32.1,0 l 0,28.7 l -64.2,0 l 0,65.2 l 64.2,0 l 0,52.2 l -40.6,0 c -35.3,0 -72.3,19.9 -84.9,51.6 l -81,192.6 c -43.9,7.4 -76.1,51.4 -76.1,93.5 l 0,234.5 l 69.9,0 l 0.4,100.7 c 0,20.4 16.7,37 37,37 l 52.2,0 c 20.4,0 37,-16.7 37,-37 l 0,-100.7 s 86.5,0 86.5,0 l -0.3,50.4 l -64.2,0 l 0,65.2 l 64.2,0 l 0,55.4 l -64.2,0 l 0,65.2 l 64.2,0 l 0,48.9 l -64.2,0 l 0,65.2 l 64.2,0 l 0,29.4 l 32.1,0 l 0,-29.4 l 242.4,0 l 0,29.4 l 32.1,0 l 0,-29.4 l 49.6,0 l 0,-65.2 l -49.6,0 l 0,-48.9 l 49.6,0 l 0,-65.2 l -49.6,0 l 0,-55.4 l 49.6,0 l 0,-65.2 l -49.6,0 l 0.3,-50.3 Z M 847.3,317.1 l -242.1,0 l 0,-52.2 c -0.1,0 242.3,0 242.3,0 l 0,52.2 Z"/>
+</svg>

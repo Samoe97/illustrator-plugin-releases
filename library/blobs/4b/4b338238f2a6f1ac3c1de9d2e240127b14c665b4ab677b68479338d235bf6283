@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1296 1296" width="18in" height="18in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>RS-047</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1188 0A108 108 0 0 1 1296 108L1296 1188A108 108 0 0 1 1188 1296L108 1296A108 108 0 0 1 0 1188L0 108A108 108 0 0 1 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1188 36A72 72 0 0 1 1260 108L1260 1188A72 72 0 0 1 1188 1260L108 1260A72 72 0 0 1 36 1188L36 108A72 72 0 0 1 108 36Z" fill="#693f23"/>
+  <path d="M1149.293 451.206C1149.293 498.084 1111.291 536.085 1064.414 536.085C1017.536 536.085 979.535 498.084 979.535 451.206C979.535 404.329 1017.536 366.327 1064.414 366.327C1111.291 366.327 1149.293 404.329 1149.293 451.206Z" fill="#ffffff"/>
+  <path d="M1022.517 1147.385L129.146 622.641L146.715 592.815L1040.337 1117.504C1064.573 1131.972 1096.625 1124.114 1111.06 1099.756L1140.742 1117.54C1116.4 1158.44 1063.357 1171.767 1022.517 1147.385Z" fill="#ffffff"/>
+  <path d="M698.998 211.406L917.917 340.846C939.705 356.138 954.234 380.949 956.834 407.447L974.384 634.79L1126.324 723.531C1131.676 726.478 1136.399 730.527 1140.099 735.391C1158.837 760.03 1146.428 796.349 1116.486 804.325C1111.322 805.701 1105.913 806.126 1100.6 805.542C1094.946 804.921 1089.44 803.167 1084.456 800.428L892.321 688.16C874.165 678.223 864.884 660.637 863.466 640.352L845.736 512.73L698.638 425.447L735.809 558.361C737.977 564.258 735.622 572.062 734.481 577.982C733.488 583.142 733.207 588.404 731.089 593.273C724.829 607.66 708.307 620.552 693.796 625.772L449.209 706.665C443.097 708.29 437.083 710.439 430.679 710.42C424.13 710.399 417.383 708.837 411.136 706.987C384.119 698.987 364.035 678.602 364.745 649.192C364.933 641.408 366.477 633.64 369.264 626.371C372.498 617.935 377.418 610.167 383.617 603.598C390.428 596.381 398.756 590.617 407.934 586.837L587.199 529.722L527.672 335.338C523.69 322.923 522.47 309.699 523.539 296.73C528.081 241.606 571.623 197.23 626.869 192.588C638.705 191.594 650.694 192.487 662.247 195.243C675.345 198.368 687.831 203.885 698.998 211.406Z" fill="#ffffff"/>
+</svg>

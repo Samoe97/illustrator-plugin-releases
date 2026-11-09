@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="2.041in" viewBox="0 0 864 146.917">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Firearms</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Firearms</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 863.96,37.452 C 860.037,75.183 860.393,103.254 863.055,140.549 C 863.014,141.604 861.2,148.9 852.578,146.397 C 734.956,118.162 617.335,89.929 499.711,61.694 C 491.787,59.588 483.377,58.459 474.251,58.756 C 398.193,61.368 322.136,63.979 246.078,66.591 C 242.528,66.789 239.916,65.481 238.244,62.674 C 235.306,58.431 232.368,54.187 229.431,49.943 C 153.374,50.596 77.318,51.248 1.259,51.901 C 0.839,45.047 0.42,38.191 0,31.337 C 168.204,20.891 336.406,10.446 504.608,0 C 510.483,0.165 514.074,1.471 515.38,3.916 C 517.664,7.834 519.951,11.751 522.235,15.669 C 634.132,19.195 739.88,22.723 851.777,26.249 C 858.378,26.36 864.556,27.895 863.96,37.452"/>
+</svg>

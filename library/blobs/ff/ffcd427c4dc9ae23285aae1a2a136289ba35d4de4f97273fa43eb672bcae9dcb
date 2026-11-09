@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18in" height="30in" viewBox="0 0 1296 2160">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>R4-7c</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>R4-7c</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M 1296,2052 C 1296,2111.648 1247.648,2160 1188,2160 L 107.996,2160 C 48.352,2160 0,2111.648 0,2052 L 0,108 C 0,48.352 48.352,0 107.996,0 L 1188,0 C 1247.648,0 1296,48.352 1296,108 Z"/>
+<path fill="#231f20" d="M 1224,2052 C 1224,2071.852 1207.852,2088 1188,2088 L 107.996,2088 C 88.148,2088 71.996,2071.852 71.996,2052 L 71.996,108 C 71.996,88.152 88.148,72 107.996,72 L 1188,72 C 1207.852,72 1224,88.152 1224,108 Z M 1188,27 L 107.996,27 C 63.336,27 27,63.336 27,108 L 27,2052 C 27,2096.664 63.336,2133 107.996,2133 L 1188,2133 C 1232.664,2133 1269,2096.664 1269,2052 L 1269,108 C 1269,63.336 1232.664,27 1188,27"/>
+<path fill="#231f20" d="M 503.998,386.918 C 503.998,592.03 470.713,789.37 409.249,973.834 C 397.397,1009.418 363.585,1034.918 323.997,1034.918 C 284.409,1034.918 250.597,1009.418 238.745,973.834 C 177.281,789.37 143.996,592.03 143.996,386.918 Z"/>
+<path fill="#231f20" d="M1144.886 704.266L863.997 295.19L583.113 704.262C578.633 710.786 575.997 718.682 575.997 727.186C575.997 749.554 594.133 767.686 616.497 767.686C621.589 767.686 626.457 766.742 630.945 765.026L755.997 718.162L755.997 944.918C755.997 1038.77 725.709 1128.97 668.405 1205.754C627.537 1260.518 595.765 1320.998 573.969 1385.506C551.429 1452.218 539.996 1522.03 539.996 1593.002L539.996 1863.002L755.997 1863.002L755.997 1593.002C755.997 1499.142 785.569 1409.906 841.513 1334.942C882.806 1279.614 914.962 1218.874 937.082 1154.418C960.254 1086.898 971.998 1016.414 971.998 944.918L971.998 718.162L1097.054 765.026C1101.542 766.742 1106.41 767.686 1111.498 767.686C1133.866 767.686 1151.998 749.554 1151.998 727.186C1151.998 718.682 1149.37 710.786 1144.886 704.266"/>
+</svg>

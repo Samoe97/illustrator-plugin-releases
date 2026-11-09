@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="60in" height="24in" viewBox="0 0 4320 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R6-4b</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>R6-4b</title>
+  <path d="M108.001 0L4211.999 0C4271.646 0 4320 48.354 4320 108.001L4320 1619.999C4320 1679.646 4271.646 1728 4211.999 1728L108.001 1728C48.354 1728 0 1679.646 0 1619.999L0 108.001C0 48.354 48.354 0 108.001 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M616.5 1606.499L72 1606.499L616.5 864.005L72 121.501L616.5 121.501L1161 864.005Z" fill="#231f20"/>
+  <path d="M1651.5 1606.499L1107 1606.499L1651.5 864.005L1107 121.501L1651.5 121.501L2196 864.005Z" fill="#231f20"/>
+  <path d="M2686.5 1606.499L2142 1606.499L2686.5 864.005L2142 121.501L2686.5 121.501L3231 864.005Z" fill="#231f20"/>
+  <path d="M3721.5 1606.499L3176.99 1606.499L3721.5 864.005L3176.99 121.501L3721.5 121.501L4266 864.005Z" fill="#231f20"/>
+  <path d="M148.74 121.501L162.98 125.631L125.67 162.931L113.58 121.411Z" fill="#ffffff" fill-rule="evenodd"/>
+  </svg>

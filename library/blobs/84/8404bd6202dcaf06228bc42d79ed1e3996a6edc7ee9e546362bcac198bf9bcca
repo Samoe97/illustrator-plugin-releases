@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="24in" viewBox="0 0 3456 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>S4-6P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>S4-6P</title>
+  <path d="M180.001 0L3275.999 0C3375.411 0 3456 80.589 3456 180.001L3456 1547.999C3456 1647.411 3375.411 1728 3275.999 1728L180.001 1728C80.589 1728 0 1647.411 0 1547.999L0 180.001C0 80.589 80.589 0 180.001 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M180.001 54L3275.999 54C3345.588 54 3402 110.412 3402 180.001L3402 1547.999C3402 1617.588 3345.588 1674 3275.999 1674L180.001 1674C110.412 1674 54 1617.588 54 1547.999L54 180.001C54 110.412 110.412 54 180.001 54ZM180.001 144C160.118 144 144 160.118 144 180.001L144 1547.999C144 1567.882 160.118 1584 180.001 1584L3275.999 1584C3295.882 1584 3312 1567.882 3312 1547.999L3312 180.001C3312 160.118 3295.882 144 3275.999 144L180.001 144Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

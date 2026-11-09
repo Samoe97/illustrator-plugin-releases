@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9.329in" viewBox="0 0 864 671.72">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Group picnicking</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Group picnicking</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 461.146,501.904 L 340.392,501.904 L 307.952,390.938 L 371.972,390.847 L 371.972,357.047 L 88.12,357.047 L 88.016,391.132 L 154.748,391.04 L 122.397,501.719 L 0,501.719 L 0,530.604 L 113.648,530.604 L 71.793,671.72 L 120.858,671.72 L 162.506,530.604 L 298.153,530.604 L 339.353,671.72 L 390.494,671.72 L 348.549,530.796 L 461.146,530.796 L 461.146,501.904 M 171.358,501.646 L 203.9,390.679 L 257.554,390.679 L 289.24,501.646 L 171.358,501.646"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 864,367.405 L 767.425,367.405 L 741.413,278.595 L 792.58,278.514 L 792.58,251.544 L 565.553,251.544 L 565.553,278.699 L 618.821,278.699 L 592.9,367.201 L 495.091,367.201 L 495.091,390.335 L 585.894,390.335 L 552.495,503.235 L 591.759,503.235 L 625.07,390.335 L 733.536,390.335 L 766.464,503.235 L 807.457,503.235 L 773.88,390.449 L 864,390.449 L 864,367.405 M 632.178,367.137 L 658.294,278.35 L 701.214,278.35 L 726.547,367.137 L 632.178,367.137"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 515.745,86.87 L 443.362,86.87 L 423.772,20.254 L 462.284,20.254 L 462.284,0 L 291.994,0 L 291.994,20.453 L 331.906,20.349 L 312.528,86.775 L 239.212,86.775 L 239.212,104.051 L 307.254,104.051 L 282.191,188.717 L 311.655,188.717 L 336.63,104.051 L 417.929,104.051 L 442.61,188.717 L 473.316,188.717 L 448.159,104.155 L 515.745,104.155 L 515.745,86.87 M 342.006,86.775 L 361.593,20.247 L 393.735,20.152 L 412.759,86.775 L 342.006,86.775"/>
+</svg>

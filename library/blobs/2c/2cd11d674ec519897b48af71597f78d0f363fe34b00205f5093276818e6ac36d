@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9.295in" viewBox="0 0 864 669.229">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Family restroom</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Family restroom</title>
+<path fill="#231f20" fill-rule="evenodd" d="M168.616 669.229L164.516 461.242L161.896 669.229L138.701 669.229L113.222 462.523L27.647 461.783L116.415 250.687L113.406 212.316L28.639 373.291L0 363.097L87.308 130.457C89.661 124.187 96.77 118.266 103.674 118.266L224.646 118.266C231.575 118.266 236.179 122.514 238.642 128.726L330.326 360.01L301.494 370.197L215.457 212.123L212.09 250.327L303.031 461.152L218.457 461.508L191.994 669.229L168.616 669.229"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 443.731,398.383 L 508.86,398.122 L 609.333,361.55 L 614.902,377.661 L 516.221,423.763 L 516.035,430.314 L 509.039,669.229 L 481.935,669.229 L 477.935,568.377 L 477.023,563.646 L 476.289,568.838 L 469.382,669.229 L 443.185,669.229 L 435.819,429.758 L 435.819,422.126 L 337.691,377.661 L 342.947,361.004 L 443.731,398.383"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 743.398,463.782 L 741.931,454.043 L 740.582,464.611 L 727.927,669.229 L 680.358,669.229 L 676.181,387.288 L 673.546,213.588 L 673.176,210.218 L 672.729,207.759 L 672.093,206.201 L 655.544,387.288 L 618.981,387.288 L 618.355,117.346 L 864,117.07 L 863.734,387.288 L 829.427,387.288 L 814.611,211.117 L 813.794,213.114 L 813.424,216.312 L 813.248,219.124 L 808.246,387.288 L 799.879,669.229 L 750.578,669.229 L 743.398,463.782"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 737.711,0 C 765.74,0 788.598,22.874 788.598,50.887 C 788.598,78.906 765.74,101.78 737.711,101.78 C 709.713,101.78 686.824,78.906 686.824,50.887 C 686.824,22.874 709.713,0 737.711,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 152.354,1.83 C 179.877,1.83 202.268,24.226 202.268,51.746 C 202.268,79.276 179.877,101.674 152.354,101.674 C 124.822,101.674 102.423,79.276 102.423,51.746 C 102.423,24.226 124.822,1.83 152.354,1.83"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 471.454,332.125 C 486.499,332.125 498.829,344.442 498.829,359.487 C 498.829,374.527 486.499,386.852 471.454,386.852 C 456.421,386.852 444.101,374.527 444.101,359.487 C 444.101,344.442 456.421,332.125 471.454,332.125"/>
+</svg>

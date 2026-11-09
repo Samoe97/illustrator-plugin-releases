@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1296 1307.156" width="18in" height="18.155in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-FOREST</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1151.961 0A144 144 0 0 1 1293.792 168.898L1110.666 1212.077A114.955 114.955 0 0 1 997.442 1307.156L298.558 1307.156A114.955 114.955 0 0 1 185.334 1212.077L2.208 168.898A144 144 0 0 1 144.039 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M662.02 144C662.02 151.743 655.743 158.021 648 158.021C640.256 158.021 633.979 151.743 633.979 144C633.979 136.257 640.256 129.979 648 129.979C655.743 129.979 662.02 136.257 662.02 144ZM661.021 144C661.021 136.808 655.191 130.978 648 130.978C640.808 130.978 634.978 136.808 634.978 144C634.978 151.192 640.808 157.022 648 157.022C655.191 157.022 661.021 151.192 661.021 144Z" fill="#231f20"/>
+  <path d="M662.02 1224C662.02 1231.743 655.743 1238.021 648 1238.021C640.256 1238.021 633.979 1231.743 633.979 1224C633.979 1216.257 640.256 1209.979 648 1209.979C655.743 1209.979 662.02 1216.257 662.02 1224ZM661.021 1224C661.021 1216.808 655.191 1210.978 648 1210.978C640.808 1210.978 634.978 1216.808 634.978 1224C634.978 1231.192 640.808 1237.022 648 1237.022C655.191 1237.022 661.021 1231.192 661.021 1224Z" fill="#231f20"/>
+</svg>

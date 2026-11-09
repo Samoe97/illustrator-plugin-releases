@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 21431.995 6610.614" width="297.667in" height="91.814in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-WRONG-WAY-RPM</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M13315.208 6339.872L13585.95 6241.671L13684.146 6512.414L13413.403 6610.614ZM15365.839 711.347L15636.582 809.543L15538.386 1080.286L15267.643 982.09ZM19089.27 4243.654L19360.014 4145.458L19458.209 4416.201L19187.467 4514.396ZM17182.242 4932.299L17452.984 4834.099L17551.182 5104.841L17280.441 5203.042ZM20072.773 5845.373L20262.113 5628.357L20479.125 5817.7L20289.783 6034.711ZM0 3175.827L288 3175.827L288 3463.827L0 3463.827ZM4104.257 3175.827L4392.257 3175.827L4392.257 3463.827L4104.257 3463.827ZM8208.521 3175.827L8496.521 3175.827L8496.521 3463.827L8208.521 3463.827ZM12312.775 3175.827L12600.775 3175.827L12600.775 3463.827L12312.775 3463.827ZM17045.895 3175.827L17333.895 3175.827L17333.895 3463.827L17045.895 3463.827ZM21143.994 3175.827L21431.994 3175.827L21431.994 3463.827L21143.994 3463.827ZM19187.469 2096.218L19458.209 2194.414L19360.014 2465.156L19089.27 2366.96ZM13413.403 0L13684.146 98.196L13585.95 368.938L13315.208 270.743ZM17280.439 1407.568L17551.182 1505.764L17452.984 1776.507L17182.244 1678.311ZM15267.643 5628.52L15538.384 5530.324L15636.582 5801.062L15365.839 5899.263Z" fill="#231f20"/>
+</svg>

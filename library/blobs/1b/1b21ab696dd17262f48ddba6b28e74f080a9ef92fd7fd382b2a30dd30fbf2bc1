@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="6.255in" viewBox="0 0 864 450.349">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Boat ramp (launch)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Boat ramp (launch)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 864,427.962 C 854.873,441.451 839.431,450.349 821.978,450.349 C 800.687,450.349 782.389,437.109 774.896,418.441 C 767.405,437.109 749.109,450.349 727.819,450.349 C 706.526,450.349 688.229,437.109 680.737,418.441 C 673.246,437.109 654.951,450.349 633.658,450.349 C 613.29,450.349 595.662,438.23 587.613,420.836 C 579.563,438.23 561.938,450.349 541.568,450.349 C 523.244,450.349 507.135,440.54 498.226,425.903 C 484.777,437.399 468.006,450.333 444.949,450.333 L 0,450.333 L 1.067,244.396 L 413.092,332.043 C 389.353,320.829 372.857,296.643 372.857,268.727 C 372.857,230.183 404.294,198.747 442.837,198.747 C 481.38,198.747 512.815,230.183 512.815,268.727 C 512.815,306.775 482.185,337.891 444.322,338.687 L 864,427.962 M 442.837,232.97 C 462.53,232.97 478.592,249.033 478.592,268.727 C 478.592,288.42 462.53,304.483 442.837,304.483 C 423.143,304.483 407.08,288.42 407.08,268.727 C 407.08,249.033 423.143,232.97 442.837,232.97"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 386.502,207.86 C 401.719,193.937 422.116,185.844 442.837,185.844 C 475.536,185.844 505.97,205.917 518.921,235.703 L 765.242,287.952 L 819.574,181.101 L 292.569,67.913 L 376.781,14.489 L 366.821,0 L 279.893,50.708 L 261.782,59.765 C 198.699,45.879 135.615,31.996 72.532,18.111 C 108.147,117.985 156.14,160.618 211.074,171.14 L 386.502,207.86"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 524.056,284.905 C 525.026,280.051 525.673,273.905 525.673,268.727 C 525.673,264.519 525.026,259.989 524.702,256.107 C 524.378,252.224 791.855,313.94 791.855,313.94 L 785.621,341.605 L 524.056,284.905"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 361.94,250.929 C 361.082,250.744 368.311,232.213 373.266,223.748 C 373.427,223.476 37.473,150.672 37.473,150.672 L 32.407,179.507 L 361.94,250.929"/>
+</svg>

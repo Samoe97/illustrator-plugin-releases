@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="10.483in" height="12in" viewBox="0 0 754.791 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Wind surfing</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Wind surfing</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 508.712,551.233 C 503.045,554.283 493.251,547.974 491.428,539.908 L 395.813,525.012 L 410.698,575.825 L 356.941,590.305 C 321.227,561.713 300.103,516.665 309.321,470.974 C 313.83,448.618 339.287,441.807 358.579,450.429 C 375.455,458.004 388.03,472.415 403.496,482.406 C 425.57,496.708 450.921,501.992 477.118,507.751 C 468.593,481.158 474.144,467.807 480.96,455.901 L 345.601,0 L 363.172,9.312 C 489.217,76.11 623.055,159.462 658.569,305.545 C 691.864,442.667 600.58,523.118 524.733,561.016 L 583.212,761.005 C 627.36,769.724 681.328,797.486 726.153,824.563 C 744.289,835.487 785.359,865.823 715.774,863.914 C 590.008,860.452 477.118,842.595 347.427,793.444 C 338.797,790.185 336.409,778.074 333.224,772.612 L 328.041,776.743 C 302.695,796.905 265.056,786.734 253.447,756.489 L 251.051,750.241 L 245.756,754.552 C 219.936,775.69 182.974,763.016 169.347,733.928 L 166.562,727.974 L 161.767,731.795 C 135.94,752.566 97.261,742.573 85.061,711.658 L 82.759,705.808 L 77.667,709.648 C 53.381,727.974 20.55,717.785 3.756,694.085 L 0,688.801 L 9.793,653.076 L 13.153,657.709 C 30.252,681.135 63.464,686.61 86.21,668.238 L 89.192,665.852 L 92.162,664.416 C 126.058,632.942 338.595,687.528 457.651,721.236 L 483.08,728.461 C 474.722,708.77 478.282,696.75 475.3,685.646 C 443.714,672.204 413.754,656.837 387.27,635.518 C 358.754,612.584 395.813,576.844 421.926,595.868 L 489.899,645.512 C 497.38,650.974 502.659,659.132 503.909,668.354 L 513.216,737.851 L 569.861,755.733 L 508.712,551.233"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 347.186,367.209 C 365.682,367.209 380.793,382.309 380.793,400.813 C 380.793,419.32 365.682,434.408 347.186,434.408 C 328.695,434.408 313.599,419.32 313.599,400.813 C 313.599,382.309 328.695,367.209 347.186,367.209"/>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 5040 5040" style="enable-background:new 0 0 5040 5040;" xml:space="preserve">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>C19(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<style type="text/css">
+	.st0{fill:#ffcd00;}
+	.st1{fill:#231f20;}
+	.st2{font-family:'HighwayGothic';}
+	.st3{font-size:752.239px;}
+</style>
+<path class="st0" d="M2367.3,4811L229,2672.7c-84.4-84.4-84.4-221.1,0-305.5L2367.3,229c84.4-84.4,221.1-84.4,305.5,0L4811,2367.3
+	c84.4,84.4,84.4,221.1,0,305.5L2672.7,4811C2588.4,4895.4,2451.6,4895.4,2367.3,4811z"/>
+<path class="st1" d="M2520,4820.3c-43.3,0-83.9-16.9-114.6-47.5L267.2,2634.6c-63.2-63.2-63.2-165.9,0-229.1L2405.4,267.2
+	c30.6-30.6,71.3-47.4,114.6-47.4s83.9,16.9,114.6,47.4l2138.3,2138.3c63.2,63.2,63.2,165.9,0,229.1L2634.6,4772.8
+	C2603.9,4803.4,2563.3,4820.3,2520,4820.3z M2570.9,4709.2l2138.3-2138.3c28.1-28.1,28.1-73.8,0-101.8L2570.9,330.8
+	c-13.8-13.8-31.4-21.1-50.9-21.1s-37.1,7.3-50.9,21.1L330.8,2469.1c-28.1,28.1-28.1,73.8,0,101.8l2138.3,2138.3
+	c13.8,13.8,31.4,21.1,50.9,21.1S2557.1,4723,2570.9,4709.2z"/>
+<g>
+	<text transform="matrix(1 0 0 1 1662.4547 1763.9675)" class="st1 st2 st3">ROAD</text>
+	<g>
+		<text transform="matrix(1 0 0 1 1305.1421 2627.9998)" class="st1 st2 st3">CLOSED</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1453.7052 3492.5493)" class="st1 st2 st3">AHEAD</text>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="6.363in" viewBox="0 0 864 458.101">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Lookout tower</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Lookout tower</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 864,0 L 812.863,0 L 812.863,100.143 L 269.534,137.431 L 269.534,93.75 L 79.901,93.75 L 79.901,59.66 L 40.483,59.66 L 0,229.05 L 40.483,398.441 L 79.901,398.441 L 79.901,364.351 L 269.534,364.351 L 269.534,320.67 L 812.863,357.958 L 812.863,458.101 L 864,458.101 L 864,0 M 543.33,246.097 L 504.977,281.252 L 592.334,289.775 L 543.33,246.097 M 813.929,151.279 L 644.538,164.063 L 569.962,229.05 L 644.538,294.036 L 813.929,306.821 L 813.929,151.279 M 543.33,212.004 L 504.977,176.849 L 592.334,168.326 L 543.33,212.004 M 513.498,229.05 L 454.905,177.914 L 269.534,190.698 L 269.534,267.403 L 454.905,280.187 L 513.498,229.05 M 77.771,128.908 L 168.326,128.908 L 168.326,329.193 L 77.771,329.193 Z"/>
+</svg>

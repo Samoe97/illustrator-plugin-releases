@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="42in" height="42in" viewBox="0 0 3024 3024">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>No parking</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>No parking</title>
+<path fill="#a6192e" d="M 1512,0 c -835.1,0 -1512,676.9 -1512,1512 s 676.9,1512 1512,1512 s 1512,-676.9 1512,-1512 S 2347.1,0 1512,0 Z M 2736,1512 c 0,286.1 -98.2,549.3 -262.7,757.7 L 754.3,550.7 c 208.4,-164.5 471.6,-262.7 757.7,-262.7 c 676,0 1224,548 1224,1224 Z M 288,1512 c 0,-286.1 98.2,-549.3 262.7,-757.7 l 1719,1719 c -208.4,164.5 -471.6,262.7 -757.7,262.7 c -676,0 -1224,-548 -1224,-1224 Z"/>
+<path fill="#231f20" d="M 1310.3,1729.5 l 0,646.5 l -338.3,0 L 972,648 l 872.4,0 c 267.4,0 528.1,224.6 528.1,537.6 s -220.3,543.9 -551.4,543.9 l -510.8,0 Z M 1310.3,992.3 l 0,392.7 l 506.5,0 c 132.8,0 217.5,-78.6 217.5,-199.4 s -90.5,-193.3 -217.5,-193.3 l -506.5,0 Z"/>
+</svg>

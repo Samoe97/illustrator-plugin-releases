@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-3</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M6-3</title>
+  <path d="M61.106 0L802.894 0C836.642 0 864 27.358 864 61.106L864 586.894C864 620.642 836.642 648 802.894 648L61.106 648C27.358 648 0 620.642 0 586.894L0 61.106C0 27.358 27.358 0 61.106 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M61.106 20.364L802.894 20.364C825.395 20.364 843.636 38.605 843.636 61.106L843.636 586.894C843.636 609.395 825.395 627.636 802.894 627.636L61.106 627.636C38.605 627.636 20.364 609.395 20.364 586.894L20.364 61.106C20.364 38.605 38.605 20.364 61.106 20.364Z" fill="#002f6c"/>
+  <path d="M291.568 327.777C289.32 331.007 288 334.912 288 339.122C288 350.254 297.208 359.282 308.568 359.282C311.136 359.282 313.588 358.82 315.852 357.977L377.816 335.817L377.816 520.716L485.816 520.716L485.816 335.688L548.148 357.977C550.408 358.82 552.864 359.282 555.428 359.282C566.788 359.282 576 350.254 576 339.122C576 334.912 574.684 331.007 572.432 327.777L432 127.44Z" fill="#ffffff"/>
+</svg>

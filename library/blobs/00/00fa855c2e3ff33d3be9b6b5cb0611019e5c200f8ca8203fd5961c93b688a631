@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="96in" height="240in" viewBox="0 0 6912 17280">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>PM-RR-XING</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>PM-RR-XING</title>
+<path fill="#231f20" d="M0 375.17L1089.198 0L3456 6871.329L5822.802 0L6912 375.17L4065.212 8640L6912 16904.83L5822.802 17280L3456 10408.672L1089.198 17280L0 16904.83L2846.788 8640ZM151.2 5689.833C728.851 5607.54 1000.145 6264.892 998.948 7320.277C998.153 8024.503 957.032 8489.359 767.785 8739.812L997.054 10790.694L788.796 10790.694L599.507 8886.185C531.644 8923.15 452.718 8946.907 360.85 8957.713C360.85 9568.224 359.181 10180.171 359.181 10790.694L151.2 10790.694ZM5913.048 5689.833C6490.7 5607.54 6761.994 6264.892 6760.796 7320.277C6760.001 8024.503 6718.88 8489.359 6529.633 8739.812L6758.902 10790.694L6550.645 10790.694L6361.355 8886.185C6293.493 8923.15 6214.566 8946.907 6122.698 8957.713C6122.698 9568.224 6121.029 10180.171 6121.029 10790.694L5913.048 10790.694ZM360.85 6510.002L360.85 8138.988C701.756 8134.698 789.432 7804.169 789.165 7320.277C788.889 6836.387 714.134 6509.325 360.85 6510.002ZM6122.698 6510.002L6122.698 8138.988C6463.604 8134.698 6551.28 7804.169 6551.014 7320.277C6550.738 6836.387 6475.982 6509.325 6122.698 6510.002Z"/>
+</svg>

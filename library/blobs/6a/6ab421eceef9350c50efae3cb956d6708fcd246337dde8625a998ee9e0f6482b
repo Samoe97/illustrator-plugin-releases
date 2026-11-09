@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12.458in" height="12.458in" viewBox="0 0 897 897">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Interstate shield</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Interstate shield</title>
+<path fill="#002f6c" d="M 0,342.598 c 0,272.682 192.318,500.363 448.5,554.402 c 256.182,-54.04 448.5,-281.72 448.5,-554.402 c 0,-51.06 -6.748,-100.539 -19.392,-147.598 L 19.392,195 c -12.644,47.059 -19.392,96.538 -19.392,147.598 Z"/>
+<path fill="#a6192e" d="M 619.402,24.499 c -59.354,0 -116.708,-8.557 -170.902,-24.499 c -54.194,15.942 -111.548,24.499 -170.902,24.499 c -56.796,0 -111.759,-7.84 -163.876,-22.482 c -38.944,51.657 -69.24,110.202 -88.735,173.484 l 847.025,0 c -19.495,-63.281 -49.79,-121.827 -88.735,-173.484 c -52.117,14.643 -107.08,22.482 -163.876,22.482 Z"/>
+</svg>

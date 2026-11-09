@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="7.656in" viewBox="0 0 864 551.215">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Camping (trailer)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Camping (trailer)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,470.441 C 0,461.202 0,451.965 0,442.725 C 32.334,442.725 64.67,442.725 97.004,442.725 C 97.004,321.853 95.943,172.774 97.004,80.11 C 97.918,0.665 314.114,3.422 459.62,0.665 C 605.128,-2.091 863.508,0.642 863.809,70.871 C 864.239,171.158 863.809,318.774 863.809,442.725 C 862.258,460.859 853.015,472.637 826.856,470.441 C 737.549,470.441 648.243,470.441 558.936,470.441 C 548.461,416.302 524.14,373.489 450.383,371.127 C 383.509,376.734 355.292,414.553 348.758,470.441 C 232.506,470.441 116.252,470.441 0,470.441 M 182.29,247.962 L 182.29,113.15 L 330.582,113.15 L 330.582,247.962 L 182.29,247.962 M 476.946,247.962 L 476.946,113.15 L 769.678,113.15 L 769.678,247.962 L 476.946,247.962"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 374.744,472.298 C 374.744,515.764 410.195,551.215 453.662,551.215 C 497.129,551.215 532.58,515.764 532.58,472.298 C 532.58,428.831 497.129,393.378 453.662,393.378 C 410.195,393.378 374.744,428.831 374.744,472.298 M 415.685,472.298 C 415.685,493.215 432.745,510.273 453.662,510.273 C 474.58,510.273 491.64,493.215 491.64,472.298 C 491.64,451.38 474.58,434.318 453.662,434.318 C 432.745,434.318 415.685,451.38 415.685,472.298"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 72.39,516.645 C 72.39,500.985 59.619,488.213 43.96,488.213 C 28.3,488.213 15.528,500.985 15.528,516.645 C 15.528,532.305 28.3,545.077 43.96,545.077 C 59.619,545.077 72.39,532.305 72.39,516.645"/>
+</svg>

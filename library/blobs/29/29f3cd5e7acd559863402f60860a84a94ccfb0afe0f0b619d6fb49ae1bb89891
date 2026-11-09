@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="12.688in" viewBox="0 0 1728 913.536">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p160-3</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p160-3</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,332.594 C 146.049,234.13 292.101,135.665 438.154,37.2 C 478.311,5.67 520.978,-5.814 566.153,2.737 C 598.973,6.021 631.794,9.303 664.615,12.584 C 657.871,38.153 661.154,56.208 674.461,66.74 C 715.253,142.916 761.476,164.771 807.385,189.821 C 879.375,213.553 937.587,206.278 989.539,184.897 C 1081.434,278.438 1173.332,371.98 1265.231,465.522 C 1419.486,468.802 1573.742,472.085 1728,475.368 C 1693.538,521.317 1659.077,567.266 1624.615,613.219 C 1476.923,629.628 1329.23,646.039 1181.538,662.451 C 1086.357,591.883 991.178,521.317 895.999,450.752 C 871.384,462.238 846.769,473.725 822.153,485.215 C 818.871,524.601 815.587,563.986 812.308,603.372 C 941.948,688.707 1071.587,774.043 1201.23,859.38 C 1151.999,877.43 1102.769,895.483 1053.538,913.536 C 905.846,844.61 758.154,775.685 610.461,706.76 C 598.973,664.091 587.486,621.422 576,578.756 C 512,608.295 448,637.835 384,667.374 C 256,555.78 128,444.186 0,332.594 Z"/>
+</svg>

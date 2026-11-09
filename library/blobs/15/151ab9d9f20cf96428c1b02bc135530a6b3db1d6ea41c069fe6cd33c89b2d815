@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="33.078in" height="29.177in" viewBox="0 0 2381.599 2100.738">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-TRIANGLE</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-TRIANGLE Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M19.507 216C-35.918 120 33.364 0 144.215 0L2237.384 0C2348.235 0 2417.518 120 2362.092 216L1315.507 2028.738C1260.082 2124.738 1121.517 2124.738 1066.092 2028.738Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M1204.3 216C1204.3 223.456 1198.255 229.5 1190.8 229.5C1183.344 229.5 1177.3 223.456 1177.3 216C1177.3 208.544 1183.344 202.5 1190.8 202.5C1198.255 202.5 1204.3 208.544 1204.3 216Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M1204.3 1728C1204.3 1735.456 1198.255 1741.5 1190.8 1741.5C1183.344 1741.5 1177.3 1735.456 1177.3 1728C1177.3 1720.544 1183.344 1714.5 1190.8 1714.5C1198.255 1714.5 1204.3 1720.544 1204.3 1728Z"/>
+</svg>

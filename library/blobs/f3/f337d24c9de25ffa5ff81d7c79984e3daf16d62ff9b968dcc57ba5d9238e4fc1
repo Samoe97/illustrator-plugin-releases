@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="17.358in" height="15.089in" viewBox="0 0 1249.799 1086.434">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Double arrow (diagonal)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Double arrow (diagonal)</title>
+<path fill="#231f20" d="M 542.755,131.23 c 3.128,-2.011 5.861,-4.405 8.185,-7.076 c 13.859,-15.943 12.167,-40.107 -3.776,-53.966 c -5.62,-4.895 -12.726,-8.203 -20.688,-9.126 l -526.475,-61.062 l 133.739,512.853 c 2.023,7.757 6.287,14.332 11.917,19.217 c 15.943,13.859 40.107,12.172 53.966,-3.772 c 2.321,-2.673 4.311,-5.712 5.868,-9.09 l 112.052,-243.174 l 225.213,-144.805 Z"/>
+<path fill="#231f20" d="M 231.452,353.207 L 382.017,180.002 L 1018.382,733.187 L 867.816,906.392 Z"/>
+<path fill="#231f20" d="M 1044.309,567.225 c 1.556,-3.377 3.546,-6.417 5.868,-9.09 c 13.859,-15.943 38.023,-17.631 53.967,-3.772 c 5.629,4.885 9.894,11.46 11.917,19.217 l 133.739,512.853 l -526.475,-61.062 c -7.963,-0.924 -15.068,-4.232 -20.688,-9.126 c -15.943,-13.859 -17.635,-38.023 -3.776,-53.966 c 2.324,-2.671 5.057,-5.065 8.185,-7.076 l 225.213,-144.805 l 112.052,-243.174 Z"/>
+</svg>

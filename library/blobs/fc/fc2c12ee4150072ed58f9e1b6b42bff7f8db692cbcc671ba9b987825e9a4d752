@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R3-27</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1728 1620A108 108 0 0 1 1620 1728L108 1728A108 108 0 0 1 0 1620L0 108A108 108 0 0 1 108 0L1620 0A108 108 0 0 1 1728 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1701 1620A81 81 0 0 1 1620 1701L108 1701A81 81 0 0 1 27 1620L27 108A81 81 0 0 1 108 27L1620 27A81 81 0 0 1 1701 108ZM1656 1620L1656 108A36 36 0 0 0 1620 72L108 72A36 36 0 0 0 72 108L72 1620A36 36 0 0 0 108 1656L1620 1656A36 36 0 0 0 1656 1620Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M772.9 592.7L955.1 592.7L955.1 1440L772.9 1440Z" fill="#231f20"/>
+  <path d="M1068.12 663.66C1070.939 664.486 1073.806 664.875 1076.625 664.875C1093.392 664.875 1107 651.267 1107 634.5C1107 628.571 1105.299 622.593 1101.703 617.344L864 270L626.297 617.344C622.701 622.593 621 628.571 621 634.5C621 651.267 634.608 664.875 651.375 664.875C654.194 664.875 657.061 664.486 659.88 663.66L864 604.125Z" fill="#231f20"/>
+  <path d="M1620 864C1620 1281.527 1281.527 1620 864 1620C446.473 1620 108 1281.527 108 864C108 446.473 446.473 108 864 108C1281.527 108 1620 446.473 1620 864ZM383.219 485.119C300.978 589.337 251.897 720.937 251.897 864C251.897 1202.055 525.945 1476.103 864 1476.103C1007.063 1476.103 1138.663 1427.022 1242.881 1344.781L383.219 485.119ZM1476.103 864C1476.103 525.945 1202.055 251.897 864 251.897C720.937 251.897 589.337 300.978 485.119 383.219L1344.781 1242.881C1427.022 1138.663 1476.103 1007.063 1476.103 864Z" fill="#a6192e" fill-rule="evenodd"/>
+</svg>

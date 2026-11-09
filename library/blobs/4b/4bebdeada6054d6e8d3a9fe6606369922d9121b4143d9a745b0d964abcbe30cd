@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="6.402in" viewBox="0 0 864 460.924">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Helicopter</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Helicopter</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 427.311,0 C 449.696,0 449.696,33.609 427.311,33.609 L 157.079,33.609 C 134.706,33.609 134.706,0 157.079,0 L 427.311,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 780.424,0 C 802.796,0 802.796,33.609 780.424,33.609 L 510.161,33.609 C 487.806,33.609 487.806,0 510.161,0 L 780.424,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M840.906 380.139C839.775 408.901 804.515 438.221 770.107 438.221L682.345 438.221L682.625 347.762C707.614 346.125 756.501 320.255 781.89 290.074C800.188 268.324 805.478 238.038 793.689 211.883C756.115 128.324 656.462 121.525 574.252 121.43L514.557 121.337L479.972 121.43L480.062 30.597L457.054 30.597L457.054 121.727L137.685 122.488C131.466 90.49 103.292 66.24 69.464 66.24C31.135 66.24 0 97.382 0 135.711C0 174.036 31.135 205.175 69.464 205.175C95.313 205.175 117.873 191.053 129.85 170.031L362.008 206.61L362.214 207.387L362.395 209.385C368.046 268.806 386.156 326.963 458.3 346.413L458.699 438.221L351.763 438.221L351.763 460.924L772.608 460.924L782.47 460.169C822.233 457.083 855.765 428.058 862.564 388.467L864 380.139L840.906 380.139M69.464 171.642C49.7 171.642 33.545 155.493 33.545 135.711C33.545 115.925 49.7 99.79 69.464 99.79C89.258 99.79 105.411 115.925 105.411 135.711C105.411 155.493 89.258 171.642 69.464 171.642M481.188 156.962L655.292 156.962L655.292 237.237L481.188 237.237L481.188 156.962M659.943 438.248L482.459 438.248L482.459 362.064L659.943 362.064L659.943 438.248M681.438 158.72C683.331 151.226 705.592 161.557 709.406 163.352C731.965 173.97 754.039 189.013 769.396 208.905C781.754 224.912 780.86 237.814 757.717 237.814L681.336 237.814L681.438 158.72"/>
+</svg>

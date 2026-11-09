@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-5</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M6-5</title>
+  <path d="M43.2 0L820.8 0C844.659 0 864 19.341 864 43.2L864 604.8C864 628.659 844.659 648 820.8 648L43.2 648C19.341 648 0 628.659 0 604.8L0 43.2C0 19.341 19.341 0 43.2 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M43.2 10.8L820.8 10.8C838.694 10.8 853.2 25.306 853.2 43.2L853.2 604.8C853.2 622.694 838.694 637.2 820.8 637.2L43.2 637.2C25.306 637.2 10.8 622.694 10.8 604.8L10.8 43.2C10.8 25.306 25.306 10.8 43.2 10.8Z" fill="#002f6c"/>
+  <path d="M686.237 540.421L470.359 516.47C466.729 515.989 462.857 514.569 459.955 511.717C456.807 508.878 455.113 505.557 454.388 502.003C453.66 498.204 454.147 494.414 455.837 490.611C457.536 487.058 460.442 484.214 463.585 482.553L514.407 455.75L287.396 262.219L267.312 315.342C266.105 318.663 263.678 321.98 260.289 324.122C256.662 326.252 252.786 327.203 249.156 326.962C245.53 326.962 241.654 325.542 238.514 322.931C235.121 320.561 233.186 317.003 232.22 313.682L177.763 107.583L393.641 131.534C397.272 132.011 401.143 133.431 404.045 136.278C407.193 138.886 408.887 142.444 409.62 146.001C410.34 149.559 410.099 153.59 408.163 157.148C406.472 160.943 403.566 163.554 400.419 165.451L349.593 192.254L576.604 385.785L596.696 332.662C597.899 329.341 600.322 326.016 603.703 323.882C607.342 321.511 611.209 320.801 614.84 320.801C618.712 321.034 622.588 322.462 625.49 324.832C628.637 327.44 630.81 330.761 631.789 334.319Z" fill="#ffffff"/>
+</svg>

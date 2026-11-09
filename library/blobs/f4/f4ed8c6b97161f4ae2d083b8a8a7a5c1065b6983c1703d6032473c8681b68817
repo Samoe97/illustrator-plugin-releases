@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="34.979in" height="27in" viewBox="0 0 2518.515 1944">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>U-turn (arrow)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>U-turn (arrow)</title>
+<path fill="#231f20" d="M 1059.958,1011.746 c 6.723,-1.948 13.5,-2.862 20.164,-2.853 c 39.764,0.071 71.946,32.372 71.875,72.136 c -0.012,14.029 -4.112,28.201 -12.656,40.638 l -564.876,822.333 l -561.955,-824.332 c -8.499,-12.467 -12.549,-26.654 -12.511,-40.683 c 0.07,-39.764 32.367,-71.952 72.131,-71.881 c 6.664,0.015 13.438,0.953 20.154,2.925 l 483.587,141.977 l 484.086,-140.261 Z"/>
+<path fill="#231f20" d="M 2086.515,1944 l 432,0 s 0,-864 0,-864 c 0,-145.719 -28.605,-287.194 -85.018,-420.492 c -54.439,-128.635 -132.327,-244.113 -231.498,-343.228 c -99.163,-99.105 -214.693,-176.939 -343.381,-231.337 c -133.337,-56.364 -274.849,-84.943 -420.605,-84.943 c -145.92,0 -287.566,28.639 -421.002,85.123 c -64.12,27.143 -125.935,60.726 -183.726,99.814 c -57.198,38.688 -110.956,83.109 -159.782,132.029 c -98.954,99.143 -176.599,214.603 -230.778,343.175 c -56.102,133.136 -84.434,274.386 -84.208,419.858 l 0,99.004 s 432,0 432,0 l 0,-99.417 c -0.168,-87.397 16.758,-172.078 50.306,-251.689 c 32.446,-76.998 79.025,-146.223 138.442,-205.754 c 59.558,-59.671 128.915,-106.503 206.147,-139.195 c 79.866,-33.808 164.853,-50.949 252.602,-50.949 c 87.658,0 172.578,17.109 252.401,50.852 c 77.201,32.635 146.578,79.396 206.203,138.988 c 59.617,59.582 106.397,128.903 139.041,206.038 c 33.746,79.738 50.857,164.564 50.857,252.123 l 0,864 Z"/>
+</svg>

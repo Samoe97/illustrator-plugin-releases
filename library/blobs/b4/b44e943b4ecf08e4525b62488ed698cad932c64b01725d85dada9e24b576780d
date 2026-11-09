@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.166in" viewBox="0 0 864 587.98">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Hunting</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Hunting</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 742.461,145.26 C 751.161,145.26 765.431,114.709 764.375,87.834 C 762.479,39.49 724.918,0 676.542,0 C 628.163,0 588.706,39.457 588.706,87.834 C 588.706,109.754 596.807,129.844 610.171,145.26 L 742.461,145.26"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 563.199,587.98 C 568.321,498.809 573.44,409.636 578.56,320.462 C 544.853,323.875 511.148,327.288 477.441,330.701 C 413.44,271.821 349.439,212.942 285.44,154.061 C 261.974,153.209 238.508,152.354 215.04,151.501 C 197.973,135.716 180.907,119.929 163.84,104.142 C 109.227,102.436 54.613,100.729 0,99.021 C 0.427,90.915 0.853,82.809 1.28,74.701 C 175.361,79.821 349.439,84.942 523.52,90.062 C 526.508,113.101 529.495,136.141 532.481,159.182 C 603.732,161.315 674.988,163.448 746.241,165.581 C 794.026,163.875 821.332,191.182 828.16,247.502 C 829.013,275.661 831.573,303.822 835.839,331.981 C 845.227,417.315 854.612,502.649 864,587.98 C 763.732,587.98 663.467,587.98 563.199,587.98"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="18in" viewBox="0 0 2160 1296">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>W16-11P</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<path d="M108 0L2052 0C2111.647 0 2160 48.353 2160 108L2160 1188C2160 1247.647 2111.647 1296 2052 1296L108 1296C48.353 1296 0 1247.647 0 1188L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+<path d="M108 27L2052 27C2096.735 27 2133 63.265 2133 108L2133 1188C2133 1232.735 2096.735 1269 2052 1269L108 1269C63.265 1269 27 1232.735 27 1188L27 108C27 63.265 63.265 27 108 27ZM108 72C88.118 72 72 88.118 72 108L72 1188C72 1207.882 88.118 1224 108 1224L2052 1224C2071.882 1224 2088 1207.882 2088 1188L2088 108C2088 88.118 2071.882 72 2052 72L108 72Z" fill="#231f20" fill-rule="evenodd"/>
+<path fill="#231f20" d="M761.413 922.89L663.813 922.89L663.813 681.762L416.943 684.222L416.943 922.89L318.523 922.89L318.523 373.379L416.943 373.379L416.943 585.802L663.813 585.802L663.813 373.379L761.413 373.379Z"/>
+<path fill="#231f20" d="M1347.498 644.985Q1347.498 773.749 1285.576 852.894Q1223.654 932.04 1120.314 932.04Q1007.133 932.04 943.16 841.003Q887.389 762.267 887.389 646.624Q887.389 515.4 949.721 439.535Q1012.053 363.67 1120.314 363.67Q1222.013 363.67 1284.756 441.175Q1347.498 518.679 1347.498 644.985ZM1249.899 646.624Q1249.899 559.688 1215.862 510.478Q1181.826 461.269 1120.314 461.269Q1057.982 461.269 1022.716 510.478Q987.449 559.688 987.449 646.624Q987.449 734.381 1022.716 784.001Q1057.982 833.621 1120.314 833.621Q1190.848 833.621 1223.654 772.109Q1249.899 723.72 1249.899 646.624Z"/>
+<path fill="#231f20" d="M1935.751 373.409L1731.541 922.89L1625.745 922.89L1423.176 373.409L1528.971 373.409L1679.054 774.448L1829.956 373.409Z"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="30in" viewBox="0 0 2160 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D9-15</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D9-15</title>
+  <path d="M135 0L2025 0C2099.558 0 2160 60.442 2160 135L2160 2025C2160 2099.558 2099.558 2160 2025 2160L135 2160C60.442 2160 0 2099.558 0 2025L0 135C0 60.442 60.442 0 135 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M135 54L2025 54C2069.735 54 2106 90.265 2106 135L2106 2025C2106 2069.735 2069.735 2106 2025 2106L135 2106C90.265 2106 54 2069.735 54 2025L54 135C54 90.265 90.265 54 135 54Z" fill="#002f6c"/>
+  <path d="M745.584 184.485L1414.589 184.485L1414.589 509.604C1588.99 513.212 1730.551 656.965 1730.551 832.192L1730.551 1508.264C1730.551 1683.492 1588.99 1827.242 1414.589 1830.85L1414.589 1978.792L745.584 1978.792L745.584 1830.85C571.181 1827.242 429.622 1683.492 429.622 1508.264L429.622 832.192C429.622 656.965 571.181 513.212 745.584 509.604Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

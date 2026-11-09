@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12.057in" height="13in" viewBox="0 0 868.1 936">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Camera (photo enforcement)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Camera (photo enforcement)</title>
+<path fill="#231f20" d="M 841,474.8 l -813.9,0 c -15,0 -27.1,12.1 -27.1,27.1 l 0,407 c 0,15 12.1,27.1 27.1,27.1 l 813.9,0 c 15,0 27.1,-12.1 27.1,-27.1 l 0,-407 c 0,-15 -12.1,-27.1 -27.1,-27.1 Z M 434,875 c -93.6,0 -169.6,-75.9 -169.6,-169.6 s 75.9,-169.6 169.6,-169.6 s 169.6,75.9 169.6,169.6 s -75.9,169.6 -169.6,169.6 Z"/>
+<path fill="#231f20" d="M 305.1,284.9 l 257.7,0 c 15,0 27.1,12.2 27.1,27.1 l 0,108.5 c 0,15 -12.2,27.1 -27.1,27.1 l -257.7,0 c -15,0 -27.1,-12.2 -27.1,-27.1 l 0,-108.5 c 0,-15 12.2,-27.1 27.1,-27.1 Z"/>
+<path fill="#231f20" d="M 413.7,0 L 454.4,0 L 454.4,244.2 L 413.7,244.2 Z"/>
+<path fill="#231f20" d="M 620.361,340.539 L 856.24,277.335 L 866.774,316.648 L 630.895,379.852 Z"/>
+<path fill="#231f20" d="M 1.237,316.568 L 11.771,277.254 L 247.65,340.458 L 237.116,379.771 Z"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3531.434 3531.434">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W1-10e</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M3483.986 1651.166A162 162 0 0 1 3483.986 1880.268L1880.268 3483.986A162 162 0 0 1 1651.166 3483.986L47.448 1880.268A162 162 0 0 1 47.448 1651.166L1651.166 47.447A162 162 0 0 1 1880.268 47.447Z" fill="#ffcd00"/>
+  <path d="M3452.167 1682.985A117 117 0 0 1 3452.167 1848.448L1848.449 3452.166A117 117 0 0 1 1682.986 3452.166L79.268 1848.448A117 117 0 0 1 79.268 1682.985L1682.986 79.267A117 117 0 0 1 1848.449 79.267ZM3407.619 1727.533L1803.901 123.815A54 54 0 0 0 1727.533 123.815L123.815 1727.533A54 54 0 0 0 123.815 1803.901L1727.533 3407.619A54 54 0 0 0 1803.901 3407.619L3407.619 1803.901A54 54 0 0 0 3407.619 1727.533Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M2069.716 2656.724L2434.216 2656.724C2434.216 2548.724 2434.216 2440.724 2434.216 2332.724C2434.216 2158.755 2347.35 1995.383 2203.122 1898.1L1667.635 1536.91C1623.747 1507.307 1597.216 1457.41 1597.216 1404.471L1597.216 1196.189C1475.716 1196.189 1354.216 1196.189 1232.716 1196.189L1232.716 1404.471C1232.716 1578.44 1319.583 1741.811 1463.808 1839.093L1999.297 2200.285C2043.185 2229.888 2069.716 2279.785 2069.716 2332.724L2069.716 2656.724Z" fill="#231f20"/>
+  <path d="M1823.162 1338.039C1861.547 1349.234 1900.924 1320.474 1900.924 1279.719C1900.935 1267.52 1897.194 1255.477 1890.306 1245.412L1414.924 550.724L939.542 1245.412C932.654 1255.477 928.913 1267.52 928.924 1279.719C928.924 1320.474 968.301 1349.234 1006.686 1338.039L1414.924 1218.969L1823.162 1338.039Z" fill="#231f20"/>
+  <path d="M1168.225 2381.104L2345.972 1203.357L2498.707 1356.092L1320.96 2533.839Z" fill="#231f20"/>
+</svg>

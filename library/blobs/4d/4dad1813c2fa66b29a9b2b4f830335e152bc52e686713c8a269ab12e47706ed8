@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="5.599in" viewBox="0 0 864 403.119">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Scuba diving</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Scuba diving</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,0 L 86.127,21.54 L 122.468,93.147 L 79.388,88.49 L 0,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 90.614,109.229 C 103.136,105.404 115.66,101.577 128.182,97.749 C 181.402,134.621 234.623,171.492 287.842,208.364 C 291.667,211.148 295.494,211.148 299.322,208.364 C 336.539,190.277 373.761,172.188 410.98,154.102 C 453.49,140.446 469.113,158.569 480.896,181.233 C 505.115,263.943 355.459,270.273 304.539,281.413 C 295.499,281.768 286.108,281.424 274.276,276.194 C 213.055,220.538 151.836,164.884 90.614,109.229"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 512.222,63.904 L 654.519,77.687 C 670.538,79.239 682.338,93.57 680.785,109.588 C 679.234,125.606 664.904,137.404 648.885,135.854 L 506.588,122.069 C 490.57,120.518 478.77,106.188 480.323,90.17 C 481.873,74.151 496.204,62.351 512.222,63.904"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 750.129,99.837 C 776.567,99.837 798.131,121.401 798.131,147.841 C 798.131,150.691 797.877,153.485 797.396,156.202 L 824.218,187.494 L 780.39,224.017 L 752.167,195.795 C 751.491,195.825 750.812,195.842 750.129,195.842 C 723.69,195.842 702.126,174.278 702.126,147.841 C 702.126,121.401 723.69,99.837 750.129,99.837"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 528.709,207.799 C 574.305,220.31 619.901,232.823 665.497,245.336 C 673.983,247.018 680.98,253.174 687.765,259.97 C 737.814,307.685 787.864,355.403 837.915,403.119 C 846.609,402.484 855.306,401.848 864,401.212 C 808.013,328.893 752.024,256.576 696.036,184.259 C 683.523,165.597 661.68,156.264 630.504,156.264 C 597.845,153.719 565.185,151.174 532.525,148.629 C 509.834,149.267 497.323,157.538 494.988,173.443 C 492.866,191.577 507.076,201.545 528.709,207.799"/>
+</svg>

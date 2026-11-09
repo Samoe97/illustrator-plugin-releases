@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.856in" viewBox="0 0 864 637.63">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Falling rock</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Falling rock</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,637.63 L 458.667,0 L 515.557,77.038 L 465.778,218.074 L 493.037,271.408 L 477.63,299.851 L 551.111,455.11 L 612.742,483.555 L 612.742,567.704 L 655.407,599.704 L 634.074,637.63 L 0,637.63"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 545.186,156.444 L 527.409,208.593 L 573.631,223.999 L 606.815,177.777 L 545.186,156.444"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 541.629,246.517 L 510.816,282.074 L 539.259,322.371 L 570.074,287.999 L 541.629,246.517"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 638.814,235.852 L 599.704,276.149 L 592.592,331.851 L 619.853,359.111 L 682.666,342.518 L 693.334,273.778 L 638.814,235.852"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 624.592,387.556 L 622.222,453.926 L 664.889,443.258 L 682.666,413.629 L 663.705,386.37 L 624.592,387.556"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 650.666,527.407 L 721.777,424.297 L 790.519,417.185 L 830.814,450.369 L 864,561.777 L 809.482,609.185 L 718.222,609.185 L 650.666,527.407"/>
+</svg>

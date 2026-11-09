@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.364in" viewBox="0 0 864 602.193">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Camping (tent)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Camping (tent)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,547.22 L 90.645,547.22 M 432.97,602.193 L 0,602.193 L 0,547.22 L 90.645,547.22 L 432.97,0 L 775.295,547.22 L 864,547.22 L 864,602.193 L 432.97,602.193 M 432.97,317.339 L 290.543,547.22 L 432.97,547.22 L 575.397,547.22 L 432.97,317.339 M 864,547.22 L 775.295,547.22"/>
+</svg>

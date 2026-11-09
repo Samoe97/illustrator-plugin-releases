@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="11.664in" height="12in" viewBox="0 0 839.802 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Airport</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Airport</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,548.93 C 123.766,475.138 247.528,401.349 371.294,327.557 C 371.294,240.494 371.197,126.26 371.294,53.779 C 371.391,-18.701 469.977,-17.264 470.376,54.134 C 470.775,125.53 470.35,239.45 469.681,327.557 C 593.054,401.349 716.429,475.138 839.802,548.93 C 839.802,578.992 839.802,609.054 839.802,639.117 C 716.429,600.857 593.054,562.594 469.681,524.332 C 469.681,590.313 469.681,656.295 469.681,722.276 C 497.4,744.921 525.122,767.566 552.841,790.211 C 552.841,814.416 552.841,838.625 552.841,862.83 C 508.724,849.946 464.604,837.061 420.487,824.18 C 376.758,837.451 333.031,850.726 289.305,864 C 289.305,839.405 289.305,814.809 289.305,790.211 C 316.633,767.566 343.965,744.921 371.294,722.276 C 371.294,656.295 371.294,590.313 371.294,524.332 C 247.918,562.984 124.546,601.637 1.173,640.29 C 0.78,609.835 0.39,579.382 0,548.93"/>
+</svg>

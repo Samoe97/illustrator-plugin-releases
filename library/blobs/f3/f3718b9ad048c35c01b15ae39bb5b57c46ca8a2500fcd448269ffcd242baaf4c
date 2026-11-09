@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="6in" height="12in" viewBox="0 0 432 864">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>OM2-1v</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>OM2-1V</title>
+  <path d="M86.568 0L345.432 0C393.242 0 432 38.758 432 86.568L432 777.432C432 825.242 393.242 864 345.432 864L86.568 864C38.758 864 0 825.242 0 777.432L0 86.568C0 38.758 38.758 0 86.568 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M216 50.185C275.485 50.185 324 98.7 324 158.185C324 217.669 275.485 266.185 216 266.185C156.516 266.185 108 217.669 108 158.185C108 98.7 156.516 50.185 216 50.185Z" fill="#ffcd00" fill-rule="evenodd"/>
+  <path d="M216 324.094C275.485 324.094 324 372.609 324 432.094C324 491.578 275.485 540.094 216 540.094C156.516 540.094 108 491.578 108 432.094C108 372.609 156.516 324.094 216 324.094Z" fill="#ffcd00" fill-rule="evenodd"/>
+  <path d="M216 597.718C275.485 597.718 324 646.233 324 705.718C324 765.202 275.485 813.718 216 813.718C156.516 813.718 108 765.202 108 705.718C108 646.233 156.516 597.718 216 597.718Z" fill="#ffcd00" fill-rule="evenodd"/>
+</svg>

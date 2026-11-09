@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="30in" viewBox="0 0 2160 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>I-8</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>I-8</title>
+  <path d="M180 0L1980 0C2079.411 0 2160 80.589 2160 180L2160 1980C2160 2079.411 2079.411 2160 1980 2160L180 2160C80.589 2160 0 2079.411 0 1980L0 180C0 80.589 80.589 0 180 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M180 54L1980 54C2049.588 54 2106 110.412 2106 180L2106 1980C2106 2049.588 2049.588 2106 1980 2106L180 2106C110.412 2106 54 2049.588 54 1980L54 180C54 110.412 110.412 54 180 54Z" fill="#006747"/>
+  <path d="M792.712 713.348C792.712 1018.106 792.712 1343.355 792.712 1648.112C949.304 1646.762 1105.896 1645.413 1262.49 1644.061C1161.245 1565.767 1059.999 1487.47 958.754 1409.173C1085.649 1243.13 1212.541 1077.089 1339.436 911.047C1364.455 946.724 1396.181 968.998 1434.605 977.869C1469.029 934.67 1503.453 891.473 1537.876 848.275C1599.974 994.741 1676.525 1129.969 1778.841 1245.155C1676.246 1374.751 1573.649 1504.344 1471.054 1633.938C1491.58 1701.597 1487.531 1760.317 1458.906 1810.105C1410.026 1870.683 1347.881 1891.468 1276.664 1885.025C1260.465 1916.074 1244.266 1947.123 1228.067 1978.172C946.603 1978.845 665.141 1979.522 383.679 1980.195C383.679 1680.51 383.679 1360.335 383.679 1060.649C398.515 880.198 515.602 766.604 719.177 709.56C597.524 685.977 505.176 578.508 505.176 450.141C505.176 304.596 623.88 185.89 769.425 185.89C914.968 185.89 1033.675 304.596 1033.675 450.141C1033.675 587.838 927.418 701.491 792.712 713.348Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

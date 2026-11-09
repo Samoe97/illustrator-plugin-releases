@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="18in" viewBox="0 0 1728 1296">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W16-2P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W16-2P</title>
+  <path d="M108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 1188C1728 1247.647 1679.647 1296 1620 1296L108 1296C48.353 1296 0 1247.647 0 1188L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+  <path d="M108 27L1620 27C1664.735 27 1701 63.265 1701 108L1701 1188C1701 1232.735 1664.735 1269 1620 1269L108 1269C63.265 1269 27 1232.735 27 1188L27 108C27 63.265 63.265 27 108 27ZM108 72C88.118 72 72 88.118 72 108L72 1188C72 1207.882 88.118 1224 108 1224L1620 1224C1639.882 1224 1656 1207.882 1656 1188L1656 108C1656 88.118 1639.882 72 1620 72L108 72Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M846.491 1088.172L613.252 1088.172L613.252 712.521L834.717 712.521L834.717 771.953L672.683 771.953L672.683 864.463L782.014 864.463L782.014 925.016L672.683 925.016L672.683 1027.619L846.491 1027.619ZM1141.744 1088.172L908.504 1088.172L908.504 712.521L1129.97 712.521L1129.97 771.953L967.935 771.953L967.935 864.463L1077.266 864.463L1077.266 925.016L967.935 925.016L967.935 1027.619L1141.744 1027.619ZM557.831 771.953L384.023 771.953L384.023 864.463L493.354 864.463L493.354 925.016L384.023 925.016L384.023 1088.172L324.592 1088.172L324.592 712.521L557.831 712.521ZM1402.828 765.224L1315.924 765.224L1315.924 1088.172L1256.493 1088.172L1256.493 765.224L1170.71 765.224L1170.71 712.521L1402.828 712.521Z" fill="#231f20"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="48in" viewBox="0 0 2592 3456">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W1-8</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W1-8R</title>
+  <path d="M216 0L2376 0C2495.293 0 2592 96.706 2592 216L2592 3240C2592 3359.293 2495.293 3456 2376 3456L216 3456C96.706 3456 0 3359.293 0 3240L0 216C0 96.706 96.706 0 216 0Z" fill="#ffcd00"/>
+  <path d="M297.437 156.432L1295.837 156.432L2294.237 1730.832L1295.837 3305.232L297.437 3305.232L1295.837 1730.832Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

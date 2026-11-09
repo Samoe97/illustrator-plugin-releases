@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 2083.424" width="30in" height="28.936in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-COUNTY</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2015.898 371.971A243 243 0 0 1 2147.616 670.365L1679.277 2083.424L480.723 2083.424L12.384 670.365A243 243 0 0 1 144.102 371.971L885.779 41.332A477 477 0 0 1 1274.221 41.332Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1094.02 1939.424C1094.02 1947.167 1087.743 1953.444 1080 1953.444C1072.256 1953.444 1065.979 1947.167 1065.979 1939.424C1065.979 1931.681 1072.256 1925.403 1080 1925.403C1087.743 1925.403 1094.02 1931.681 1094.02 1939.424ZM1093.021 1939.424C1093.021 1932.232 1087.191 1926.402 1080 1926.402C1072.808 1926.402 1066.978 1932.232 1066.978 1939.424C1066.978 1946.616 1072.808 1952.446 1080 1952.446C1087.191 1952.446 1093.021 1946.616 1093.021 1939.424Z" fill="#231f20"/>
+  <path d="M1094.02 211.424C1094.02 219.167 1087.743 225.445 1080 225.445C1072.256 225.445 1065.979 219.167 1065.979 211.424C1065.979 203.681 1072.256 197.403 1080 197.403C1087.743 197.403 1094.02 203.681 1094.02 211.424ZM1093.021 211.424C1093.021 204.232 1087.191 198.402 1080 198.402C1072.808 198.402 1066.978 204.232 1066.978 211.424C1066.978 218.616 1072.808 224.446 1080 224.446C1087.191 224.446 1093.021 218.616 1093.021 211.424Z" fill="#231f20"/>
+</svg>

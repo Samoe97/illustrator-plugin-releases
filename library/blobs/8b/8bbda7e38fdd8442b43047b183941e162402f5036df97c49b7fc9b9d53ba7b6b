@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="4.317in" viewBox="0 0 864 310.85">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Fish hatchery</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Fish hatchery</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,6.007 C 52.612,41.195 105.224,76.383 157.836,111.571 C 411.822,-49.254 645.545,-29.269 864,126.947 C 853.069,139.245 842.618,151.06 831.687,163.36 C 827.372,168.875 831.599,171.644 833.253,174.092 C 843.502,185.366 853.752,196.64 864,207.914 C 625.239,353.025 389.08,347.045 155.786,175.116 C 103.857,205.523 51.929,235.928 0,266.335 C 25.622,224.997 51.245,183.657 76.867,142.321 C 76.867,142.321 1.024,8.057 0,6.007 M 762.998,101.18 C 772.441,101.18 780.144,108.881 780.144,118.326 C 780.144,127.768 772.441,135.471 762.998,135.471 C 753.555,135.471 745.852,127.768 745.852,118.326 C 745.852,108.881 753.555,101.18 762.998,101.18"/>
+</svg>

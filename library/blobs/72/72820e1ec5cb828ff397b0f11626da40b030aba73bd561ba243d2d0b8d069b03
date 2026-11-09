@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="21.875in" height="25in" viewBox="0 0 1575 1800">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Accessible (wheelchair)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Accessible (wheelchair)</title>
+<path fill="#231f20" d="M 995.998,1202.385 c 0.284,6.313 0.431,12.661 0.431,19.044 c 0,230.776 -187.081,417.857 -417.857,417.857 s -417.857,-187.081 -417.857,-417.857 c 0,-142.809 71.647,-268.877 180.951,-344.243 l -12.445,-177.971 c -194.716,93.141 -329.22,291.964 -329.22,522.214 c 0,319.537 259.035,578.571 578.571,578.571 c 233.085,0 433.966,-137.837 525.608,-336.442 l -108.181,-261.173 Z"/>
+<path fill="#231f20" d="M 1513.497,1343.133 l -169.231,70.099 l -219.245,-529.303 l -541.223,0 l -6.743,-96.429 l 387.231,0 l 0,-160.714 l -398.47,0 l -21.548,-308.161 c 74.43,-14.046 130.732,-79.398 130.732,-157.91 c 0,-88.76 -71.954,-160.714 -160.714,-160.714 s -160.714,71.954 -160.714,160.714 c 0,31.354 8.988,60.605 24.514,85.334 l 55.843,798.594 l 583.706,0 l 239.654,578.571 l 317.712,-131.601 l -61.503,-148.481 Z"/>
+</svg>

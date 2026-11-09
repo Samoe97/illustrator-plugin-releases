@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="11.939in" height="12in" viewBox="0 0 859.625 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Pedestrian crossing</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Pedestrian crossing</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 519.77,0 C 488.378,0 462.775,25.606 462.775,56.998 C 462.775,88.393 488.378,113.996 519.77,113.996 C 551.165,113.996 576.771,88.393 576.771,56.998 C 576.771,25.606 551.165,0 519.77,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 692.348,359.403 L 572.784,279.694 C 567.259,256.332 544.331,152.618 498.339,128.616 C 452.785,98.499 284.828,222.224 283.864,223.241 L 283.864,403.736 L 320.28,397.403 L 334.529,253.324 C 348.252,250.564 361.971,247.804 375.694,245.045 C 345.709,322.564 334.697,397.267 351.944,446.484 L 279.115,744.14 L 328.197,778.972 L 434.276,503.482 L 483.357,555.728 L 551.437,763.139 L 616.352,739.388 L 557.77,520.897 L 489.69,398.984 L 515.786,309.013 L 543.52,345.153 L 673.35,387.902 L 692.348,359.403"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,651.769 L 106.85,651.769 L 106.85,689.082 L 0,689.082 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 126.847,651.769 L 233.697,651.769 L 233.697,689.082 L 126.847,689.082 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 391.484,651.769 L 498.334,651.769 L 498.334,689.082 L 391.484,689.082 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 624.709,651.769 L 731.558,651.769 L 731.558,689.082 L 624.709,689.082 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 752.775,651.769 L 859.625,651.769 L 859.625,689.082 L 752.775,689.082 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,826.687 L 106.85,826.687 L 106.85,864 L 0,864 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 125.46,826.687 L 232.31,826.687 L 232.31,864 L 125.46,864 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 376.386,826.687 L 483.236,826.687 L 483.236,864 L 376.386,864 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 627.312,826.687 L 734.162,826.687 L 734.162,864 L 627.312,864 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 752.775,826.687 L 859.625,826.687 L 859.625,864 L 752.775,864 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 250.923,826.687 L 357.773,826.687 L 357.773,864 L 250.923,864 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 501.849,826.687 L 608.699,826.687 L 608.699,864 L 501.849,864 Z"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="10.546in" height="12in" viewBox="0 0 759.308 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Ski jumping</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Ski jumping</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 134.295,354.314 C 229.769,252.525 330.731,157.599 443.768,77.764 C 473.947,138.123 517.297,154.583 573.813,127.147 C 577.105,135.927 580.397,144.707 583.689,153.487 C 586.163,165.01 582.868,176.534 578.752,188.054 C 539.793,268.716 500.834,349.374 461.875,430.036 C 444.316,432.232 426.76,434.424 409.2,436.62 C 437.732,371.873 466.267,307.123 494.798,242.377 C 406.456,353.218 351.038,488.199 328.539,647.327 C 297.811,662.69 267.084,678.054 236.356,693.418 C 245.327,539.107 256.378,384.656 331.831,225.917 C 283.544,270.36 235.257,314.807 186.973,359.253 C 169.414,357.606 151.855,355.961 134.295,354.314"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 543.452,0 C 577.343,0 604.982,27.642 604.982,61.53 C 604.982,95.421 577.343,123.06 543.452,123.06 C 509.564,123.06 481.922,95.421 481.922,61.53 C 481.922,27.642 509.564,0 543.452,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,828.48 C 16.238,836.599 32.475,844.718 48.713,852.837 C 240.858,756.088 432.852,659.035 625.147,562.59 C 679.711,535.223 707.096,499.669 694.157,450.956 C 677.919,476.328 654.916,497.639 625.147,514.892 C 416.765,619.421 208.382,723.951 0,828.48"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 113.663,839.644 C 129.901,847.762 146.138,855.881 162.376,864 C 354.521,767.251 495.773,687.451 688.068,591.006 C 742.632,563.639 769.002,526.055 756.063,477.342 C 739.825,502.714 720.881,529.1 691.112,546.352 C 482.73,650.882 322.045,735.114 113.663,839.644"/>
+</svg>

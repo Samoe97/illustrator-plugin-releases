@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="29.973in" viewBox="0 0 1728 2158.056">
+<title>R10-10R</title>
+<path fill="#ffffff" fill-rule="evenodd" d="M 143.965,2158.056 L 143.965,2158.056 L 1583.965,2158.056 C 1663.48,2158.056 1728,2093.685 1728,2014.091 L 1728,144.036 C 1728,64.52 1663.48,-1.819E-12 1583.965,-1.819E-12 L 145.997,-1.819E-12 L 143.965,-1.819E-12 C 64.376,-1.819E-12 0,64.52 0,144.036 L 0,2014.091 C 0,2093.547 64.507,2158.056 143.965,2158.056 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 144.467,2128.035 L 144.467,2128.035 L 1583.461,2128.035 C 1647.056,2128.035 1698.592,2076.571 1698.592,2012.971 L 1698.592,142.656 C 1698.592,79.061 1647.056,27.525 1583.461,27.525 L 144.467,27.525 C 80.872,27.525 29.408,79.061 29.408,142.656 L 29.408,2012.971 C 29.408,2076.499 80.939,2128.035 144.467,2128.035"/>
+<path fill="#ffffff" fill-rule="evenodd" d="M 144.544,2085.025 L 144.544,2085.025 L 1583.384,2085.025 C 1623.146,2085.025 1655.307,2052.865 1655.307,2013.176 L 1655.307,142.762 C 1655.307,102.999 1623.146,70.839 1583.384,70.839 L 144.544,70.839 C 104.854,70.839 72.694,102.999 72.694,142.762 L 72.694,2013.176 C 72.694,2052.9 104.819,2085.025 144.544,2085.025"/>
+<text x="283.456" y="667.213" font-family="'Roadgeek 2005 Series C', sans-serif" font-size="536.904" fill="#231f20" textLength="1137.631" lengthAdjust="spacingAndGlyphs">RIGHT</text>
+<text x="366.101" y="1257.951" font-family="'Roadgeek 2005 Series C', sans-serif" font-size="545.722" fill="#231f20" textLength="1022.859" lengthAdjust="spacingAndGlyphs">TURN</text>
+<text x="159.248" y="1846.942" font-family="'Roadgeek 2005 Series C', sans-serif" font-size="536.473" fill="#231f20" textLength="1398.706" lengthAdjust="spacingAndGlyphs">SIGNAL</text>
+</svg>

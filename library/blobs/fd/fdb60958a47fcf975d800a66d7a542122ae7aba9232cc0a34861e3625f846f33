@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="35.033in" height="32.482in" viewBox="0 0 2522.4 2338.678">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Curve with cross road</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Curve with cross road</title>
+<path fill="#231f20" d="M 761.436,1183.348 c -1.263,8.216 -3.666,15.973 -7.008,23.146 c -19.956,42.796 -70.838,61.31 -113.634,41.354 c -15.105,-7.027 -28.32,-18.529 -37.446,-33.949 l -603.349,-1019.569 l 1168.86,-193.174 c 17.678,-2.922 34.983,-0.191 50.076,6.863 c 42.796,19.956 61.319,70.835 41.363,113.631 c -3.348,7.171 -7.745,13.998 -13.227,20.246 l -394.696,449.904 l -90.94,591.547 Z"/>
+<path fill="#231f20" d="M 1437.875,2338.678 l 513.002,0 s 0,-858.5 0,-858.5 c -0.126,-194.135 -54.537,-383.792 -157.391,-548.631 c -105.875,-169.682 -257.918,-304.15 -439.673,-388.904 l -480.052,-223.904 l -216.845,464.918 l 480.073,223.914 c 91.566,42.698 168.065,110.315 221.25,195.552 c 52.034,83.393 79.572,179.255 79.637,277.224 l 0,858.331 Z"/>
+<path fill="#231f20" d="M 2522.4,1786.683 L 866.4,1786.683 L 866.4,1498.683 L 2522.4,1498.683 Z"/>
+</svg>

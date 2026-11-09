@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="7.142in" viewBox="0 0 864 514.198">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Viewing area (camera)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Viewing area (camera)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 21.969,70.971 L 382.837,70.971 L 382.837,20.791 C 382.837,9.355 392.194,0 403.63,0 L 614.401,0 C 625.838,0 635.194,9.355 635.194,20.791 L 635.194,70.971 L 842.031,70.971 C 854.114,70.971 864,80.856 864,92.94 L 864,492.229 C 864,504.314 854.114,514.198 842.031,514.198 L 21.969,514.198 C 9.885,514.198 0,504.314 0,492.229 L 0,92.94 C 0,80.856 9.885,70.971 21.969,70.971 M 439.198,25.747 L 580.931,25.747 C 583.896,25.747 586.321,28.171 586.321,31.136 L 586.321,65.582 C 586.321,68.547 583.896,70.971 580.931,70.971 L 439.198,70.971 C 436.233,70.971 433.809,68.547 433.809,65.582 L 433.809,31.136 C 433.809,28.171 436.233,25.747 439.198,25.747 M 504.137,180.415 C 564.837,180.415 614.346,229.923 614.346,290.624 C 614.346,351.324 564.837,400.831 504.137,400.831 C 443.437,400.831 393.93,351.324 393.93,290.624 C 393.93,229.923 443.437,180.415 504.137,180.415"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 504.137,237.001 C 533.671,237.001 557.76,261.09 557.76,290.624 C 557.76,320.157 533.671,344.247 504.137,344.247 C 474.603,344.247 450.514,320.157 450.514,290.624 C 450.514,261.09 474.603,237.001 504.137,237.001"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 41.573,5.646 L 218.562,5.646 C 220.653,5.646 222.366,7.359 222.366,9.451 L 222.366,46.821 C 222.366,48.915 220.653,50.625 218.562,50.625 L 41.573,50.625 C 39.481,50.625 37.77,48.915 37.77,46.821 L 37.77,9.451 C 37.77,7.359 39.481,5.646 41.573,5.646"/>
+</svg>

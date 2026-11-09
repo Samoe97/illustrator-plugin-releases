@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="48in" viewBox="0 0 3456 3456">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-OCTAGON</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-OCTAGON Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M1012.239 0L2443.761 0L3456 1012.239L3456 2443.761L2443.761 3456L1012.239 3456L0 2443.761L0 1012.239Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M661.5 648C661.5 655.456 655.456 661.5 648 661.5C640.544 661.5 634.5 655.456 634.5 648C634.5 640.544 640.544 634.5 648 634.5C655.456 634.5 661.5 640.544 661.5 648Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M661.5 2808C661.5 2815.456 655.456 2821.5 648 2821.5C640.544 2821.5 634.5 2815.456 634.5 2808C634.5 2800.544 640.544 2794.5 648 2794.5C655.456 2794.5 661.5 2800.544 661.5 2808Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M2821.5 648C2821.5 655.456 2815.456 661.5 2808 661.5C2800.544 661.5 2794.5 655.456 2794.5 648C2794.5 640.544 2800.544 634.5 2808 634.5C2815.456 634.5 2821.5 640.544 2821.5 648Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M2821.5 2808C2821.5 2815.456 2815.456 2821.5 2808 2821.5C2800.544 2821.5 2794.5 2815.456 2794.5 2808C2794.5 2800.544 2800.544 2794.5 2808 2794.5C2815.456 2794.5 2821.5 2800.544 2821.5 2808Z"/>
+</svg>

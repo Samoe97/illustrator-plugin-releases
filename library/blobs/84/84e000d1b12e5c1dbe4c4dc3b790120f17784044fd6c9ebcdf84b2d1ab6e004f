@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="81.746in" height="81.746in" viewBox="0 0 5885.727 5885.727">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-DIAMOND</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-DIAMOND Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M2751.945 79.081C2857.386 -26.36 3028.341 -26.36 3133.782 79.081L5806.646 2751.945C5912.087 2857.386 5912.087 3028.341 5806.646 3133.782L3133.782 5806.646C3028.341 5912.087 2857.386 5912.087 2751.945 5806.646L79.081 3133.782C-26.36 3028.341 -26.36 2857.386 79.081 2751.945Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M1660.364 1646.864C1660.364 1654.319 1654.319 1660.364 1646.864 1660.364C1639.408 1660.364 1633.364 1654.319 1633.364 1646.864C1633.364 1639.408 1639.408 1633.364 1646.864 1633.364C1654.319 1633.364 1660.364 1639.408 1660.364 1646.864Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M1660.364 4238.864C1660.364 4246.32 1654.319 4252.364 1646.864 4252.364C1639.408 4252.364 1633.364 4246.32 1633.364 4238.864C1633.364 4231.408 1639.408 4225.364 1646.864 4225.364C1654.319 4225.364 1660.364 4231.408 1660.364 4238.864Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M4252.364 1646.864C4252.364 1654.319 4246.32 1660.364 4238.864 1660.364C4231.408 1660.364 4225.364 1654.319 4225.364 1646.864C4225.364 1639.408 4231.408 1633.364 4238.864 1633.364C4246.32 1633.364 4252.364 1639.408 4252.364 1646.864Z"/>
+<path fill="none" stroke="#231f20" stroke-width="1" d="M4252.364 4238.864C4252.364 4246.32 4246.32 4252.364 4238.864 4252.364C4231.408 4252.364 4225.364 4246.32 4225.364 4238.864C4225.364 4231.408 4231.408 4225.364 4238.864 4225.364C4246.32 4225.364 4252.364 4231.408 4252.364 4238.864Z"/>
+</svg>

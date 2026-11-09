@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 864" width="24in" height="12in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W16-15P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1620 0A108 108 0 0 1 1728 108L1728 756A108 108 0 0 1 1620 864L108 864A108 108 0 0 1 0 756L0 108A108 108 0 0 1 108 0Z" fill="#ffcd00"/>
+  <path d="M1620 27A81 81 0 0 1 1701 108L1701 756A81 81 0 0 1 1620 837L108 837A81 81 0 0 1 27 756L27 108A81 81 0 0 1 108 27ZM1620 72L108 72A36 36 0 0 0 72 108L72 756A36 36 0 0 0 108 792L1620 792A36 36 0 0 0 1656 756L1656 108A36 36 0 0 0 1620 72Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M994.674 611.993L726.025 611.993L726.025 252.003L988.764 252.003L988.764 316.479L791.575 316.479L791.575 383.641L899.035 383.641L899.035 449.192L791.575 449.192L791.575 547.517L994.674 547.517Z" fill="#231f20"/>
+  <path d="M630.947 611.993L575.605 611.993L403.669 369.134L403.669 611.993L340.805 611.993L340.805 252.003L403.669 252.003L569.157 492.175L569.157 252.003L630.947 252.003Z" fill="#231f20"/>
+  <path d="M1416.616 252.003L1352.141 611.993L1283.904 611.993L1225.875 370.746L1168.922 611.993L1100.685 611.993L1035.135 252.003L1101.76 252.003L1140.982 484.653L1194.175 252.003L1258.651 252.003L1313.992 484.653L1350.529 252.003Z" fill="#231f20"/>
+</svg>

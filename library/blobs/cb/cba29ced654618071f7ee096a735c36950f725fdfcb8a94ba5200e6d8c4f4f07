@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="11.474in" height="12in" viewBox="0 0 826.141 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Point of interest</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Point of interest</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 649.66,0 C 746.862,0 826.141,79.279 826.141,176.481 C 826.141,273.683 746.862,352.962 649.66,352.962 C 552.457,352.962 473.176,273.683 473.176,176.481 C 473.176,79.279 552.457,0 649.66,0"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,750.868 L 283.938,446.29 L 186.33,355.306 L 500.799,335.322 L 502.893,650.419 L 405.294,559.423 L 121.357,864 L 0,750.868"/>
+</svg>

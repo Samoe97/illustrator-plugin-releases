@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="3.202in" height="3.282in" viewBox="0 0 230.544 236.304">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p2-2</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p2-2</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 115.273,0 C 178.761,0 230.544,53.076 230.544,118.153 C 230.544,183.228 178.761,236.304 115.273,236.304 C 51.783,236.304 0,183.228 0,118.153 C 0,53.076 51.783,0 115.273,0"/>
+<path fill="#ffcd00" fill-rule="evenodd" d="M 115.273,17.843 C 169.173,17.843 213.136,62.904 213.136,118.153 C 213.136,173.4 169.173,218.461 115.273,218.461 C 61.371,218.461 17.408,173.4 17.408,118.153 C 17.408,62.904 61.371,17.843 115.273,17.843"/>
+<path fill="#231f20" d="M102.991 144.325L92.942 144.325L92.942 170.546L76.298 170.546L76.298 144.325L26.525 144.325L26.525 129.094L76.298 65.347L92.942 65.347L92.942 129.251L102.991 129.251ZM76.298 129.251L76.298 91.568L46.466 129.251Z"/>
+<path fill="#231f20" d="M161.816 172.298Q143.286 172.298 133.314 158.243Q123.342 144.188 123.342 117.806Q123.342 92.052 133.314 77.761Q143.286 63.471 161.816 63.471Q180.661 63.471 190.476 77.761Q200.291 92.052 200.291 117.806Q200.291 144.188 190.476 158.243Q180.661 172.298 161.816 172.298ZM161.816 80.117Q150.824 80.117 145.799 90.56Q140.773 101.003 140.616 117.492Q140.616 136.022 145.563 145.602Q150.51 155.181 161.816 155.024Q173.751 154.71 178.305 145.131Q182.86 135.551 183.174 117.492Q182.86 99.904 177.913 90.324Q172.966 80.745 161.816 80.117Z"/>
+</svg>

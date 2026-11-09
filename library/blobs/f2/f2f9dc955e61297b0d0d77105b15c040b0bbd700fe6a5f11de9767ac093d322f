@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2354.29 2354.29">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W2-3a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2322.661 1100.777A108 108 0 0 1 2322.661 1253.513L1253.513 2322.661A108 108 0 0 1 1100.777 2322.661L31.629 1253.513A108 108 0 0 1 31.629 1100.777L1100.777 31.629A108 108 0 0 1 1253.513 31.629Z" fill="#ffcd00"/>
+  <path d="M2303.569 1119.869A81 81 0 0 1 2303.569 1234.421L1234.421 2303.569A81 81 0 0 1 1119.869 2303.569L50.721 1234.421A81 81 0 0 1 50.721 1119.869L1119.869 50.721A81 81 0 0 1 1234.421 50.721ZM2271.749 1151.689L1202.601 82.541A36 36 0 0 0 1151.689 82.541L82.541 1151.689A36 36 0 0 0 82.541 1202.601L1151.689 2271.749A36 36 0 0 0 1202.601 2271.749L2271.749 1202.601A36 36 0 0 0 2271.749 1151.689Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M961.15 457.15L1249.15 457.15L1249.15 1897.15L961.15 1897.15Z" fill="#231f20"/>
+  <path d="M1022.405 1191.01L1226.05 987.366L1795.074 1556.39L1591.429 1760.035Z" fill="#231f20"/>
+</svg>

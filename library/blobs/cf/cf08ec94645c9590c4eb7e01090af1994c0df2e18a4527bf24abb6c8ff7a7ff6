@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="34.824in" height="41.8in" viewBox="0 0 2507.356 3009.6">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Divided highway begins (W6-1)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Divided highway begins (W6-1)</title>
+<path fill="#231f20" d="M 810,2340.229 l -378,0 l 0,-272.629 c 0,-120.897 -28.257,-240.822 -81.707,-346.8 l -226.835,-447.669 c -80.767,-160.092 -123.458,-338.913 -123.458,-517.13 l 0,-237.6 l 378,0 l 0,237.6 c 0,119.342 28.671,239.267 82.907,346.8 l 226.834,447.67 c 79.982,158.535 122.258,337.356 122.258,517.13 l 0,272.629 Z"/>
+<path fill="#231f20" d="M 197.686,2193.126 c -5.88,-1.715 -11.808,-2.526 -17.639,-2.528 c -34.794,0 -63.003,28.214 -63.003,63.008 c -0.011,12.275 3.554,24.682 11.011,35.578 l 492.989,720.417 l 492.989,-720.417 c 7.456,-10.896 11.021,-23.302 11.011,-35.578 c 0,-34.794 -28.209,-63.008 -63.003,-63.008 c -5.831,0.003 -11.76,0.813 -17.639,2.528 l -423.358,123.479 l -423.357,-123.479 Z"/>
+<path fill="#231f20" d="M 1096.2,1116 c 76.019,0 140.748,-47.237 167.135,-113.866 c 122.91,-310.356 192.865,-647.931 192.865,-1002.134 l -720,0 c 0,354.203 69.955,691.778 192.865,1002.134 c 26.387,66.629 91.117,113.866 167.135,113.866 Z"/>
+<path fill="#231f20" d="M 1760.4,2772 l -378,0 l 0,-237.601 c 0,-89.117 10.641,-178.607 31.625,-265.985 c 20.694,-86.166 51.488,-170.459 91.527,-250.537 l 0.364,-0.725 l 225.842,-446.876 c 27.16,-53.368 47.963,-109.96 61.831,-168.203 c 13.809,-57.997 20.81,-117.909 20.81,-178.074 l 0,-273.828 l 378,0 l 0,273.828 c 0,89.612 -10.46,178.981 -31.089,265.626 c -20.777,87.264 -51.938,172.047 -92.622,252.005 l -225.25,445.709 c -27.097,54.273 -47.91,111.247 -61.864,169.346 c -14.05,58.503 -21.174,118.294 -21.174,177.714 l 0,237.601 Z"/>
+<path fill="#231f20" d="M 2426.714,1097.274 c 5.88,1.715 11.808,2.526 17.639,2.528 c 34.794,0 63.003,-28.214 63.003,-63.008 c 0.011,-12.275 -3.555,-24.682 -11.011,-35.578 l -492.989,-720.417 l -492.989,720.417 c -7.456,10.896 -11.021,23.303 -11.011,35.578 c 0,34.794 28.209,63.008 63.003,63.008 c 5.831,-0.003 11.76,-0.813 17.639,-2.528 l 423.358,-123.479 l 423.357,123.479 Z"/>
+</svg>

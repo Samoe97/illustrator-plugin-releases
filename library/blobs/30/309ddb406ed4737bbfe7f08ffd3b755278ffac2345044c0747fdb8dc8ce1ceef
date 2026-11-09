@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 1512">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-7P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 1404A108 108 0 0 1 2052 1512L108 1512A108 108 0 0 1 0 1404L0 108A108 108 0 0 1 108 0L2052 0A108 108 0 0 1 2160 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2124 1404A72 72 0 0 1 2052 1476L108 1476A72 72 0 0 1 36 1404L36 108A72 72 0 0 1 108 36L2052 36A72 72 0 0 1 2124 108Z" fill="#006747"/>
+  <path d="M913.496 618.954L704.654 786.509L618.635 1040.066C617.053 1044.733 614.567 1049.076 611.347 1052.806C592.497 1074.648 556.762 1068.187 546.612 1041.246L360 545.184L889.971 550.872C918.769 551.162 937.034 582.585 922.976 607.748C920.572 612.05 917.339 615.87 913.496 618.954Z" fill="#ffffff"/>
+  <path d="M1200.988 666.717C1176.912 673.739 1152.027 655.527 1152.027 629.997C1152.02 622.316 1154.375 614.734 1158.712 608.396L1458.027 171L1757.341 608.396C1761.678 614.734 1764.033 622.316 1764.026 629.997C1764.026 655.527 1739.141 673.739 1715.065 666.717L1458.026 591.747L1200.988 666.717Z" fill="#ffffff"/>
+  <path d="M638.728 880.431L770.362 692.435L1343.25 1093.569L1343.25 577.404L1572.75 577.404L1572.75 1314L1257.938 1314Z" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="8.531in" viewBox="0 0 864 614.251">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Grocery store</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Grocery store</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 189.504,613.94 L 189.504,131.741 L 295.664,44.767 L 295.664,0 L 321.245,0 L 321.245,44.767 L 427.406,131.741 L 427.406,613.94 L 189.504,613.94"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0.011,550.86 C 1.296,505.744 67.818,487.05 85.405,487.05 C 133.43,487.05 170.112,501.968 169.886,550.86 C 169.68,595.179 135.661,613.94 85.405,613.94 C 67.32,613.94 -0.982,585.595 0.011,550.86"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 713.871,613.528 C 758.657,612.7 769.957,613.528 815.158,613.528 C 834.173,617.387 843.741,605.792 842.443,578.8 C 840.16,531.371 839.837,483.731 834.173,436.586 C 831.08,410.812 836.571,400.399 844.095,388.63 C 848.506,381.464 852.915,374.297 857.324,367.131 C 869.181,338.882 867.252,312.698 835.001,291.065 C 794.489,261.296 732.751,249.72 661.367,246.415 C 589.983,249.72 528.245,261.296 487.735,291.065 C 455.482,312.698 453.553,338.882 465.41,367.131 C 469.819,374.297 474.228,381.464 478.639,388.63 C 486.165,400.399 491.656,410.812 488.561,436.586 C 482.899,483.731 482.576,531.371 480.293,578.8 C 478.993,605.792 488.561,617.387 507.578,613.528 C 552.779,613.528 597.977,613.528 643.178,613.528 C 591.548,599.848 550.056,572.164 544.784,494.463 C 547.13,443.265 571.661,415.566 615.893,415.089 C 624.421,412.312 638.76,417.281 653.927,423.357 C 651.17,398.001 637.39,380.361 612.585,370.439 C 616.168,364.101 619.752,357.762 623.335,351.422 C 629.948,350.596 635.461,351.975 639.87,355.556 C 651.859,364.651 662.334,376.777 672.117,390.284 C 677.354,402.41 679.283,414.536 677.904,426.665 C 690.581,420.463 706.015,416.327 727.514,416.741 C 772.439,419.498 795.313,445.404 796.141,494.463 C 793.665,551.797 760.868,587.9 713.871,613.528"/>
+</svg>

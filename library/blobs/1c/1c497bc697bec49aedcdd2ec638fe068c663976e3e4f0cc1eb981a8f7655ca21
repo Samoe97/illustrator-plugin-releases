@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="18in" viewBox="0 0 2592 1296">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M4-15</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M4-15</title>
+  <path d="M108 0L2484 0C2543.647 0 2592 48.353 2592 108L2592 1188C2592 1247.647 2543.647 1296 2484 1296L108 1296C48.353 1296 0 1247.647 0 1188L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+  <path d="M108 27L2484 27C2528.735 27 2565 63.265 2565 108L2565 1188C2565 1232.735 2528.735 1269 2484 1269L108 1269C63.265 1269 27 1232.735 27 1188L27 108C27 63.265 63.265 27 108 27ZM108 72C88.118 72 72 88.118 72 108L72 1188C72 1207.882 88.118 1224 108 1224L2484 1224C2503.882 1224 2520 1207.882 2520 1188L2520 108C2520 88.118 2503.882 72 2484 72L108 72Z" fill="#231f20" fill-rule="evenodd"/>
+  <path fill="#231f20" d="M1793.047 926.182L1377.85 926.182L1377.85 369.818L1479.158 369.818L1479.158 826.535L1793.047 826.535Z"/>
+  <path fill="#231f20" d="M2304.904 926.182L1889.707 926.182L1889.707 369.818L1991.015 369.818L1991.015 826.535L2304.904 826.535Z"/>
+  <path fill="#231f20" d="M1248.136 645.091Q1248.136 775.559 1185.395 855.751Q1122.655 935.943 1017.948 935.943Q903.269 935.943 838.451 843.702Q781.943 763.925 781.943 646.753Q781.943 513.793 845.099 436.925Q908.255 360.057 1017.948 360.057Q1120.993 360.057 1184.564 438.587Q1248.136 517.117 1248.136 645.091ZM1149.247 646.753Q1149.247 558.667 1114.76 508.807Q1080.273 458.947 1017.948 458.947Q954.792 458.947 919.058 508.807Q883.325 558.667 883.325 646.753Q883.325 735.671 919.058 785.947Q954.792 836.222 1017.948 836.222Q1089.414 836.222 1122.655 773.897Q1149.247 724.868 1149.247 646.753Z"/>
+  <path fill="#231f20" d="M703.539 467.805L543.273 467.805L543.273 926.182L446.116 926.182L446.116 467.805L285.85 467.805L285.85 369.818L703.539 369.818Z"/>
+  </svg>

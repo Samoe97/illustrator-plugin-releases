@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="38.5in" viewBox="0 0 3456 2772">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W16-2P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W16-2P</title>
+  <path d="M216 0L3240 0C3359.293 0 3456 96.706 3456 216L3456 2556C3456 2675.293 3359.293 2772 3240 2772L216 2772C96.706 2772 0 2675.293 0 2556L0 216C0 96.706 96.706 0 216 0Z" fill="#ffcd00"/>
+  <path d="M216 54L3240 54C3329.47 54 3402 126.53 3402 216L3402 2556C3402 2645.47 3329.47 2718 3240 2718L216 2718C126.53 2718 54 2645.47 54 2556L54 216C54 126.53 126.53 54 216 54ZM216 144C176.236 144 144 176.236 144 216L144 2556C144 2595.764 176.236 2628 216 2628L3240 2628C3279.764 2628 3312 2595.764 3312 2556L3312 216C3312 176.236 3279.764 144 3240 144L216 144Z" fill="#231f20" fill-rule="evenodd"/>
+  <path fill="#231f20" d="M1690.246 2335.12L1187.324 2335.12L1187.324 1525.124L1664.859 1525.124L1664.859 1653.273L1315.472 1653.273L1315.472 1852.749L1551.217 1852.749L1551.217 1983.316L1315.472 1983.316L1315.472 2204.553L1690.246 2204.553ZM2326.885 2335.12L1823.962 2335.12L1823.962 1525.124L2301.497 1525.124L2301.497 1653.273L1952.11 1653.273L1952.11 1852.749L2187.855 1852.749L2187.855 1983.316L1952.11 1983.316L1952.11 2204.553L2326.885 2204.553ZM1067.824 1653.273L693.05 1653.273L693.05 1852.749L928.795 1852.749L928.795 1983.316L693.05 1983.316L693.05 2335.12L564.902 2335.12L564.902 1525.124L1067.824 1525.124ZM2889.849 1638.765L2702.462 1638.765L2702.462 2335.12L2574.313 2335.12L2574.313 1638.765L2389.344 1638.765L2389.344 1525.124L2889.849 1525.124Z"/>
+</svg>

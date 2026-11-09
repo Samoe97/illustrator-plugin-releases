@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="11.007in" viewBox="0 0 864 792.5">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Shelter (sleeping)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Shelter (sleeping)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 96.958,792.5 L 96.958,365.509 L 0,402.336 L 0,321.578 L 864,0 L 863.356,81.112 L 186.894,332.768 L 186.894,717.387 L 782.414,717.387 L 782.414,792.5 L 96.958,792.5"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 301.673,678.176 L 302.233,671.173 C 309.136,582.495 412.899,586.682 482.57,587.312 L 503.671,587.499 C 572.249,588.14 676.922,582.035 681.469,670.986 L 681.828,678.176 L 301.673,678.176"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 246.663,600.886 C 267.85,600.886 285.085,618.112 285.085,639.286 C 285.085,660.471 267.85,677.691 246.663,677.691 C 225.489,677.691 208.266,660.471 208.266,639.286 C 208.266,618.112 225.489,600.886 246.663,600.886"/>
+</svg>

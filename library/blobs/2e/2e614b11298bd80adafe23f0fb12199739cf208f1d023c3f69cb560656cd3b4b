@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="11.164in" viewBox="0 0 864 803.799">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Picnic shelter</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Picnic shelter</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 820.069,803.799 L 104.134,803.799 L 104.134,351.458 L 0,392.138 L 3.254,328.68 L 864,0 L 862.373,68.341 L 175.729,327.054 L 175.729,733.831 L 820.069,733.831 L 820.069,803.799"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 308.235,595.447 L 308.235,576.738 L 366.229,576.738 L 366.229,595.447 L 308.235,595.447"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 546.442,595.447 L 546.442,576.738 L 604.433,576.738 L 604.433,595.447 L 546.442,595.447"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 366.229,523.735 L 366.229,505.029 L 546.442,505.029 L 546.442,523.735 L 366.229,523.735"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 560.385,712.678 L 532.739,622.26 L 604.433,622.26 L 604.433,604.177 L 527.211,604.177 L 505.284,532.465 L 473.484,532.465 L 495.408,604.177 L 418.109,604.177 L 440.036,532.465 L 408.233,532.465 L 386.306,604.177 L 308.235,604.177 L 308.235,622.26 L 380.778,622.26 L 353.132,712.678 L 384.935,712.678 L 412.581,622.26 L 500.936,622.26 L 528.582,712.678 L 560.385,712.678"/>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3456 2592">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R2-6bP</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M3240 0A216 216 0 0 1 3456 216L3456 2376A216 216 0 0 1 3240 2592L216 2592A216 216 0 0 1 0 2376L0 216A216 216 0 0 1 216 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M3240 45A171 171 0 0 1 3411 216L3411 2376A171 171 0 0 1 3240 2547L216 2547A171 171 0 0 1 45 2376L45 216A171 171 0 0 1 216 45ZM3240 108L216 108A108 108 0 0 0 108 216L108 2376A108 108 0 0 0 216 2484L3240 2484A108 108 0 0 0 3348 2376L3348 216A108 108 0 0 0 3240 108Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1304.568 1603.128L1038.06 1603.128L1038.06 1744.979L1205.702 1744.979L1205.702 1837.827L1038.06 1837.827L1038.06 2088L946.932 2088L946.932 1512L1304.568 1512Z" fill="#231f20"/>
+  <path d="M1390.8 1512L1483 1512L1483 2088L1390.8 2088Z" fill="#231f20"/>
+  <path d="M2013.262 2088L1932.45 2088L1712.366 1697.696L1712.366 2088L1621.238 2088L1621.238 1512L1712.366 1512L1922.134 1879.952L1922.134 1512L2013.262 1512Z" fill="#231f20"/>
+  <path d="M2509.099 2088.1L2151.401 2088.1L2151.401 1512L2491.042 1512L2491.042 1603.144L2242.545 1603.144L2242.545 1745.02L2410.216 1745.02L2410.216 1837.884L2242.545 1837.884L2242.545 1995.236L2509.099 1995.236Z" fill="#231f20"/>
+</svg>

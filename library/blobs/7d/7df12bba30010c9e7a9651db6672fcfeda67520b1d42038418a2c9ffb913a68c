@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="10.788in" viewBox="0 0 864 776.712">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Group camping</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Group camping</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 450.44,742.927 L 250.125,413.656 L 49.719,743.493 L 0,743.493 L 0,776.712 L 500.365,776.712 L 500.365,742.927 L 450.44,742.927 M 166.926,743.021 L 250.064,604.174 L 332.835,743.021 L 166.926,743.021"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 823.21,476.146 L 659.385,206.71 L 495.376,476.638 L 454.66,476.638 L 454.66,503.811 L 864,503.811 L 864,476.146 L 823.21,476.146 M 591.192,476.297 L 659.165,362.707 L 726.966,476.297 L 591.192,476.297"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 382.109,209.525 L 254.686,0 L 127.16,209.898 L 95.479,209.898 L 95.479,231.022 L 413.884,231.022 L 413.884,209.525 L 382.109,209.525 M 201.617,209.722 L 254.529,121.369 L 307.249,209.722 L 201.617,209.722"/>
+</svg>

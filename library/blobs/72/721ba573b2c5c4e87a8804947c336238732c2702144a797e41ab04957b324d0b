@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="72in" height="30in" viewBox="0 0 5184 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>E1-5aP</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>E1-5aP</title>
+  <path d="M216 0L4968 0C5087.293 0 5184 96.706 5184 216L5184 1944C5184 2063.293 5087.293 2160 4968 2160L216 2160C96.706 2160 0 2063.293 0 1944L0 216C0 96.706 96.706 0 216 0Z" fill="#ffcd00"/>
+  <path d="M216 54L4968 54C5057.47 54 5130 126.53 5130 216L5130 1944C5130 2033.47 5057.47 2106 4968 2106L216 2106C126.53 2106 54 2033.47 54 1944L54 216C54 126.53 126.53 54 216 54ZM216 144C176.236 144 144 176.236 144 216L144 1944C144 1983.765 176.236 2016 216 2016L4968 2016C5007.765 2016 5040 1983.765 5040 1944L5040 216C5040 176.236 5007.765 144 4968 144L216 144Z" fill="#231f20" fill-rule="evenodd"/>
+  <path fill="#231f20" d="M2530.987 1511.992L1886.214 1511.992L1886.214 647.996L2516.802 647.996L2516.802 802.742L2043.539 802.742L2043.539 963.935L2301.448 963.935L2301.448 1121.259L2043.539 1121.259L2043.539 1357.246L2530.987 1357.246Z"/>
+  <path fill="#231f20" d="M3394.986 802.742L2907.538 802.742L2907.538 978.12L3177.053 978.12L3177.053 1136.734L2907.538 1136.734L2907.538 1511.992L2750.213 1511.992L2750.213 647.996L3394.986 647.996Z"/>
+  <path fill="#231f20" d="M1699.388 1511.992L1054.615 1511.992L1054.615 647.996L1211.94 647.996L1211.94 1357.246L1699.388 1357.246Z"/>
+  <path fill="#231f20" d="M4131.32 800.162L3882.438 800.162L3882.438 1511.992L3731.561 1511.992L3731.561 800.162L3482.678 800.162L3482.678 647.996L4131.32 647.996Z"/>
+  </svg>

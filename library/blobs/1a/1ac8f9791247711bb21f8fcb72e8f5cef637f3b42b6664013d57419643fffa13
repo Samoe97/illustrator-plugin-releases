@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="24in" viewBox="0 0 1728 1728">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>R10-20aP</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>R10-20aP</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M 1728,1620.01 C 1728,1679.635 1679.626,1728 1620,1728 L 108,1728 C 48.298,1728 0,1679.635 0,1620.01 L 0,108 C 0,48.298 48.298,0 108,0 L 1620,0 C 1679.626,0 1728,48.298 1728,108 Z"/>
+<path fill="#231f20" d="M 1656,1620.01 C 1656,1639.872 1639.843,1656.01 1620,1656.01 L 108,1656.01 C 88.147,1656.01 72,1639.872 72,1620.01 L 72,108 C 72,88.157 88.147,72 108,72 L 1620,72 C 1639.843,72 1656,88.157 1656,108 Z M 1620,26.966 L 108,26.966 C 63.331,26.966 26.957,63.274 26.957,108 L 26.957,1620.01 C 26.957,1664.678 63.331,1700.966 108,1700.966 L 1620,1700.966 C 1664.669,1700.966 1700.957,1664.678 1700.957,1620.01 L 1700.957,108 C 1700.957,63.274 1664.669,26.966 1620,26.966"/>
+</svg>

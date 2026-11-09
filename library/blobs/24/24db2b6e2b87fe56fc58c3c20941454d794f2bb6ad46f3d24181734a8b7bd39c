@@ -1,0 +1,40 @@
+{
+  "about": "The shop's sign colours. tools/normalize_colors.py rewrites every library SVG so each colour below uses its one `rgb` value (the on-screen look). The plug-in reads this file when placing and swaps those values for `cmyk` (spot = a spot swatch named `name`). Colours in `keep` stay as they are (pictograms). Edit the CMYK here; no rebuild needed.",
+  "colors": [
+    { "key": "black",        "name": "Rich Black",    "label": "Black",                "spot": false, "cmyk": [50, 50, 50, 100], "rgb": "#231f20" },
+    { "key": "white",        "name": "White",         "label": "White",                "spot": false, "cmyk": [0, 0, 0, 0],      "rgb": "#ffffff" },
+    { "key": "yellow",       "name": "PANTONE 116 C", "label": "Traffic Yellow",       "spot": true,  "cmyk": [0, 16, 100, 0],   "rgb": "#ffcd00" },
+    { "key": "red",          "name": "PANTONE 187 C", "label": "Traffic Red",          "spot": true,  "cmyk": [23, 100, 88, 15], "rgb": "#a6192e" },
+    { "key": "blue",         "name": "PANTONE 294 C", "label": "Traffic Blue",         "spot": true,  "cmyk": [100, 86, 29, 23], "rgb": "#002f6c" },
+    { "key": "green",        "name": "PANTONE 342 C", "label": "Traffic Green",        "spot": true,  "cmyk": [96, 34, 81, 27],  "rgb": "#006747" },
+    { "key": "orange",       "name": "PANTONE 152 C", "label": "Traffic Orange",       "spot": true,  "cmyk": [6, 66, 100, 0],   "rgb": "#e57200" },
+    { "key": "yellow-green", "name": "PANTONE 382 C", "label": "Traffic Yellow-Green", "spot": true,  "cmyk": [30, 1, 100, 0],   "rgb": "#c4d600" },
+    { "key": "brown",        "name": "PANTONE 469 C", "label": "Traffic Brown",        "spot": true,  "cmyk": [40, 69, 87, 43],  "rgb": "#693f23" },
+    { "key": "purple",       "name": "PANTONE 259 C", "label": "Traffic Purple",       "spot": true,  "cmyk": [68, 100, 19, 6],  "rgb": "#6d2077" },
+    { "key": "pink",         "name": "PANTONE 198 C", "label": "Traffic Pink",         "spot": true,  "cmyk": [4, 89, 51, 0],    "rgb": "#df4661" }
+  ],
+  "map": {
+    "black":        ["#231f20", "#000000", "#1f1a17", "#010101", "#221f1f", "#030404", "#010403", "#0a0a0a", "#383633", "#3c3d3d", "#aba8a8", "#070406", "#070506", "#030406", "#221f20", "#000300", "#010005", "#040907", "#090507"],
+    "white":        ["#ffffff", "#fafafa", "#f5f5f5", "#eeece1", "#f6f6f7"],
+    "yellow":       ["#ffd046", "#fff500", "#ffd24f", "#ffd147", "#fff200", "#facb31", "#f9ee22", "#ffeb0f", "#f0d040", "#fbd118", "#ffce02", "#ffd201", "#fff459", "#f2e408", "#f5e500", "#ffcc00", "#fed142", "#fdcb06", "#f5e617"],
+    "red":          ["#bf311a", "#d9261c", "#bf301a", "#d9001d", "#d12027", "#ed1c24", "#ef4035", "#ed1d2c", "#ed2e38", "#ed2f39", "#c41230", "#ab192d", "#aa1e2e", "#ff0000", "#ab003e", "#d71f26", "#ed3024", "#e91d24"],
+    "blue":         ["#005a9c", "#007dc2", "#005697", "#00aeef", "#4a5778", "#003473", "#291770", "#2c286d", "#0000cd", "#09008c", "#1b2369"],
+    "green":        ["#006f53", "#009140", "#006f54", "#006f51", "#00853f", "#0d6928", "#45916e", "#6abd45", "#64a696", "#056233", "#007336", "#006d3a", "#038f45"],
+    "orange":       ["#f7921e", "#e8781a", "#f5911d", "#e87817", "#fc8c00", "#f6891f", "#f58b1f"],
+    "yellow-green": ["#bed73d", "#c1d82e", "#b7d435", "#60ff00", "#b0d235"],
+    "brown":        ["#7d4802", "#70615c", "#70635c", "#401b0b", "#562411", "#4e230d"],
+    "purple":       ["#6d276a", "#4c00a1", "#9c248a"],
+    "pink":         ["#ec008c", "#e70d72", "#de068c"]
+  },
+  "overrides": [
+    { "file": "^M4-20[_ ]", "from": "#6abd45", "to": "yellow-green", "why": "M4-20's inner green is yellow-green on every version" }
+  ],
+  "keep": ["#009ddc", "#159cd7", "#449fc3", "#94aed4", "#66b757", "#5fc07f", "#8dc57d", "#a4d49a", "#0fb1af", "#00b1b0",
+           "#59c5c3", "#5ac5c3", "#ff6600", "#f68b1e", "#a83a00", "#592900", "#fff047", "#e8d9a8", "#a8a6a6", "#8ac1dc",
+           "#76c7ca", "#9c9a9a", "#999999", "#939598", "#b8967f",
+           "#929497", "#0a9ad7", "#b5b7b9", "#be5f16", "#203a70", "#f37920", "#00b0ae", "#119cd5", "#0989cb", "#f99b1c",
+           "#71451c", "#feca87", "#ebdac8", "#08572c", "#439ec2", "#93bfd8", "#70adcc", "#92bed6", "#a7dff8", "#c5e7f9",
+           "#bac278", "#7bba88", "#97ca65", "#52ad6f", "#f37836", "#0e4f92", "#f27921", "#9d897a", "#d2d9e4", "#a2b6be",
+           "#9aa6a8", "#ae0c28", "#faa619", "#eb6a23", "#07afae", "#0998d6", "#00a2e5", "#00ea20", "#92ff36", "#ff9f3d",
+           "#ffea4f", "#ffff36", "#ffd12c", "#9f0000", "#ffa917", "#0f6600", "#bdbcbc", "#009366", "#bcbec0", "#919395"]
+}

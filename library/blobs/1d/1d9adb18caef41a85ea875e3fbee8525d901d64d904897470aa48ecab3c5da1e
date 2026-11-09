@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="5.578in" height="12in" viewBox="0 0 401.613 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Restroom (women)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Restroom (women)</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 38.924,577.61 L 133.626,256.391 L 118.632,256.391 L 58.812,448.163 C 55.859,457.617 44.749,464.671 35.584,466.688 C 24.006,469.243 13.055,464.826 6.138,455.293 C 0.391,447.232 -1.628,435.061 1.401,425.682 L 71.242,209.186 C 73.806,201.277 77.301,193.14 82.896,186.861 C 91.051,177.559 101.619,169.577 112.494,163.84 C 119.563,160.04 128.108,156.864 136.112,156.864 L 270.822,156.864 C 289,156.864 307.1,161.747 320.774,174.225 C 330.173,182.831 340.041,196.939 343.302,209.186 L 400.637,425.682 C 403.123,435.14 400.792,445.37 394.423,452.814 C 385.957,462.657 373.524,466.223 361.326,461.648 C 353.015,458.627 345.712,451.728 343.302,443.122 L 290.786,256.391 L 275.947,256.391 L 363.194,577.61 L 270.822,577.61 L 270.822,836.508 C 270.822,845.035 264.297,852.862 258.003,857.747 C 248.524,865.033 235.863,866.04 225.296,860.305 C 214.576,854.568 205.952,841.235 205.952,828.988 L 205.952,575.131 L 188.473,575.131 L 188.473,834.105 C 188.473,843.483 184.354,851.624 176.743,857.282 C 165.165,865.732 149.785,865.884 137.821,857.978 C 128.808,852.086 123.682,842.321 123.682,831.623 L 123.682,577.61 L 38.924,577.61"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 197.313,139.422 C 174.16,140.122 151.242,126.323 138.737,107.408 C 120.713,80.201 124.984,42.608 148.212,19.818 C 170.896,-2.583 208.498,-6.613 235.38,10.905 C 263.037,28.965 274.688,65.165 262.027,95.703 C 251.149,121.982 225.512,138.491 197.313,139.422"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 4708.582 4708.582" width="65.397in" height="65.397in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W2-8</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M4645.316 2201.556A216 216 0 0 1 4645.316 2507.026L2507.026 4645.316A216 216 0 0 1 2201.556 4645.316L63.266 2507.026A216 216 0 0 1 63.266 2201.556L2201.556 63.266A216 216 0 0 1 2507.026 63.266Z" fill="#ffcd00"/>
+  <path d="M4607.132 2239.74A162 162 0 0 1 4607.132 2468.842L2468.842 4607.132A162 162 0 0 1 2239.74 4607.132L101.45 2468.842A162 162 0 0 1 101.45 2239.74L2239.74 101.45A162 162 0 0 1 2468.842 101.45ZM4543.493 2303.379L2405.203 165.089A72 72 0 0 0 2303.379 165.089L165.089 2303.379A72 72 0 0 0 165.089 2405.203L2303.379 4543.493A72 72 0 0 0 2405.203 4543.493L4543.493 2405.203A72 72 0 0 0 4543.493 2303.379Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M2065.035 690.822L2642.547 690.822L2642.024 4017.793L2064.512 4017.793Z" fill="#231f20"/>
+  <path d="M1263.515 1376.618L2354.065 1376.095L2354.065 1953.606L1263.515 1954.13Z" fill="#231f20"/>
+  <path d="M1263.515 3331.997L1263.515 2754.486L2354.065 2755.009L2354.065 3332.455Z" fill="#231f20"/>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3024 3024" style="enable-background:new 0 0 3024 3024;" xml:space="preserve">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>C23(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<style type="text/css">
+	.st0{fill:#ffcd00;}
+	.st1{font-family:'HighwayGothicNarrow';}
+	.st2{font-size:537.3136px;}
+	.st3{letter-spacing:20;}
+	.st4{letter-spacing:39;}
+</style>
+<path class="st0" d="M1416.5,2943.9L80.1,1607.5c-52.7-52.7-52.7-138.2,0-190.9L1416.5,80.1c52.7-52.7,138.2-52.7,190.9,0
+	l1336.4,1336.4c52.7,52.7,52.7,138.2,0,190.9L1607.5,2943.9C1554.7,2996.6,1469.3,2996.6,1416.5,2943.9z"/>
+<path d="M1512,2947.4c-26.4,0-51.3-10.3-70-29L105.6,1582c-18.7-18.7-29-43.6-29-70c0-26.4,10.3-51.3,29-70L1442,105.6
+	c18.7-18.7,43.6-29,70-29c26.4,0,51.3,10.3,70,29L2918.4,1442c18.7,18.7,29,43.6,29,70c0,26.4-10.3,51.3-29,70L1582,2918.4
+	C1563.3,2937.1,1538.4,2947.4,1512,2947.4z M1543.8,2880.3l1336.4-1336.4c8.6-8.6,13.2-19.6,13.2-31.8c0-12.2-4.6-23.2-13.2-31.8
+	L1543.8,143.7c-8.6-8.6-19.6-13.2-31.8-13.2c-12.2,0-23.2,4.6-31.8,13.2L143.7,1480.2c-8.6,8.6-13.2,19.6-13.2,31.8
+	c0,12.2,4.6,23.2,13.2,31.8l1336.4,1336.4c8.6,8.6,19.6,13.2,31.8,13.2C1524.2,2893.4,1535.2,2888.9,1543.8,2880.3z"/>
+<text transform="matrix(1 0 0 1 951.3213 1097.896)" class="st1 st2 st3">RAMP</text>
+<text transform="matrix(1 0 0 1 959.3801 1637.9996)" class="st1 st2 st3">WORK</text>
+<text transform="matrix(1 0 0 1 813.2336 2178.5156)" class="st1 st2 st4">AHEAD</text>
+</svg>

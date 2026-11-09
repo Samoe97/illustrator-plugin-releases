@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3531.43 3531.43">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W4-8</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M3483.982 1651.164A162 162 0 0 1 3483.982 1880.266L1880.266 3483.982A162 162 0 0 1 1651.164 3483.982L47.448 1880.266A162 162 0 0 1 47.448 1651.164L1651.164 47.448A162 162 0 0 1 1880.266 47.448Z" fill="#ffcd00"/>
+  <path d="M3452.163 1682.984A117 117 0 0 1 3452.163 1848.446L1848.446 3452.163A117 117 0 0 1 1682.984 3452.163L79.267 1848.446A117 117 0 0 1 79.267 1682.984L1682.984 79.267A117 117 0 0 1 1848.446 79.267ZM3407.615 1727.531L1803.899 123.815A54 54 0 0 0 1727.531 123.815L123.815 1727.531A54 54 0 0 0 123.815 1803.899L1727.531 3407.615A54 54 0 0 0 1803.899 3407.615L3407.615 1803.899A54 54 0 0 0 3407.615 1727.531Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1702.72 2332.72L1828.72 2332.72L1828.72 2548.72L1702.72 2548.72Z" fill="#231f20"/>
+  <path d="M1702.72 1684.72L1828.72 1684.72L1828.72 1900.72L1702.72 1900.72Z" fill="#231f20"/>
+  <path d="M1702.72 2008.72L1828.72 2008.72L1828.72 2224.72L1702.72 2224.72Z" fill="#231f20"/>
+  <path d="M1702.72 2332.72L1828.72 2332.72L1828.72 2548.72L1702.72 2548.72Z" fill="#231f20"/>
+  <path d="M1702.72 1684.72L1828.72 1684.72L1828.72 1900.72L1702.72 1900.72Z" fill="#231f20"/>
+  <path d="M1702.72 2008.72L1828.72 2008.72L1828.72 2224.72L1702.72 2224.72Z" fill="#231f20"/>
+  <path d="M1018.72 2548.72L1018.72 1564.96L1312.34 1271.33L1312.34 820.72L1600.34 820.72L1600.34 1390.63L1306.72 1684.25L1306.72 2548.72Z" fill="#231f20"/>
+  <path d="M2512.72 2548.72L2224.72 2548.72L2224.72 1684.25L1931.09 1390.63L1931.09 820.72L2219.09 820.72L2219.09 1271.33L2512.72 1564.96Z" fill="#231f20"/>
+</svg>

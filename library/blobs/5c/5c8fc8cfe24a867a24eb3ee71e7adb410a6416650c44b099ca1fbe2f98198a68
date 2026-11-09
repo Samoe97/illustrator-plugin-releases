@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="9in" height="9in" viewBox="0 0 648 648">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-SQUARE</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-SQUARE Black</title>
+<path fill="#231f20" d="M0 72C0 32.235 32.235 0 72 0L576 0C615.765 0 648 32.235 648 72L648 576C648 615.765 615.765 648 576 648L72 648C32.235 648 0 615.765 0 576Z"/>
+<path fill="#ffffff" fill-rule="evenodd" d="M0 72C0 32.235 32.235 0 72 0L576 0C615.765 0 648 32.235 648 72L648 576C648 615.765 615.765 648 576 648L72 648C32.235 648 0 615.765 0 576ZM27 72C27 47.147 47.147 27 72 27L576 27C600.853 27 621 47.147 621 72L621 576C621 600.853 600.853 621 576 621L72 621C47.147 621 27 600.853 27 576Z"/>
+</svg>

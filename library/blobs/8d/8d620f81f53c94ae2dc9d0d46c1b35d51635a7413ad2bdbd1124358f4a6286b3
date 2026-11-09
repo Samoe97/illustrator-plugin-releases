@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="9.558in" height="8.448in" viewBox="0 0 688.2 608.227">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>County route marker (blank)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>County route marker (blank)</title>
+<path fill="#006747" d="M 344.121,608.227 C 259.13,608.227 176.486,598.212 97.297,579.294 C 41.468,565.774 0,515.479 0,455.491 L 0,425.61 C 0,216.538 147.46,41.843 344.079,0 L 344.106,0 C 540.74,41.843 688.2,216.538 688.2,425.61 L 688.2,455.491 C 688.2,515.479 646.731,565.774 590.902,579.294 C 511.712,598.212 429.057,608.227 344.079,608.227 Z"/>
+</svg>

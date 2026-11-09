@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="38.833in" height="52in" viewBox="0 0 2796 3744">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Keep right of island (arrow)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Keep right of island (arrow)</title>
+<path fill="#231f20" d="M 576,2000.5 c -114.3,0 -222.3,-68.4 -267.4,-181 c -198.4,-495.9 -308.6,-1036.7 -308.6,-1603.5 l 1152,0 c 0,566.8 -110.2,1107.5 -308.6,1603.5 c -45.1,112.6 -153.1,181 -267.4,181"/>
+<path fill="#231f20" d="M 1651.5,3744 l -567,0 l 0,-360 c -0.1,-392.9 145.3,-769.8 409.5,-1061.1 c 169.4,-186.7 262.6,-428.3 262.5,-680.1 l 0,-638.8 l 567,0 l 0,638.7 c 0.1,392.9 -145.3,769.8 -409.5,1061.1 c -169.4,186.7 -262.6,428.3 -262.5,680.1 l 0,360.1 Z"/>
+<path fill="#231f20" d="M 1405,1224.7 c -8.8,2.6 -17.7,3.8 -26.5,3.8 c -52.2,0 -94.5,-42.3 -94.5,-94.5 c 0,-18.4 5.3,-37 16.5,-53.4 l 739.5,-1080.6 l 739.5,1080.6 c 11.2,16.3 16.5,35 16.5,53.4 c 0,52.2 -42.3,94.5 -94.5,94.5 c -8.7,0 -17.6,-1.2 -26.5,-3.8 l -635,-185.2 l -635,185.2 Z"/>
+</svg>

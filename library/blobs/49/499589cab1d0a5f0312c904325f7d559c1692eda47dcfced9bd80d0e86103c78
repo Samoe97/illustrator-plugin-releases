@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="3.16in" height="3.16in" viewBox="0 0 227.517 227.506">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Arrow (diagonal)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Arrow (diagonal)</title>
+<path fill="#231f20" d="M 156.552,177.867 c 0.959,0.526 1.81,1.172 2.547,1.908 c 4.393,4.393 4.393,11.518 -0.001,15.911 c -1.549,1.551 -3.565,2.668 -5.883,3.102 l -153.216,28.717 l 28.717,-153.216 c 0.434,-2.317 1.551,-4.334 3.102,-5.883 c 4.393,-4.393 11.518,-4.394 15.911,-0.001 c 0.736,0.737 1.382,1.588 1.908,2.547 l 37.865,69.049 l 69.049,37.865 Z"/>
+<path fill="#231f20" d="M 60.662,119.125 L 179.787,0.463 L 227.517,47.73 L 108.391,166.855 Z"/>
+</svg>

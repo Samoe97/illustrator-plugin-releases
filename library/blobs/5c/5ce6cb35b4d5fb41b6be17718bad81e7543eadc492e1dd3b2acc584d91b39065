@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="22.328in" viewBox="0 0 1728 1607.616">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p134-1</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p134-1</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 1640.136,1607.616 L 208.271,1607.616 L 208.271,702.925 L 0,784.282 L 6.508,657.365 L 1728,0 L 1724.746,136.68 L 351.457,654.111 L 351.457,1467.682 L 1640.136,1467.682 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 616.471,1190.908 L 616.471,1153.492 L 732.455,1153.492 L 732.455,1190.908 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 1092.882,1190.908 L 1092.882,1153.492 L 1208.866,1153.492 L 1208.866,1190.908 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 732.455,1047.483 L 732.455,1010.069 L 1092.882,1010.069 L 1092.882,1047.483 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 1120.768,1425.375 L 1065.479,1244.535 L 1208.866,1244.535 L 1208.866,1208.368 L 1054.42,1208.368 L 1010.569,1064.945 L 946.965,1064.945 L 990.816,1208.368 L 836.218,1208.368 L 880.068,1064.945 L 816.463,1064.945 L 772.613,1208.368 L 616.471,1208.368 L 616.471,1244.535 L 761.555,1244.535 L 706.265,1425.375 L 769.87,1425.375 L 825.159,1244.535 L 1001.873,1244.535 L 1057.163,1425.375 Z"/>
+</svg>

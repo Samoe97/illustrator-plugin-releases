@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="16.755in" viewBox="0 0 1728 1206.36">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p125-5</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p125-5</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 551.507,1206.36 L 551.507,1154.525 L 9.602,560.769 C -5.811,538.635 -2.668,517.43 19.026,497.153 C 179.241,331.433 339.458,165.715 499.673,0 L 1228.327,0 C 1388.543,165.715 1548.758,331.433 1708.973,497.153 C 1730.668,517.43 1733.81,538.635 1718.399,560.769 L 1176.493,1154.525 L 1176.493,1206.36 Z"/>
+<path fill="#ffffff" fill-rule="evenodd" d="M 551.507,857.646 C 531.875,857.646 512.24,857.646 492.604,857.646 C 407.785,753.192 322.964,648.734 238.144,544.276 C 328.463,453.958 418.782,363.637 509.097,273.316 C 533.952,249.28 548.092,252.425 551.507,282.74 C 551.507,474.376 551.507,666.014 551.507,857.646 Z"/>
+<path fill="#ffffff" fill-rule="evenodd" d="M 1176.493,857.646 C 1196.124,857.646 1215.76,857.646 1235.395,857.646 C 1320.216,753.192 1405.035,648.734 1489.855,544.276 C 1399.536,453.958 1309.217,363.637 1218.902,273.316 C 1194.047,249.28 1179.907,252.425 1176.493,282.74 C 1176.493,474.376 1176.493,666.014 1176.493,857.646 Z"/>
+</svg>

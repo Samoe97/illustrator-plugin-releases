@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="79.2in" height="330.142in" viewBox="0 0 5702.4 23770.189">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>PM-RR-XING-NARROW</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>PM-RR-XING-NARROW</title>
+<path fill="#231f20" d="M0 300.647L1112.077 0L2851.2 6432.921L4590.323 0L5702.4 300.647L3447.878 8640L5702.4 16979.352L4590.323 17280L2851.2 10847.08L1112.077 17280L0 16979.352L2254.522 8640ZM1425.6 18669.326C2003.251 18587.035 2274.545 19244.387 2273.348 20299.773C2272.552 21003.998 2231.432 21468.854 2042.185 21719.307L2271.454 23770.189L2063.196 23770.189L1873.907 21865.68C1806.044 21902.645 1727.118 21926.402 1635.25 21937.207C1635.25 22547.719 1633.581 23159.666 1633.581 23770.189L1425.6 23770.189ZM3429.048 18669.326C4006.699 18587.035 4277.994 19244.387 4276.796 20299.773C4276 21003.998 4234.88 21468.854 4045.633 21719.307L4274.902 23770.189L4066.644 23770.189L3877.355 21865.68C3809.492 21902.645 3730.566 21926.402 3638.698 21937.207C3638.698 22547.719 3637.029 23159.666 3637.029 23770.189L3429.048 23770.189ZM1635.25 19489.498L1635.25 21118.482C1976.156 21114.193 2063.832 20783.664 2063.565 20299.773C2063.289 19815.883 1988.534 19488.818 1635.25 19489.498ZM3638.698 19489.498L3638.698 21118.482C3979.604 21114.193 4067.28 20783.664 4067.013 20299.773C4066.737 19815.883 3991.982 19488.818 3638.698 19489.498Z"/>
+</svg>

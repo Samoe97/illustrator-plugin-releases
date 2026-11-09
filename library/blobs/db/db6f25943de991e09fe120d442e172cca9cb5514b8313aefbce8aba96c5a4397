@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="10.372in" viewBox="0 0 864 746.781">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Sailboating</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Sailboating</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 683.8,726.375 C 671.204,738.971 653.819,746.781 634.67,746.781 C 615.054,746.781 597.292,738.585 584.629,725.443 C 571.966,738.585 554.206,746.781 534.592,746.781 C 516.913,746.781 500.741,740.123 488.451,729.189 C 476.158,740.123 459.989,746.781 442.312,746.781 C 425.554,746.781 410.149,740.802 398.12,730.866 C 386.091,740.802 370.687,746.781 353.93,746.781 C 336.867,746.781 321.209,740.579 309.088,730.317 C 296.968,740.579 281.312,746.781 264.251,746.781 C 205.495,746.781 190.116,648.289 191.034,648.294 C 313.58,648.6 564.609,647.391 751.398,646.938 L 683.8,726.375"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 527.51,631.836 L 0,631.836 L 527.51,0 L 527.51,631.836"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 548.082,631.836 L 548.082,105.795 L 864,631.836 L 548.082,631.836"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18.001in" height="30.156in" viewBox="0 0 1296.1 2171.239">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Lane arrow: left or U-turn</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Lane arrow: left or U-turn</title>
+<path fill="#231f20" d="M 57.6,1588.039 c -4.2,-1.2 -8.4,-1.8 -12.6,-1.8 c -24.9,0 -45,20.2 -45,45 c 0,8.8 2.5,17.6 7.9,25.4 l 352.1,514.6 l 352.1,-514.6 c 5.3,-7.8 7.9,-16.6 7.9,-25.4 c 0,-24.9 -20.1,-45 -45,-45 c -4.2,0 -8.4,0.6 -12.6,1.8 l -302.4,88.2 l -302.4,-88.2 Z"/>
+<path fill="#231f20" d="M 495,1676.439 l -270,0 l 0,-171.2 c 0,-72.2 14.2,-142.4 42.1,-208.5 c 27,-63.8 65.6,-121 114.7,-170.2 s 106.4,-87.7 170.2,-114.7 c 66.1,-28 136.2,-42.1 208.5,-42.1 s 142.4,14.2 208.5,42.1 c 63.8,27 121,65.6 170.2,114.7 s 87.7,106.4 114.7,170.2 c 28,66.1 42.1,136.2 42.1,208.5 l -270,0 c 0,-70.9 -27.6,-137.6 -77.8,-187.7 c -50.1,-50.1 -116.8,-77.8 -187.7,-77.8 s -137.6,27.6 -187.7,77.8 c -50.1,50.1 -77.8,116.8 -77.8,187.7 l 0,171.2 Z"/>
+<path fill="#231f20" d="M 1296,1973.239 l -270,0 l 0,-936 c 0,-60.9 -9.7,-120.9 -28.7,-178.4 c -18.6,-56.2 -45.9,-109 -81,-156.9 c -35.1,-47.9 -77.2,-89.7 -125.2,-124.4 c -49.1,-35.5 -103.5,-62.8 -161.5,-81.1 l -114.1,-36 l 81.2,-257.5 l 114.1,36 c 85.6,27 165.9,67.3 238.4,119.7 c 70.9,51.2 133.1,113 184.9,183.6 c 51.8,70.6 92,148.5 119.5,231.5 c 28.2,85 42.5,173.6 42.5,263.4 l 0,936 Z"/>
+<path fill="#231f20" d="M 549.3,646.739 c 0,4.4 -0.8,8.6 -2.1,12.6 c -7.5,23.7 -32.8,36.9 -56.5,29.4 c -8.4,-2.6 -16.1,-7.7 -21.9,-15.1 l -384.9,-490.6 l 596.7,-181.1 c 9,-2.7 18.2,-2.5 26.6,0.1 c 23.7,7.5 36.9,32.8 29.4,56.5 c -1.3,4 -3.1,7.8 -5.5,11.5 l -175.1,261.9 l -6.8,314.9 Z"/>
+</svg>

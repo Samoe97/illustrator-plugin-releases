@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="5.979in" height="5.979in" viewBox="0 0 430.5 430.5">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Fallout shelter</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Fallout shelter</title>
+<path fill="#231f20" d="M 430.5,215.25 c 0,-118.879 -96.371,-215.25 -215.25,-215.25 s -215.25,96.371 -215.25,215.25 s 96.371,215.25 215.25,215.25 s 215.25,-96.371 215.25,-215.25 Z M 215.25,215.25 l -103.688,-179.592 l 207.375,0 l -103.688,179.592 Z M 318.938,394.842 l -103.688,-179.592 l 207.375,0 l -103.688,179.592 Z M 111.563,394.842 l -103.688,-179.592 l 207.375,0 l -103.688,179.592 Z"/>
+</svg>

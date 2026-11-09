@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18in" height="9in" viewBox="0 0 1296 648">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>W16-2aP</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<path d="M81 0L1215 0C1259.735 0 1296 36.265 1296 81L1296 567C1296 611.735 1259.735 648 1215 648L81 648C36.265 648 0 611.735 0 567L0 81C0 36.265 36.265 0 81 0Z" fill="#ffcd00"/>
+<path d="M81 27L1215 27C1244.823 27 1269 51.177 1269 81L1269 567C1269 596.823 1244.823 621 1215 621L81 621C51.177 621 27 596.823 27 567L27 81C27 51.177 51.177 27 81 27ZM81 54C66.088 54 54 66.088 54 81L54 567C54 581.912 66.088 594 81 594L1215 594C1229.912 594 1242 581.912 1242 567L1242 81C1242 66.088 1229.912 54 1215 54L81 54Z" fill="#231f20" fill-rule="evenodd"/>
+<path fill="#231f20" d="M1139.39 246.305L1089.42 246.305L1089.42 432L1055.247 432L1055.247 246.305L1005.922 246.305L1005.922 216L1139.39 216Z"/>
+<path fill="#231f20" d="M992.779 250.173L892.838 250.173L892.838 303.367L955.704 303.367L955.704 338.185L892.838 338.185L892.838 432L858.665 432L858.665 216L992.779 216Z"/>
+</svg>

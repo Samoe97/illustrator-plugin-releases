@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="29.539in" height="32in" viewBox="0 0 2126.776 2304">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Litter disposal</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Litter disposal</title>
+<path fill="#231f20" d="M 959.874,1262.815 L 772.289,2294.029 L 186.324,2294.029 L 0,1262.815 L 135.507,1262.815 L 298.994,2158.771 L 659.591,2158.771 L 826.165,1262.815 L 959.874,1262.815"/>
+<path fill="#231f20" d="M 527.671,1307.712 L 527.671,1473.775 L 361.362,1473.775 L 361.362,1307.712 L 527.671,1307.712"/>
+<path fill="#231f20" d="M 652.887,1098.039 L 535.608,1215.336 L 417.811,1097.79 L 535.36,980.509 L 652.887,1098.039"/>
+<path fill="#231f20" d="M 923.588,1008.185 L 806.291,1125.464 L 688.494,1007.918 L 806.042,890.648 L 923.588,1008.185"/>
+<path fill="#231f20" d="M 1262.895,2229.066 l 159.903,-675.213 c 66.461,-185.589 126.516,-303.395 217.892,-437.876 l -56.728,-369.318 l -147.565,184.266 l -400.38,238.423 l -67.236,-98.536 l 402.932,-287.452 l 161.182,-379.33 l 107.794,-45.693 l 77.507,7.184 c 152.184,14.132 214.291,169.405 243.802,302.865 l 48.247,218.139 c 22.346,75.462 29.013,113.943 32.865,172.734 l 83.666,1244.739 l -168.361,-1.019 l -128.833,-752.495 c -9.756,-27.473 -17.968,-50.29 -24.384,-83.415 l -152.961,172.465 l -185.319,648.822 l -204.023,-59.292"/>
+<path fill="#231f20" d="M 1474.768,0 c 92.13,0 166.816,74.687 166.816,166.814 c 0,92.13 -74.687,166.815 -166.816,166.815 s -166.816,-74.685 -166.816,-166.815 c 0,-92.127 74.687,-166.814 166.816,-166.814"/>
+</svg>

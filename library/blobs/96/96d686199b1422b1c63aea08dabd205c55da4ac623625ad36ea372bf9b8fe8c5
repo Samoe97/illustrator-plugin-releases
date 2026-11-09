@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="66in" height="18in" viewBox="0 0 4752 1296">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>E11-1a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>E11-1a</title>
+  <path d="M135 0L4617 0C4691.559 0 4752 60.442 4752 135L4752 1161C4752 1235.558 4691.559 1296 4617 1296L135 1296C60.442 1296 0 1235.558 0 1161L0 135C0 60.442 60.442 0 135 0Z" fill="#ffcd00"/>
+  <path fill="#231f20" d="M1612.123 1079.994L967.355 1079.994L967.355 216.005L1597.938 216.005L1597.938 370.749L1124.678 370.749L1124.678 531.941L1382.586 531.941L1382.586 689.265L1124.678 689.265L1124.678 925.25L1612.123 925.25Z"/>
+  <path d="M2777.114 216.005L2932.643 216.005L2932.643 1079.995L2777.114 1079.995Z" fill="#231f20"/>
+  <path fill="#231f20" d="M3786.584 368.17L3537.703 368.17L3537.703 1079.995L3386.828 1079.995L3386.828 368.17L3137.947 368.17L3137.947 216.005L3786.584 216.005Z"/>
+  <path fill="#231f20" d="M2533.1 1079.994L2351.276 1079.994L2157.845 774.374L1966.994 1079.994L1785.17 1079.994L2067.578 626.077L1809.671 216.005L1994.074 216.005L2157.845 480.36L2321.616 216.005L2506.02 216.005L2251.981 626.077Z"/>
+  </svg>

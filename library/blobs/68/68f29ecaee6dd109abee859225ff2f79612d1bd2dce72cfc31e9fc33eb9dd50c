@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="6.631in" height="12.5in" viewBox="0 0 477.439 900">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Pedestrian</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Pedestrian</title>
+<path fill="#231f20" d="M 0,415.244 l 138.143,-92.094 c 6.383,-26.991 32.872,-146.818 86.01,-174.55 c 52.632,-34.798 246.684,108.152 247.798,109.326 l 0,208.538 l -42.071,-7.317 l -16.465,-166.463 c -15.854,-3.188 -31.708,-6.377 -47.56,-9.566 c 34.643,89.562 47.366,175.873 27.437,232.738 l 84.146,343.9 l -56.707,40.244 l -122.561,-318.293 l -56.708,60.366 l -78.658,239.636 l -75.001,-27.44 l 67.683,-252.439 l 78.659,-140.853 l -30.152,-103.953 l -32.043,41.758 l -150,49.391 l -21.952,-32.927 Z"/>
+<path fill="#231f20" d="M 199.39,0 c 36.271,0 65.855,29.582 65.855,65.854 c 0,36.272 -29.584,65.854 -65.855,65.854 c -36.27,0 -65.852,-29.582 -65.852,-65.854 c 0,-36.272 29.582,-65.854 65.852,-65.854 Z"/>
+</svg>

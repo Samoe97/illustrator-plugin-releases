@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W13-1P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 2025A135 135 0 0 1 2025 2160L135 2160A135 135 0 0 1 0 2025L0 135A135 135 0 0 1 135 0L2025 0A135 135 0 0 1 2160 135Z" fill="#ffcd00"/>
+  <path d="M2124 2025A99 99 0 0 1 2025 2124L135 2124A99 99 0 0 1 36 2025L36 135A99 99 0 0 1 135 36L2025 36A99 99 0 0 1 2124 135ZM2070 2025L2070 135A45 45 0 0 0 2025 90L135 90A45 45 0 0 0 90 135L90 2025A45 45 0 0 0 135 2070L2025 2070A45 45 0 0 0 2070 2025Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M801.848 1836L738.982 1836L738.982 1616.239L633.131 1836L527.818 1616.239L527.818 1836L464.952 1836L464.952 1476L527.818 1476L633.131 1689.851L738.982 1476L801.848 1476Z" fill="#231f20"/>
+  <path d="M1162.078 1694.687L1058.914 1694.687L1058.914 1836L994.437 1836L994.437 1476L1159.929 1476C1183.571 1476 1204.168 1481.015 1221.72 1491.045C1258.616 1512.537 1277.063 1544.239 1277.063 1586.149C1277.063 1631.284 1258.616 1663.701 1221.72 1683.403C1204.168 1690.925 1184.287 1694.687 1162.078 1694.687ZM1212.586 1586.149C1212.586 1572.179 1207.929 1561.075 1198.616 1552.836C1189.302 1544.597 1176.765 1540.478 1161.004 1540.478L1058.914 1540.478L1058.914 1630.209L1161.004 1630.209C1176.765 1630.209 1189.302 1626.179 1198.616 1618.119C1207.929 1610.06 1212.586 1599.403 1212.586 1586.149Z" fill="#231f20"/>
+  <path d="M1695.075 1836L1631.134 1836L1631.134 1678.03L1469.403 1679.642L1469.403 1836L1404.925 1836L1404.925 1476L1469.403 1476L1469.403 1615.164L1631.134 1615.164L1631.134 1476L1695.075 1476Z" fill="#231f20"/>
+</svg>

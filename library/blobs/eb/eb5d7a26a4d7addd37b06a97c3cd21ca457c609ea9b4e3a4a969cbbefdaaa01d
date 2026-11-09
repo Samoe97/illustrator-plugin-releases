@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="22.359in" viewBox="0 0 1728 1609.848">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>UNIDENTIFIED_p154-3</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>UNIDENTIFIED_p154-3</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 1728,133.458 C 1070.91,383.563 352.125,1096.462 46.183,1607.894 C 38.617,1613.46 36.987,1605.867 38.279,1600.901 L 43.523,1579.953 L 69.156,1516.187 C 258.522,1178.238 355.004,1046.914 534.235,838.411 L 642.558,712.094 C 765.966,568.329 530.283,610.017 455.791,626.779 C 340.581,652.677 224.691,679.248 115.739,726.212 L 11.41,770.854 C 1.848,775.097 -3.426,762.7 2.495,755.768 L 61.577,690.694 C 272.625,458.407 548.353,302.182 826.68,162.706 C 1018.367,66.857 1227.151,8.348 1442.108,0.209 C 1533.051,-3.432 1616.108,40.899 1685.356,96.971 L 1728,133.458"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 1588.197,1017.404 C 1666.304,1017.404 1730.644,1081.774 1730.644,1159.92 C 1730.644,1191.385 1714.911,1204.503 1691.614,1213.714 C 1676.498,1219.281 1656.137,1200.61 1643.02,1209.72 C 1629.565,1218.576 1621.03,1243.27 1615.447,1253.698 C 1609.188,1265.54 1583.614,1299.383 1571.465,1299.383 C 1493.345,1299.383 1445.751,1238.055 1445.751,1159.92 C 1445.751,1081.774 1510.077,1017.404 1588.197,1017.404"/>
+</svg>

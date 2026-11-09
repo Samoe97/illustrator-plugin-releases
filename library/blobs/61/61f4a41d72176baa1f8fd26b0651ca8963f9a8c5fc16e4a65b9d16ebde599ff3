@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M7-7</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M7-7</title>
+  <path d="M108 0L756 0C815.647 0 864 48.353 864 108L864 540C864 599.647 815.647 648 756 648L108 648C48.353 648 0 599.647 0 540L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 27L756 27C800.735 27 837 63.265 837 108L837 540C837 584.735 800.735 621 756 621L108 621C63.265 621 27 584.735 27 540L27 108C27 63.265 63.265 27 108 27Z" fill="#006747"/>
+  <path d="M342.349 556.448L601.514 372.468L616.891 421.057C619.023 426.902 621.383 431.43 626.88 433.595C635.112 436.839 644.466 432.757 647.702 424.511L721.402 237.707L521.001 238.557C512.156 238.573 504.955 245.813 504.971 254.674C504.981 260.861 508.388 264.486 513.649 268.925L552.488 300.515L309.937 473.016L310.036 267.871L358.764 282.54C364.783 284.071 369.847 284.67 374.732 281.343C382.046 276.36 383.953 266.32 378.981 258.993L266.52 92.696L154.242 258.993C149.268 266.32 151.177 276.36 158.491 281.343C163.599 284.822 168.508 284.048 175.133 282.198L223.074 267.871L223.074 556.448Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

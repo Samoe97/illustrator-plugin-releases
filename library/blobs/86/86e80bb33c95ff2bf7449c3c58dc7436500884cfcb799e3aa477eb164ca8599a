@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="11.439in" height="12in" viewBox="0 0 823.602 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Marina</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Marina</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 411.002,0 C 486.458,0 548.002,61.544 548.002,137.003 C 548.002,199.408 505.901,252.293 448.654,268.72 L 448.654,785.812 C 561.554,772.862 642.252,713.618 700.221,621.709 C 680.993,609.425 661.765,597.141 642.537,584.854 C 700.221,558.151 757.908,531.444 815.592,504.738 C 818.262,568.299 820.932,631.858 823.602,695.416 C 803.839,683.667 784.077,671.917 764.318,660.165 C 672.704,804.149 537.561,869.318 411.803,863.662 C 286.044,869.318 150.901,804.149 59.288,660.165 C 39.525,671.917 19.763,683.667 0,695.416 C 2.673,631.858 5.343,568.299 8.013,504.738 C 65.697,531.444 123.381,558.151 181.064,584.854 C 161.837,597.141 142.609,609.425 123.381,621.709 C 180.526,712.31 259.755,771.171 370.142,785.234 L 370.142,267.758 C 314.537,250.306 273.999,198.238 273.999,137.003 C 273.999,61.544 335.543,0 411.002,0 M 411.002,76.915 C 444.098,76.915 471.087,103.904 471.087,137 C 471.087,170.095 444.098,197.088 411.002,197.088 C 377.907,197.088 350.914,170.095 350.914,137 C 350.914,103.904 377.907,76.915 411.002,76.915"/>
+</svg>

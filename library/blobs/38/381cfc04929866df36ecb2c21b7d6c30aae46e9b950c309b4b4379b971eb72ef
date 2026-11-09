@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9.948in" viewBox="0 0 864 716.243">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Tramway</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Tramway</title>
+<path fill="#231f20" fill-rule="evenodd" d="M 456.903,109.96 C 478.223,109.96 495.611,127.347 495.611,148.67 C 495.611,169.988 478.223,187.378 456.903,187.378 C 435.583,187.378 418.193,169.988 418.193,148.67 C 418.193,127.347 435.583,109.96 456.903,109.96"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 270.493,427.889 L 441.44,427.889 L 441.44,292.799 C 427.78,286.809 418.193,273.154 418.193,257.326 C 418.193,236.006 435.583,218.616 456.903,218.616 C 478.223,218.616 495.611,236.006 495.611,257.326 C 495.611,271.954 487.422,284.73 475.396,291.309 L 475.396,427.889 L 636.444,427.889 C 654.36,427.889 669.015,442.545 669.015,460.459 L 669.015,683.669 C 669.015,701.586 654.36,716.243 636.444,716.243 L 270.493,716.243 C 252.577,716.243 237.92,701.586 237.92,683.669 L 237.92,460.459 C 237.92,442.545 252.577,427.889 270.493,427.889 M 276.242,464.291 L 633.571,464.291 L 633.571,583.082 L 276.242,583.082 Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M 0,260.197 C 0,266.005 0,271.814 0,277.625 C 299.211,269.528 591.363,211.136 864,13.694 C 859.435,9.128 854.872,4.565 850.306,0 C 789.981,42.539 733.5,82.442 673.59,111.114 C 439.038,223.367 215.81,258.089 0,260.197"/>
+</svg>

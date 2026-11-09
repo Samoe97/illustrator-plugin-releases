@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="60in" height="60in" viewBox="0 0 4320 4320">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-SQUARE</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-SQUARE Border</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M0 216C0 96.706 96.706 0 216 0L4104 0C4223.293 0 4320 96.706 4320 216L4320 4104C4320 4223.293 4223.293 4320 4104 4320L216 4320C96.706 4320 0 4223.293 0 4104Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M54 216C54 126.53 126.53 54 216 54L4104 54C4193.47 54 4266 126.53 4266 216L4266 4104C4266 4193.47 4193.47 4266 4104 4266L216 4266C126.53 4266 54 4193.47 54 4104ZM144 216C144 176.236 176.236 144 216 144L4104 144C4143.765 144 4176 176.236 4176 216L4176 4104C4176 4143.765 4143.765 4176 4104 4176L216 4176C176.236 4176 144 4143.765 144 4104Z"/>
+</svg>

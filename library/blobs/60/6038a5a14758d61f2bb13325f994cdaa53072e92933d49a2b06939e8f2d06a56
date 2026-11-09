@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="26.875in" height="40in" viewBox="0 0 1935.012 2880">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Reverse turn (W1-3)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Reverse turn (W1-3)</title>
+<path fill="#231f20" d="M 1192.316,1049.753 c 7.56,2.205 15.182,3.247 22.679,3.25 c 44.735,0 81.004,-36.275 81.004,-81.01 c 0.014,-15.783 -4.57,-31.734 -14.156,-45.743 l -633.843,-926.25 l -633.843,926.25 c -9.586,14.009 -14.171,29.96 -14.156,45.743 c 0,44.735 36.269,81.01 81.003,81.01 c 7.497,-0.003 15.119,-1.046 22.679,-3.25 l 544.317,-158.759 l 544.317,158.759 Z"/>
+<path fill="#231f20" d="M 1006.211,1497.6 c -63.622,0 -115.199,-51.575 -115.2,-115.198 l -0.013,-521.782 l -486,0 s -0.008,777.398 -0.008,777.398 c 0,190.87 154.73,345.6 345.6,345.6 l 583.202,0 c 63.623,0 115.2,51.577 115.2,115.2 l 0,781.181 s 486.02,0 486.02,0 l 0,-1036.8 c 0,-190.87 -154.73,-345.6 -345.6,-345.6 l -583.201,0 Z"/>
+</svg>

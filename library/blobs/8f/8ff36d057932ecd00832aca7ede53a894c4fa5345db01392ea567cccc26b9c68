@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="81.746in" height="81.746in" viewBox="0 0 5885.727 5885.727">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-DIAMOND</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-DIAMOND Border</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M2751.945 79.081C2857.386 -26.36 3028.341 -26.36 3133.782 79.081L5806.646 2751.945C5912.087 2857.386 5912.087 3028.341 5806.646 3133.782L3133.782 5806.646C3028.341 5912.087 2857.386 5912.087 2751.945 5806.646L79.081 3133.782C-26.36 3028.341 -26.36 2857.386 79.081 2751.945Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M2790.128 117.265C2874.482 32.912 3011.245 32.912 3095.599 117.265L5768.462 2790.128C5852.816 2874.482 5852.816 3011.245 5768.462 3095.599L3095.599 5768.462C3011.245 5852.816 2874.482 5852.816 2790.128 5768.462L117.265 3095.599C32.912 3011.245 32.912 2874.482 117.265 2790.128ZM2853.768 180.905C2902.974 131.698 2982.753 131.698 3031.959 180.905L5704.823 2853.768C5754.029 2902.974 5754.029 2982.753 5704.823 3031.959L3031.959 5704.823C2982.753 5754.029 2902.974 5754.029 2853.768 5704.823L180.905 3031.959C131.698 2982.753 131.698 2902.974 180.905 2853.768Z"/>
+</svg>

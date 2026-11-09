@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="6in" height="3in" viewBox="0 0 432 216">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>Arrow</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>Arrow</title>
+<path fill="#231f20" d="M 174.959,17.28 c 0.367,-1.26 0.541,-2.53 0.542,-3.78 c 0,-7.456 -6.046,-13.5 -13.502,-13.5 c -2.63,-0.002 -5.289,0.762 -7.624,2.359 l -154.375,105.641 l 154.375,105.641 c 2.335,1.598 4.993,2.362 7.624,2.359 c 7.456,0 13.502,-6.045 13.502,-13.501 c -0.001,-1.25 -0.174,-2.52 -0.542,-3.78 l -26.46,-90.72 l 26.46,-90.719 Z"/>
+<path fill="#231f20" d="M 143.437,67.491 L 432,67.491 L 432,148.491 L 143.437,148.491 Z"/>
+</svg>

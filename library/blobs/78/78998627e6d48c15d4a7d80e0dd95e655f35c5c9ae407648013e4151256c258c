@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1512 1080">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M5-3P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1512 972A108 108 0 0 1 1404 1080L108 1080A108 108 0 0 1 0 972L0 108A108 108 0 0 1 108 0L1404 0A108 108 0 0 1 1512 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1476 972A72 72 0 0 1 1404 1044L108 1044A72 72 0 0 1 36 972L36 108A72 72 0 0 1 108 36L1404 36A72 72 0 0 1 1476 108Z" fill="#693f23"/>
+  <path d="M650.749 539.782C663.055 548.204 679.858 545.054 688.279 532.748C692.847 526.074 694.181 517.704 691.917 509.94L662.622 409.5L872.996 409.5C904.734 409.5 935.458 420.683 959.771 441.084C1016.886 489.009 1024.336 574.161 976.411 631.276L904.105 717.447C863.303 766.074 840.938 827.522 840.938 891L840.938 963L1002.936 963L1002.936 891C1002.936 865.609 1011.882 841.03 1028.203 821.579L1100.509 735.408C1205.944 609.755 1189.554 422.42 1063.902 316.985C1010.413 272.102 942.82 247.5 872.996 247.5L662.622 247.5C662.622 247.5 691.917 147.06 691.917 147.06C696.092 132.745 687.872 117.755 673.557 113.58C665.794 111.316 657.424 112.651 650.749 117.218L342 328.5L650.749 539.782Z" fill="#ffffff"/>
+</svg>
