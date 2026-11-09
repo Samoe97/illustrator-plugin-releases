@@ -1,28 +1,28 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.13",
+  "version": "0.3.14",
   "released": "2026-11-09",
-  "notes": "- Mac: signs show right away on a fresh install (no more blank tiles), and thumbnails are drawn there\n- Library updates fetch a damaged file again instead of failing",
+  "notes": "- Mac: sign images and thumbnails show (they never loaded there before)\n- Thumbnails appear one by one as they are drawn",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.13/SignLibrary-0.3.13-mac-2025.zip",
-      "sha256": "e68430d66e24e7171e79015391d037d6b3931aa08245038d612a651c17bb7cd9",
-      "size": 2389983
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.14/SignLibrary-0.3.14-mac-2025.zip",
+      "sha256": "d87ff6c3a59c373693fe3056401e9d5ef393ca9c820b2bf82c6f46b77938b365",
+      "size": 2390781
     },
     "win-2024": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.13/SignLibrary-0.3.13-win-2024.zip",
-      "sha256": "9f044041dfdc2a61121ca8bb266b106af0871ca7bc231137a34acc7b43d355d3",
-      "size": 1455488
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.14/SignLibrary-0.3.14-win-2024.zip",
+      "sha256": "878b83a2f584945ba8b2d67e57f9dc83610b5e54323c39fb4b3de65179bcc7be",
+      "size": 1455937
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.13/SignLibrary-0.3.13-win-2024.zip",
-      "sha256": "9f044041dfdc2a61121ca8bb266b106af0871ca7bc231137a34acc7b43d355d3",
-      "size": 1455488
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.14/SignLibrary-0.3.14-win-2024.zip",
+      "sha256": "878b83a2f584945ba8b2d67e57f9dc83610b5e54323c39fb4b3de65179bcc7be",
+      "size": 1455937
     },
     "win-2026": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.13/SignLibrary-0.3.13-win-2024.zip",
-      "sha256": "9f044041dfdc2a61121ca8bb266b106af0871ca7bc231137a34acc7b43d355d3",
-      "size": 1455488
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.14/SignLibrary-0.3.14-win-2024.zip",
+      "sha256": "878b83a2f584945ba8b2d67e57f9dc83610b5e54323c39fb4b3de65179bcc7be",
+      "size": 1455937
     }
   }
 }
