@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2592 1296" width="36in" height="18in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R82AP(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2457 0A135 135 0 0 1 2592 135L2592 1161A135 135 0 0 1 2457 1296L135 1296A135 135 0 0 1 0 1161L0 135A135 135 0 0 1 135 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2457 36C2511.641 36 2556 80.359 2556 135L2556 1161C2556 1215.641 2511.641 1260 2457 1260L135 1260C80.359 1260 36 1215.641 36 1161L36 135C36 80.359 80.359 36 135 36ZM135 81C105.196 81 81 105.196 81 135L81 1161C81 1190.804 105.196 1215 135 1215L2457 1215C2486.804 1215 2511 1190.804 2511 1161L2511 135C2511 105.196 2486.804 81 2457 81Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

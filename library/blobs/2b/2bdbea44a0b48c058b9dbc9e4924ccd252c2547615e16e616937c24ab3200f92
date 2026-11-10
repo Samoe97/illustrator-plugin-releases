@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 432 576" width="6in" height="8in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>C20B(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M405 0C419.902 0 432 12.098 432 27L432 549C432 563.902 419.902 576 405 576L27 576C12.098 576 0 563.902 0 549L0 27C0 12.098 12.098 0 27 0Z" fill="#e57200"/>
+  <path d="M355.265 428.632L355.265 503.113L68.713 503.113C70.504 463.473 77.128 426.79 102.012 394.66C119.298 372.339 141.309 355.804 164.174 339.684C188.928 322.233 214.419 304.279 236.997 284.082C255.324 267.688 269.54 250.915 272.818 225.686C275.509 204.974 273.76 179.612 261.352 162.109C247.218 142.17 220.845 135.761 197.87 141.651C164.069 150.317 154.657 182.776 154.297 213.835C154.243 218.503 154.321 223.17 154.321 227.838L74.056 227.838C74.056 205.557 74.252 185.052 80.288 163.342C99.304 94.956 156.697 68.429 223.655 71.973C310.976 76.596 363.638 135.109 356.435 221.709C353.432 257.809 338.565 282.417 313.039 307.295C280.485 339.023 240.787 361.931 206.544 391.543C193.985 402.403 183.795 413.657 176.32 428.632Z" fill="#231f20"/>
+</svg>

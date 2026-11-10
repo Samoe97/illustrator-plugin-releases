@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 1238.4" width="24in" height="17.2in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>SW26bP(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1638 0C1687.674 0 1728 40.326 1728 90L1728 1148.4C1728 1198.074 1687.674 1238.4 1638 1238.4L90 1238.4C40.326 1238.4 0 1198.074 0 1148.4L0 90C0 40.326 40.326 0 90 0Z" fill="#ffcd00"/>
+  <path d="M1638 36C1667.804 36 1692 60.196 1692 90L1692 1148.4C1692 1178.204 1667.804 1202.4 1638 1202.4L90 1202.4C60.196 1202.4 36 1178.204 36 1148.4L36 90C36 60.196 60.196 36 90 36ZM90 85.5C87.516 85.5 85.5 87.516 85.5 90L85.5 1148.4C85.5 1150.884 87.516 1152.9 90 1152.9L1638 1152.9C1640.484 1152.9 1642.5 1150.884 1642.5 1148.4L1642.5 90C1642.5 87.516 1640.484 85.5 1638 85.5Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M978.882 686.489L1024.058 562.687L628.824 562.687C612.261 562.687 598.67 576.286 598.67 592.847L598.67 1037.688L384.385 1037.688L384.385 399.208C384.385 371.254 407.267 348.358 435.224 348.358L1023.779 348.358L978.882 225.303C967.914 195.227 994.234 164.816 1024.951 170.845C1030.54 171.943 1035.832 174.282 1040.519 177.502L1445.616 455.847L1445.616 455.945L1040.519 734.29C1035.832 737.51 1030.54 739.849 1024.951 740.947C994.234 746.976 967.914 716.565 978.882 686.489Z" fill="#231f20"/>
+</svg>

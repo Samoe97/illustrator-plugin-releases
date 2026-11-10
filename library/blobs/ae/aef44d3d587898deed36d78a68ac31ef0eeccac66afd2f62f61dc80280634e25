@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 576" width="30in" height="8in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>G33-1P(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2061 0A99 99 0 0 1 2160 99L2160 477A99 99 0 0 1 2061 576L99 576A99 99 0 0 1 0 477L0 99A99 99 0 0 1 99 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2061 49.5C2088.321 49.5 2110.5 71.679 2110.5 99L2110.5 477C2110.5 504.321 2088.321 526.5 2061 526.5L99 526.5C71.679 526.5 49.5 504.321 49.5 477L49.5 99C49.5 71.679 71.679 49.5 99 49.5Z" fill="#006747"/>
+  <path d="M677.947 124.415L657.12 223.183L1709.462 222.713L1709.462 361.572L657.757 362.042L684.046 457.902C688.785 467.759 685.827 481.208 676.415 487.235C667.388 493.015 655.241 490.35 649.042 481.759L401.613 312.089L401.605 311.619C392.393 303.259 392.5 287.536 401.046 278.76L401.004 276.285L645.049 96.798L646.426 97.61C654.588 90.86 666.733 92.011 673.946 99.611C680.157 106.156 681.315 116.228 677.947 124.415Z" fill="#ffffff"/>
+</svg>
