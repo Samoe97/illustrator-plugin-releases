@@ -1,28 +1,28 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.17",
-  "released": "2026-11-10",
-  "notes": "- Windows: plug-in updates install right away (restart Illustrator to use them) and ask for administrator only when the plug-in folder isn't writable; a failed update now says why. Installer: fixed the step that gives your account permission to update the plug-in.",
+  "version": "0.3.18",
+  "released": "2026-11-11",
+  "notes": "- Variable-text signs can mix letter sizes on one line (the CA R25A loading sign: hours, AM/PM and minute limit are editable). Search reads times: r25a 10am 7pm 30.",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.17/SignLibrary-0.3.17-mac-2025.zip",
-      "sha256": "a8f421105b48473d07b06323c874cf0121dced2fdc63c8fd0143676bb620daef",
-      "size": 2392087
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.18/SignLibrary-0.3.18-mac-2025.zip",
+      "sha256": "570110f74453f55d3b99321799abfaebc66c3105afa8cfd11e236ab3164d8843",
+      "size": 2394963
     },
     "win-2024": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.17/SignLibrary-0.3.17-win-2024.zip",
-      "sha256": "356a3882394a153ae54efa8c6c3e6e4b04ac36ff45314f4b0e6ec7c19e73b24c",
-      "size": 1457139
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.18/SignLibrary-0.3.18-win-2024.zip",
+      "sha256": "c47293b436e1c767ee3ba8987152aec3dd926fff7543ad730e6d934831746d54",
+      "size": 1458097
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.17/SignLibrary-0.3.17-win-2024.zip",
-      "sha256": "356a3882394a153ae54efa8c6c3e6e4b04ac36ff45314f4b0e6ec7c19e73b24c",
-      "size": 1457139
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.18/SignLibrary-0.3.18-win-2024.zip",
+      "sha256": "c47293b436e1c767ee3ba8987152aec3dd926fff7543ad730e6d934831746d54",
+      "size": 1458097
     },
     "win-2026": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.17/SignLibrary-0.3.17-win-2024.zip",
-      "sha256": "356a3882394a153ae54efa8c6c3e6e4b04ac36ff45314f4b0e6ec7c19e73b24c",
-      "size": 1457139
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.18/SignLibrary-0.3.18-win-2024.zip",
+      "sha256": "c47293b436e1c767ee3ba8987152aec3dd926fff7543ad730e6d934831746d54",
+      "size": 1458097
     }
   }
 }
