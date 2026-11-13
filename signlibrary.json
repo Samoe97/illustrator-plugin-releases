@@ -1,28 +1,28 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.20",
+  "version": "0.3.21",
   "released": "2026-11-13",
-  "notes": "- Identify from photo (preview): the camera button or a pasted picture finds a sign's code, suggests a size, or builds a sign the library doesn't have. Optional: the first use offers a one-time download of its models.",
+  "notes": "- Identify from photo: signs built from a photo use the shop's corner radii and fit each line's lettering to the photo (closest series, then the line's width); the corner editor opens over the whole panel with zoom, slow Shift-drag and arrow-key nudges.",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.20/SignLibrary-0.3.20-mac-2025.zip",
-      "sha256": "c523cfbf9fe02ba2793d77df5d689c56c67bcb7d12cd73f9f11c75bac5a8afef",
-      "size": 5577651
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.21/SignLibrary-0.3.21-mac-2025.zip",
+      "sha256": "412df48c221934bea28554424cbb1e639f5711a0cf9cb012ec2531c4306c5203",
+      "size": 5579939
     },
     "win-2024": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.20/SignLibrary-0.3.20-win-2024.zip",
-      "sha256": "c15253cbce16f635d63d79f32a8d0650ea1ab8ec764455e097ad12af2305c417",
-      "size": 4596872
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.21/SignLibrary-0.3.21-win-2024.zip",
+      "sha256": "bc5055bf842ffd218c16a905ba5becb075c15b0fc761ca0231944a697fb5b633",
+      "size": 4599219
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.20/SignLibrary-0.3.20-win-2024.zip",
-      "sha256": "c15253cbce16f635d63d79f32a8d0650ea1ab8ec764455e097ad12af2305c417",
-      "size": 4596872
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.21/SignLibrary-0.3.21-win-2024.zip",
+      "sha256": "bc5055bf842ffd218c16a905ba5becb075c15b0fc761ca0231944a697fb5b633",
+      "size": 4599219
     },
     "win-2026": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.20/SignLibrary-0.3.20-win-2024.zip",
-      "sha256": "c15253cbce16f635d63d79f32a8d0650ea1ab8ec764455e097ad12af2305c417",
-      "size": 4596872
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.21/SignLibrary-0.3.21-win-2024.zip",
+      "sha256": "bc5055bf842ffd218c16a905ba5becb075c15b0fc761ca0231944a697fb5b633",
+      "size": 4599219
     }
   }
 }
