@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 1512">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-4P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 1404A108 108 0 0 1 2052 1512L108 1512A108 108 0 0 1 0 1404L0 108A108 108 0 0 1 108 0L2052 0A108 108 0 0 1 2160 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2124 1404C2124 1443.739 2091.739 1476 2052 1476L108 1476C68.261 1476 36 1443.739 36 1404L36 108C36 68.261 68.261 36 108 36L2052 36C2091.739 36 2124 68.261 2124 108Z" fill="#006747"/>
+  <path d="M216 755.968L730.584 403.816C746.503 392.922 767.665 393.397 783.076 405.03C798.021 416.311 804.447 435.578 799.2 453.568L750.366 621L1409.634 621L1360.8 453.568C1355.229 434.468 1362.841 414.061 1379.503 403.221C1394.716 393.323 1414.454 393.577 1429.416 403.816L1944 755.968L1429.416 1108.12C1413.497 1119.014 1392.335 1118.539 1376.924 1106.906C1361.979 1095.625 1355.553 1076.358 1360.8 1058.368L1409.616 891L750.384 891L799.2 1058.368C804.771 1077.468 797.159 1097.875 780.497 1108.715C765.284 1118.613 745.546 1118.359 730.584 1108.12Z" fill="#ffffff"/>
+</svg>

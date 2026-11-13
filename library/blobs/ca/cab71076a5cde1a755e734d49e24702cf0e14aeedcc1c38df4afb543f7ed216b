@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D9-10</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 2025A135 135 0 0 1 2025 2160L135 2160A135 135 0 0 1 0 2025L0 135A135 135 0 0 1 135 0L2025 0A135 135 0 0 1 2160 135Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2106 2025C2106 2069.706 2069.706 2106 2025 2106L135 2106C90.294 2106 54 2069.706 54 2025L54 135C54 90.294 90.294 54 135 54L2025 54C2069.706 54 2106 90.294 2106 135Z" fill="#002f6c"/>
+  <path d="M175.104 540.001L315.499 540.001L315.499 1619.996L175.104 1619.996Z" fill="#ffffff"/>
+  <path d="M899.547 1619.996L773.816 1619.996L569.101 980.059L569.101 1619.996L433.698 1619.996L433.698 540.001L569.101 540.001L762.532 1128.356L762.532 540.001L899.547 540.001Z" fill="#ffffff"/>
+  <path d="M1429.428 680.239L1152.175 680.239L1152.175 957.492L1311.757 957.492L1311.757 1100.954L1152.175 1100.954L1152.175 1619.996L1016.773 1619.996L1016.773 540.001L1429.428 540.001Z" fill="#ffffff"/>
+  <path d="M1736.37 525.015C1830.531 525.015 1896.872 568.885 1935.392 656.626C1973.913 744.367 1993.173 886.143 1993.173 1081.955C1993.173 1270.277 1973.913 1410.18 1935.392 1501.666C1896.872 1593.152 1830.531 1638.895 1736.37 1638.895C1642.21 1638.895 1575.869 1593.152 1537.349 1501.666C1498.828 1410.18 1479.568 1270.277 1479.568 1081.955C1479.568 886.143 1498.828 744.367 1537.349 656.626C1575.869 568.885 1642.21 525.015 1736.37 525.015ZM1733.16 675.886C1701.06 675.886 1674.845 694.879 1654.515 732.864C1634.185 770.85 1621.879 885.608 1617.599 1077.14C1621.879 1268.672 1634.185 1383.43 1654.515 1421.416C1674.845 1459.401 1701.06 1478.394 1733.16 1478.394C1766.331 1478.394 1793.081 1459.401 1813.411 1421.416C1833.741 1383.43 1846.047 1268.672 1850.327 1077.14C1846.047 885.608 1833.741 770.85 1813.411 732.864C1793.081 694.879 1766.331 675.886 1733.16 675.886Z" fill="#ffffff"/>
+</svg>

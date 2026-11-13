@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 1512">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M5-1P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 1404A108 108 0 0 1 2052 1512L108 1512A108 108 0 0 1 0 1404L0 108A108 108 0 0 1 108 0L2052 0A108 108 0 0 1 2160 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2133 1404C2133 1448.706 2096.706 1485 2052 1485L108 1485C63.294 1485 27 1448.706 27 1404L27 108C27 63.294 63.294 27 108 27L2052 27C2096.706 27 2133 63.294 2133 108ZM2088 108C2088 88.131 2071.869 72 2052 72L108 72C88.131 72 72 88.131 72 108L72 1404C72 1423.869 88.131 1440 108 1440L2052 1440C2071.869 1440 2088 1423.869 2088 1404Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M865.583 910.104L351 557.969L865.583 205.834C873.04 200.731 881.96 197.961 890.996 197.969C921.185 197.969 942.489 227.137 934.196 255.57L885.363 423L1620 423C1654.639 423 1683 451.361 1683 486L1683 1269L1413 1269L1413 729C1413 709.207 1396.793 693 1377 693L885.381 693L934.196 860.367C942.489 888.801 921.185 917.968 890.996 917.968C881.96 917.977 873.04 915.206 865.583 910.104Z" fill="#231f20"/>
+</svg>

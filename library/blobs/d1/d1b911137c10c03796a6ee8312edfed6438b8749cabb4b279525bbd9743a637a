@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M5-2</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M5-2</title>
+  <path d="M61.106 0L802.894 0C836.642 0 864 27.358 864 61.106L864 586.894C864 620.642 836.642 648 802.894 648L61.106 648C27.358 648 0 620.642 0 586.894L0 61.106C0 27.358 27.358 0 61.106 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M61.106 20.364L802.894 20.364C825.395 20.364 843.636 38.605 843.636 61.106L843.636 586.894C843.636 609.395 825.395 627.636 802.894 627.636L61.106 627.636C38.605 627.636 20.364 609.395 20.364 586.894L20.364 61.106C20.364 38.605 38.605 20.364 61.106 20.364Z" fill="#002f6c"/>
+  <path d="M277.828 540.665L385.652 540.665L385.652 401.626C385.652 397.192 387.729 392.906 391.092 390.042L492.052 304.072L515.94 364.786C519.177 373.014 527.47 378.239 536.276 377.761C544.859 377.296 552.747 371.037 554.952 362.696L617.14 127.495L370.756 155.073C351.095 157.274 345.631 183.096 363.192 192.611L421.36 224.128L288.472 337.44C281.515 343.373 277.828 350.97 277.828 360.148Z" fill="#ffffff"/>
+</svg>

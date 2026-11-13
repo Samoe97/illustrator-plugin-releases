@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 2016" width="24in" height="28in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-ISA</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M579.267 358.735L599.187 720.244L1049.959 720.425L1049.959 889.268L615.748 889.089L623.985 1003.203L1223.785 999.083L1479.791 1603.338L1674.205 1531.591L1728 1662.547L1380.612 1801.832L1116.02 1168.016L470.924 1167.837L408.287 266.769C371.053 196.346 381.698 110.947 437.334 53.364C491.59 -2.792 575.802 -16.487 644.559 21.075C713.93 58.972 749.744 138.248 734.264 215.466C719.09 291.157 656.952 351.408 579.267 358.735ZM1228.067 1650.992C1134.78 1839.535 951.369 1976.435 743.069 2008.607C532.44 2041.139 322.401 1964.399 177.977 1808.658C33.154 1652.487 -29.169 1433.791 12.805 1224.847C53.738 1021.086 189.436 841.393 378.63 753.27L393.302 949.001C229.301 1054.635 148.747 1257.338 185.462 1447.497C228.794 1671.93 425.202 1840.315 656.035 1835.265C892.146 1830.099 1086.515 1643.455 1113.344 1410.968Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

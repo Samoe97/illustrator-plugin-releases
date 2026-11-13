@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2592 2592">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R3-27</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2592 2430A162 162 0 0 1 2430 2592L162 2592A162 162 0 0 1 0 2430L0 162A162 162 0 0 1 162 0L2430 0A162 162 0 0 1 2592 162Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2547 2430C2547 2494.576 2494.576 2547 2430 2547L162 2547C97.424 2547 45 2494.576 45 2430L45 162C45 97.424 97.424 45 162 45L2430 45C2494.576 45 2547 97.424 2547 162ZM2484 162C2484 132.196 2459.804 108 2430 108L162 108C132.196 108 108 132.196 108 162L108 2430C108 2459.804 132.196 2484 162 2484L2430 2484C2459.804 2484 2484 2459.804 2484 2430Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1432.7 946.059L1432.7 2169L1159.3 2169L1159.3 946.059L989.82 995.49C970.771 1001.046 950.393 993.656 939.285 977.218C928.837 961.758 928.909 941.413 939.446 926.016L1296 405L1652.554 926.016C1663.701 942.304 1663.075 963.973 1651.003 979.586C1639.521 994.436 1620.201 1000.746 1602.18 995.49Z" fill="#231f20"/>
+  <path d="M2430 1296C2430 1922.291 1922.291 2430 1296 2430C669.709 2430 162 1922.291 162 1296C162 669.709 669.709 162 1296 162C1922.291 162 2430 669.709 2430 1296ZM727.592 574.892L2017.108 1864.408C2303.519 1501.552 2276.281 977.809 1945.236 646.764C1614.191 315.719 1090.448 288.481 727.592 574.892ZM574.892 727.592C283.351 1096.948 317.459 1631.635 662.526 1960.626C995.173 2277.777 1508.028 2298.407 1864.408 2017.108Z" fill="#a6192e" fill-rule="evenodd"/>
+</svg>

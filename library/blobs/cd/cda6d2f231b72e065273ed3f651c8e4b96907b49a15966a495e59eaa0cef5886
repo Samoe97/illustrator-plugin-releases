@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2027.376 11016" width="28.158in" height="153in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-TURN-THRU-NARROW</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1076.482 4682.697L1542.957 0L2027.376 4682.697L1704.431 4072.691L1722.371 11016L1399.426 11016C1399.765 11014.134 1399.709 11008.917 1399.695 11007.459L1399.345 10966.962L1398.702 10884.297L1398.233 10816.451C1397.313 10683.355 1397.044 10550.238 1397.187 10417.138C1397.323 10291.233 1397.77 10165.301 1398.884 10039.4L1399.691 9948.17L1401.068 9822.371C1405.278 9437.792 1398.702 9050.986 1339.452 8670.22C1311.03 8487.569 1269.894 8305.29 1207.911 8130.947C1116.781 7874.62 976.004 7627.639 753.538 7463.609L932.951 9365.396L0 6494.775L932.951 4234.164L753.538 6046.242C1093.647 6300.149 1239.098 6709.767 1371.727 7095.904L1399.426 7176.547L1381.485 4054.75Z" fill="#231f20"/>
+</svg>

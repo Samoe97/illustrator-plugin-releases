@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 864 432">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M4-5P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M756 0A108 108 0 0 1 864 108L864 324A108 108 0 0 1 756 432L108 432A108 108 0 0 1 0 324L0 108A108 108 0 0 1 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M756 27C800.706 27 837 63.294 837 108L837 324C837 368.706 800.706 405 756 405L108 405C63.294 405 27 368.706 27 324L27 108C27 63.294 63.294 27 108 27Z" fill="#006747"/>
+  <path d="M618.617 214.871C618.617 252.054 607.346 293.901 574.308 315.201C546.161 333.347 505.521 331.972 478.728 312.01C438.754 282.229 430.649 219.916 442.396 174.521C453.668 130.961 484.482 103.407 529.98 104.147C588.849 105.106 616.764 155.223 618.514 208.537C618.584 210.647 618.617 212.759 618.617 214.871ZM580.224 215.516C580.224 182.366 569.116 142.212 528.876 142.507C495.035 142.755 480.438 171.835 477.505 202.113C474.23 235.921 482.722 285.91 524.852 288.983C568.474 292.166 580.224 250.915 580.224 215.516Z" fill="#ffffff" fill-rule="evenodd"/>
+  <path d="M407.186 146.042L344.965 146.042L344.965 324L307.246 324L307.246 146.042L245.025 146.042L245.025 108L407.186 108Z" fill="#ffffff"/>
+</svg>

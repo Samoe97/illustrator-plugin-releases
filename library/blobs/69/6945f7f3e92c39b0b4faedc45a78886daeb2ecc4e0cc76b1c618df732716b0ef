@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2942.9 2942.9">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W1-1</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M39.537 1566.911C-13.151 1514.223 -13.151 1428.677 39.537 1375.989L1375.989 39.537C1428.677 -13.151 1514.223 -13.151 1566.911 39.537L2903.363 1375.989C2956.051 1428.677 2956.051 1514.223 2903.363 1566.911L1566.911 2903.363C1514.223 2956.051 1428.677 2956.051 1375.989 2903.363Z" fill="#ffcd00"/>
+  <path d="M64.994 1541.455C26.355 1502.816 26.355 1440.084 64.994 1401.445L1401.445 64.994C1440.084 26.355 1502.816 26.355 1541.455 64.994L2877.906 1401.445C2916.545 1440.084 2916.545 1502.816 2877.906 1541.455L1541.455 2877.906C1502.816 2916.545 1440.084 2916.545 1401.445 2877.906ZM1439.63 2839.722C1457.192 2857.284 1485.708 2857.284 1503.27 2839.722L2839.722 1503.27C2857.284 1485.708 2857.284 1457.192 2839.722 1439.63L1503.27 103.178C1485.708 85.616 1457.192 85.616 1439.63 103.178L103.178 1439.63C85.616 1457.192 85.616 1485.708 103.178 1503.27Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1242.5 1601.6L631.4 1183.4L1242.5 765.2C1251.35 759.14 1261.98 755.9 1272.7 755.9C1308.83 755.9 1333.481 790.438 1324 824.3L1266.008 1023.2L1795.2 1023.2C1914.5 1023.2 2011.2 1119.9 2011.2 1239.2L2011.2 2131.5L1690.6 2131.5L1690.6 1415.9C1690.6 1376 1658.3 1343.7 1618.4 1343.7L1266.037 1343.7L1324 1542.5C1334.091 1576.136 1308.269 1610.9 1272.7 1610.9C1261.965 1610.9 1251.384 1607.618 1242.5 1601.6Z" fill="#231f20"/>
+</svg>

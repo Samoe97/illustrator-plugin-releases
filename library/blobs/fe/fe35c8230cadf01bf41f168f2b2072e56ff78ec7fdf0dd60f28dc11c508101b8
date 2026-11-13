@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Built by tools/build_ca_r99.py from the Caltrans sheet (7/1/08) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>R99B(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M108 0L756 0C815.647 0 864 48.353 864 108L864 540C864 599.647 815.647 648 756 648L108 648C48.353 648 0 599.647 0 540L0 108C0 48.353 48.353 0 108 0Z"/>
+<path fill="#002f6c" d="M108 36L756 36C795.765 36 828 68.235 828 108L828 540C828 579.765 795.765 612 756 612L108 612C68.235 612 36 579.765 36 540L36 108C36 68.235 68.235 36 108 36Z"/>
+<path fill="#ffffff" d="M247.599 288L229.987 288L229.987 202.675L213.214 256.621L195.812 202.675L195.812 288L178.2 288L178.2 144L193.506 144L213.214 202.675L232.084 144L247.599 144ZM513.874 288L496.262 288L496.262 202.675L479.489 256.621L462.087 202.675L462.087 288L444.475 288L444.475 144L459.781 144L479.489 202.675L498.359 144L513.874 144ZM685.8 288L668.188 288L668.188 202.675L651.415 256.621L634.013 202.675L634.013 288L616.401 288L616.401 144L631.706 144L651.415 202.675L670.285 144L685.8 144ZM376.334 288L359.98 288L333.352 202.675L333.352 288L315.741 288L315.741 144L333.352 144L358.512 222.448L358.512 144L376.334 144ZM534.841 144L552.453 144L552.453 255.116C552.453 264.051 555.21 271.881 565.452 271.881C575.37 271.881 577.613 263.479 577.613 255.116L577.613 144L595.434 144L595.434 252.752C595.434 264.923 592.837 278.268 582.214 285.751C572.712 292.443 556.818 292.184 547.509 285.322C537.243 277.755 534.841 264.692 534.841 252.752ZM288.903 288L271.291 288L271.291 144L288.903 144ZM420.993 288L403.381 288L403.381 144L420.993 144Z" fill-rule="evenodd"/>
+</svg>

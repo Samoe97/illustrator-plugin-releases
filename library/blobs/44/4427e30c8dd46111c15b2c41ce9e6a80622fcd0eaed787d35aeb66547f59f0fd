@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="21in" height="15in" viewBox="0 0 1512 1080">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-4</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M6-4</title>
+  <path d="M108 0L1404 0C1463.647 0 1512 48.353 1512 108L1512 972C1512 1031.647 1463.647 1080 1404 1080L108 1080C48.353 1080 0 1031.647 0 972L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 27L1404 27C1448.735 27 1485 63.265 1485 108L1485 972C1485 1016.735 1448.735 1053 1404 1053L108 1053C63.265 1053 27 1016.735 27 972L27 108C27 63.265 63.265 27 108 27Z" fill="#002f6c"/>
+  <path d="M513.085 633.905L998.915 633.905L958.402 741.865C952.812 756.76 958.098 773.302 970.738 782.781C983.191 792.119 1000.432 792.283 1013.274 783.643L1375.441 539.996L1013.274 296.35C999.666 287.195 981.337 287.985 968.885 298.802C957.528 308.667 953.066 323.917 958.402 338.135L998.915 446.095L513.085 446.095L553.18 338.135C559.067 322.283 553.425 305.753 539.554 296.271C527.259 287.867 510.607 288.066 498.308 296.35L136.552 539.996L498.308 783.643C527.092 803.029 565.511 775.068 553.18 741.865Z" fill="#ffffff"/>
+</svg>

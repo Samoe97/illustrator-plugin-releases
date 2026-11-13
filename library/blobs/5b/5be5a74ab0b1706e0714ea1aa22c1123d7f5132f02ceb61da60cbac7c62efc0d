@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1512 1080">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-4P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1512 972A108 108 0 0 1 1404 1080L108 1080A108 108 0 0 1 0 972L0 108A108 108 0 0 1 108 0L1404 0A108 108 0 0 1 1512 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1476 972C1476 1011.739 1443.739 1044 1404 1044L108 1044C68.261 1044 36 1011.739 36 972L36 108C36 68.261 68.261 36 108 36L1404 36C1443.739 36 1476 68.261 1476 108Z" fill="#002f6c"/>
+  <path d="M144 540L504.209 293.494C528.491 276.877 560.499 300.004 552.24 328.32L518.062 445.5L993.938 445.5L959.76 328.32C951.501 300.004 983.509 276.877 1007.791 293.494L1368 540L1007.791 786.506C983.509 803.123 951.501 779.996 959.76 751.68L993.938 634.5L518.062 634.5L552.24 751.68C560.499 779.996 528.491 803.123 504.209 786.506Z" fill="#ffffff"/>
+</svg>

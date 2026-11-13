@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 864 2592">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>OM3-R</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M864 2484C864 2543.608 815.608 2592 756 2592L108 2592C48.392 2592 0 2543.608 0 2484L0 108C0 48.392 48.392 0 108 0L756 0C815.608 0 864 48.392 864 108Z" fill="#ffcd00"/>
+  <path d="M108 0C48.682 0 0 48.682 0 108L0 312.2L312.2 0L108 0Z" fill="#231f20"/>
+  <path d="M756 0L617.7 0C411.8 205.9 205.9 411.8 0 617.7L0 943.7C287 656.733 574 369.767 861 82.8C849.418 34.643 805.538 0 756 0Z" fill="#231f20"/>
+  <path d="M864 385.2L864 711.3L0 1575.3L0 1249.2Z" fill="#231f20"/>
+  <path d="M864 1016.7L864 1342.8L0 2206.8L0 1880.7Z" fill="#231f20"/>
+  <path d="M864 1648.2L3 2509.2C14.594 2557.305 58.5 2592 108 2592L246.3 2592L864 1974.3L864 1648.2Z" fill="#231f20"/>
+  <path d="M756 2592C815.318 2592 864 2543.318 864 2484L864 2279.8L551.8 2592L756 2592Z" fill="#231f20"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-5</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M6-5</title>
+  <path d="M43.2 0L820.8 0C844.659 0 864 19.341 864 43.2L864 604.8C864 628.659 844.659 648 820.8 648L43.2 648C19.341 648 0 628.659 0 604.8L0 43.2C0 19.341 19.341 0 43.2 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M43.2 10.8L820.8 10.8C838.694 10.8 853.2 25.306 853.2 43.2L853.2 604.8C853.2 622.694 838.694 637.2 820.8 637.2L43.2 637.2C25.306 637.2 10.8 622.694 10.8 604.8L10.8 43.2C10.8 25.306 25.306 10.8 43.2 10.8Z" fill="#002f6c"/>
+  <path d="M177.763 540.421L393.641 516.47C401.856 515.559 408.739 509.12 409.794 500.864C410.742 493.44 407.066 486.06 400.415 482.553L349.593 455.75L576.604 262.219L596.688 315.342C601.067 326.925 616.016 330.806 625.486 322.931C628.658 320.294 630.701 317.765 631.78 313.682L686.237 107.583L470.359 131.534C462.421 132.415 455.992 138.18 454.38 146.001C452.727 154.021 456.751 161.334 463.581 165.451L514.407 192.254L287.396 385.785L267.304 332.662C264.346 324.84 257.34 320.801 249.16 320.801C241.561 320.801 234.119 327.095 232.211 334.319Z" fill="#ffffff"/>
+</svg>

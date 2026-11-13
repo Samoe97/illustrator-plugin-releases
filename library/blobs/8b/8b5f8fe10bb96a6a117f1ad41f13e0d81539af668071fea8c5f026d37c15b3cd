@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="24in" viewBox="0 0 1728 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D9-6</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D9-6</title>
+  <path d="M108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 1620C1728 1679.647 1679.647 1728 1620 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 36L1620 36C1659.765 36 1692 68.235 1692 108L1692 1620C1692 1659.765 1659.765 1692 1620 1692L108 1692C68.235 1692 36 1659.765 36 1620L36 108C36 68.235 68.235 36 108 36Z" fill="#002f6c"/>
+  <path d="M684.251 418.852C764.274 411.464 815.771 328.314 787.708 253.194C759.272 177.08 665.932 148.484 600.014 196.368C549.158 233.311 534.627 300.711 564.402 355.798L608.308 973.587L1060.487 973.711L1245.953 1408.266L1489.454 1312.769L1451.747 1222.985L1315.472 1272.175L1136.025 857.886L715.595 860.711L709.824 782.473L1014.182 782.594L1014.182 666.832L698.214 666.708Z" fill="#ffffff"/>
+  <path d="M1139.025 1304.847C1062.707 1455.711 902.969 1555.105 732.581 1555.105C482.325 1555.105 278.213 1350.993 278.213 1100.736C278.213 925.024 384.707 761.737 543.616 689.352L553.898 823.549C459.908 882.775 401.97 989.641 401.97 1101.656C401.97 1283.2 550.036 1431.266 731.578 1431.266C897.67 1431.266 1039.299 1303.801 1058.611 1140.283Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

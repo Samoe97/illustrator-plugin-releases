@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 1728" width="24in" height="24in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>RS-103</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1620 0A108 108 0 0 1 1728 108L1728 1620A108 108 0 0 1 1620 1728L108 1728A108 108 0 0 1 0 1620L0 108A108 108 0 0 1 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1620 36C1659.739 36 1692 68.261 1692 108L1692 1620C1692 1659.739 1659.739 1692 1620 1692L108 1692C68.261 1692 36 1659.739 36 1620L36 108C36 68.261 68.261 36 108 36Z" fill="#693f23"/>
+  <path d="M1271.795 654.762L1494.042 654.762L1494.042 1178.553L224.094 1178.553L224.094 654.762L451.596 654.762L451.788 541.551C451.788 499.452 486.297 465.037 528.375 465.037L1194.586 465.037C1236.662 465.037 1271.1 499.476 1271.1 541.551L1271.795 654.762ZM668.66 925.115C668.66 818.681 582.378 732.398 475.944 732.398C369.509 732.398 283.227 818.681 283.227 925.115C283.227 1031.55 369.509 1117.832 475.944 1117.832C582.378 1117.832 668.66 1031.55 668.66 925.115ZM1437.109 925.115C1437.109 818.681 1350.827 732.398 1244.393 732.398C1137.958 732.398 1051.676 818.681 1051.676 925.115C1051.676 1031.55 1137.958 1117.832 1244.393 1117.832C1350.827 1117.832 1437.109 1031.55 1437.109 925.115ZM528.327 530.391L528.327 654.762L1195.065 654.762L1195.065 530.391L528.327 530.391ZM716.444 734.109L716.444 926.306L1004.548 926.306L1004.548 734.109L716.444 734.109Z" fill="#ffffff"/>
+</svg>

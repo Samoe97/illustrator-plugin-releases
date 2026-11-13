@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 864 2592">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D10-2</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M864 2484A108 108 0 0 1 756 2592L108 2592A108 108 0 0 1 0 2484L0 108A108 108 0 0 1 108 0L756 0A108 108 0 0 1 864 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M828 2484C828 2523.739 795.739 2556 756 2556L108 2556C68.261 2556 36 2523.739 36 2484L36 108C36 68.261 68.261 36 108 36L756 36C795.739 36 828 68.261 828 108Z" fill="#006747"/>
+  <path d="M714.613 504L604.571 504L604.571 216L710.744 216L710.744 253.397L640.679 253.397L640.679 327.331L687.532 327.331L687.532 365.588L640.679 365.588L640.679 466.603L714.613 466.603Z" fill="#ffffff"/>
+  <path d="M354.207 504L354.207 216L391.646 216L391.646 504Z" fill="#ffffff"/>
+  <path d="M564.781 504L454.739 504L454.739 216L490.847 216L490.847 466.603L564.781 466.603Z" fill="#ffffff"/>
+  <path d="M291.387 504L255.28 504L255.28 333.349L220.892 441.242L185.214 333.349L185.214 504L149.107 504L149.107 216L180.486 216L220.892 333.349L259.578 216L291.387 216Z" fill="#ffffff"/>
+</svg>

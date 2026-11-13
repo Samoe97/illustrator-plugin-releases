@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 1512">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-5P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 1404A108 108 0 0 1 2052 1512L108 1512A108 108 0 0 1 0 1404L0 108A108 108 0 0 1 108 0L2052 0A108 108 0 0 1 2160 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2133 1404C2133 1448.706 2096.706 1485 2052 1485L108 1485C63.294 1485 27 1448.706 27 1404L27 108C27 63.294 63.294 27 108 27L2052 27C2096.706 27 2133 63.294 2133 108ZM2088 108C2088 88.131 2071.869 72 2052 72L108 72C88.131 72 72 88.131 72 108L72 1404C72 1423.869 88.131 1440 108 1440L2052 1440C2071.869 1440 2088 1423.869 2088 1404Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M455.083 212.803L981.558 273.865C1016.915 277.966 1027.945 324.675 997.838 344.033L873.191 424.177L1437.375 914.617L1499.393 780.028C1514.37 747.526 1562.16 751.936 1571.143 786.384L1704.882 1299.237L1178.407 1238.175C1143.049 1234.074 1132.021 1187.365 1162.128 1168.007L1286.821 1087.833L722.613 597.373L660.573 732.012C645.594 764.52 597.804 760.099 588.822 725.656Z" fill="#231f20"/>
+</svg>

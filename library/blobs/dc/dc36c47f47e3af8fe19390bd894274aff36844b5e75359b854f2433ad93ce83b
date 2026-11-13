@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="24in" viewBox="0 0 2160 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R8-3hP</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>R8-3hP</title>
+  <path d="M108 0L2052 0C2111.647 0 2160 48.353 2160 108L2160 1620C2160 1679.647 2111.647 1728 2052 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 27L2052 27C2096.735 27 2133 63.265 2133 108L2133 1620C2133 1664.735 2096.735 1701 2052 1701L108 1701C63.265 1701 27 1664.735 27 1620L27 108C27 63.265 63.265 27 108 27ZM108 72C88.118 72 72 88.118 72 108L72 1620C72 1639.882 88.118 1656 108 1656L2052 1656C2071.882 1656 2088 1639.882 2088 1620L2088 108C2088 88.118 2071.882 72 2052 72L108 72Z" fill="#a6192e" fill-rule="evenodd"/>
+  <path d="M1517.411 1379.948L369.818 1379.948L369.818 1242.494L1517.681 1242.494L1488.464 1166.329C1483.764 1154.078 1488.29 1140.05 1499.046 1132.64C1508.779 1125.935 1521.744 1125.912 1531.482 1132.622L1790.182 1310.875L1531.482 1489.123C1521.099 1496.277 1507.189 1495.742 1497.363 1487.856C1487.78 1480.164 1484.044 1466.944 1488.464 1455.421Z" fill="#a6192e"/>
+  </svg>

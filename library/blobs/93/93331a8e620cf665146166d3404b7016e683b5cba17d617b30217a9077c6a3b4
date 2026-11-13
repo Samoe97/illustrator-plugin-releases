@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 864 432">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R7-201P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M756 0A108 108 0 0 1 864 108L864 324A108 108 0 0 1 756 432L108 432A108 108 0 0 1 0 324L0 108A108 108 0 0 1 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M837 324C837 368.706 800.706 405 756 405L108 405C63.294 405 27 368.706 27 324L27 108C27 63.294 63.294 27 108 27L756 27C800.706 27 837 63.294 837 108ZM54 293.147L54 324C54 353.804 78.196 378 108 378L756 378C785.804 378 810 353.804 810 324L810 304.9L735.5 304.9C735.802 263.078 707.279 226.775 663.417 227.926C622.126 229.01 592.632 263.977 595.4 304.6L512.9 304.8L512.9 204L578.7 204L529.7 126.3L480 126.3L325.9 229.2L269.7 244.8C258.48 220.603 249.227 208.181 221.002 204.836C197.704 202.075 176.117 205.47 158.389 221.881C142.165 236.9 134.449 258.734 135.3 280.6ZM54 131.576L132.6 119.6L202.9 169.9L277 153.2L298.6 218.6L325 209.5L325 217.8L470.8 121.8L471.2 107.9L543.6 107.9L724.1 204L810 203.642L810 108C810 78.196 785.804 54 756 54L108 54C78.196 54 54 78.196 54 108ZM54 143.35L54 198.415L161.4 179.4L128.5 133.4ZM597 203.9L681 203.9L548.7 131.1Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M205.5 221.6C176.524 221.6 152.7 245.424 152.7 274.4C152.7 303.376 176.524 327.2 205.5 327.2C234.476 327.2 258.3 303.376 258.3 274.4C258.3 245.424 234.476 221.6 205.5 221.6Z" fill="#231f20"/>
+  <path d="M665.5 245.4C636.524 245.4 612.7 269.224 612.7 298.2C612.7 327.176 636.524 351 665.5 351C694.476 351 718.3 327.176 718.3 298.2C718.3 269.224 694.476 245.4 665.5 245.4Z" fill="#231f20"/>
+</svg>

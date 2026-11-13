@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 864 864" width="12in" height="12in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>RS-106</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M756 0A108 108 0 0 1 864 108L864 756A108 108 0 0 1 756 864L108 864A108 108 0 0 1 0 756L0 108A108 108 0 0 1 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M756 27C800.706 27 837 63.294 837 108L837 756C837 800.706 800.706 837 756 837L108 837C63.294 837 27 800.706 27 756L27 108C27 63.294 63.294 27 108 27Z" fill="#693f23"/>
+  <path d="M663.22 268.276L663.22 425.802C663.22 463.056 652.349 499.187 631.492 530.083C640.878 542.442 647.465 555.959 647.737 571.748C647.991 586.516 642.294 602.523 631.972 613.208L551.403 696.609C542.869 708.874 523.532 699.854 527.534 685.329L544.395 600.092C522.7 608.581 499.454 612.906 476.162 612.884L295.223 612.716C325.636 633.375 341.109 670.305 343.303 706.09C343.832 714.719 341.875 735.801 328.476 731.554L218.35 645.069C213.518 641.275 208.637 637.856 203.883 633.879C160.886 597.905 124.361 540.949 147.573 483.653C163.434 444.501 203.399 428.359 242.147 421.235L472.526 374.993L572.463 195.339C583.862 174.848 616.194 158.427 639.43 160.317C659.255 161.929 675.211 167.719 690.413 180.758L739.889 191.259C745.018 191.636 748.892 196.11 748.506 201.243L743.093 221.187C741.11 225.714 739.212 229.157 735.029 232.023Z" fill="#ffffff"/>
+</svg>

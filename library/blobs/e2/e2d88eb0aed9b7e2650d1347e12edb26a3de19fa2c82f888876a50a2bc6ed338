@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24.213in" height="24.213in" viewBox="0 0 1743.351 1743.351">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W1-2a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W1-2aR</title>
+  <path d="M31.633 795.308L795.308 31.633C837.485 -10.544 905.866 -10.544 948.043 31.633L1711.718 795.308C1753.895 837.485 1753.895 905.866 1711.718 948.043L948.043 1711.718C905.866 1753.895 837.485 1753.895 795.308 1711.718L31.633 948.043C-10.544 905.866 -10.544 837.485 31.633 795.308Z" fill="#ffcd00"/>
+  <path d="M50.724 814.4L814.4 50.724C846.032 19.092 897.319 19.092 928.951 50.724L1692.626 814.4C1724.259 846.032 1724.259 897.319 1692.626 928.951L928.951 1692.626C897.319 1724.259 846.032 1724.259 814.4 1692.626L50.724 928.951C19.092 897.319 19.092 846.032 50.724 814.4ZM82.544 846.22C68.485 860.278 68.485 883.072 82.544 897.131L846.22 1660.807C860.278 1674.865 883.072 1674.865 897.131 1660.807L1660.807 897.131C1674.865 883.072 1674.865 860.278 1660.807 846.22L897.131 82.544C883.072 68.485 860.278 68.485 846.22 82.544L82.544 846.22Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M910.775 731.435L939.128 825.624C943.362 839.689 953.612 850.762 968.696 852.309C984.914 853.972 996.318 846.353 1004.351 832.748L1186.84 462.581L777.073 462.52C752.049 462.516 730.7 475.441 735.956 503.38C737.794 513.151 746.328 519.571 752.633 526.545L816.553 597.239C796.496 606.339 800.696 603.932 782.685 613.875C641.164 692.002 555.656 799.671 555.905 966.242L556.375 1281.107L724.833 1281.107L725.008 966.06C725.049 893.129 751.037 842.255 807.474 796.51C828.766 779.252 852.387 764.425 875.893 750.373C887.236 743.592 899.07 737.562 910.775 731.435Z" fill="#231f20"/>
+</svg>

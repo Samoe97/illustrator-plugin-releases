@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24.213in" height="24.213in" viewBox="0 0 1743.351 1743.351">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W2-5</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition, for the 2003 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W2-5</title>
+  <path d="M31.633 795.308L795.308 31.633C837.485 -10.544 905.866 -10.544 948.043 31.633L1711.718 795.308C1753.895 837.485 1753.895 905.866 1711.718 948.043L948.043 1711.718C905.866 1753.895 837.485 1753.895 795.308 1711.718L31.633 948.043C-10.544 905.866 -10.544 837.485 31.633 795.308Z" fill="#ffcd00"/>
+  <path d="M50.724 814.4L814.4 50.724C846.032 19.092 897.319 19.092 928.951 50.724L1692.626 814.4C1724.259 846.032 1724.259 897.319 1692.626 928.951L928.951 1692.626C897.319 1724.259 846.032 1724.259 814.4 1692.626L50.724 928.951C19.092 897.319 19.092 846.032 50.724 814.4ZM82.544 846.22C68.485 860.278 68.485 883.072 82.544 897.131L846.22 1660.807C860.278 1674.865 883.072 1674.865 897.131 1660.807L1660.807 897.131C1674.865 883.072 1674.865 860.278 1660.807 846.22L897.131 82.544C883.072 68.485 860.278 68.485 846.22 82.544L82.544 846.22Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M765.57 1069.489L374.186 680.476L526.082 528.082L871.813 874.145L1219.176 527.044L1371.072 679.439L979.206 1070.106L979.206 1458.577L765.465 1458.577Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1128.729 744.636L1125.005 747.768C1105.616 726.035 1085.947 707.062 1061.916 690.39C1005.931 651.549 938.002 630.505 869.835 631.156C779.304 632.02 692.567 670.045 630.704 736.511C627.252 740.22 623.856 743.982 620.488 747.768L616.745 744.636C635.25 723.842 654.083 705.526 676.827 689.309C790.702 608.113 941.959 605.128 1058.269 682.049C1082.178 697.86 1102.805 716.139 1122.074 737.249C1124.309 739.697 1126.524 742.162 1128.729 744.636Z" fill="#ffffff"/>
+  <path d="M1275.313 744.53L1152.558 626.256L1149.178 629.77L1271.932 748.043Z" fill="#ffffff"/>
+</svg>

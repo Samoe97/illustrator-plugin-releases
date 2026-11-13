@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1743.4 1743.4">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W2-4</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M31.56 948.076C-10.594 905.922 -10.594 837.478 31.56 795.324L795.324 31.56C837.478 -10.594 905.922 -10.594 948.076 31.56L1711.84 795.324C1753.994 837.478 1753.994 905.922 1711.84 948.076L948.076 1711.84C905.922 1753.994 837.478 1753.994 795.324 1711.84Z" fill="#ffcd00"/>
+  <path d="M50.654 928.982C19.038 897.366 19.038 846.034 50.654 814.418L814.418 50.654C846.034 19.038 897.366 19.038 928.982 50.654L1692.746 814.418C1724.362 846.034 1724.362 897.366 1692.746 928.982L928.982 1692.746C897.366 1724.362 846.034 1724.362 814.418 1692.746ZM846.241 1660.922C860.293 1674.974 883.107 1674.974 897.159 1660.922L1660.922 897.159C1674.974 883.107 1674.974 860.293 1660.922 846.241L897.159 82.478C883.107 68.426 860.293 68.426 846.241 82.478L82.478 846.241C68.426 860.293 68.426 883.107 82.478 897.159Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1330.7 572.5L1330.7 788.5L979.7 788.5L979.7 1465.7L763.7 1465.7L763.7 788.5L412.7 788.5L412.7 572.5Z" fill="#231f20"/>
+</svg>

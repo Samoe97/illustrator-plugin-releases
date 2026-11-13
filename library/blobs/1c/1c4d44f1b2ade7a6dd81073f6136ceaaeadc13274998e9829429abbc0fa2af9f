@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18.25in" height="30in" viewBox="0 0 1314 2160">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>GUIDE-ARROW-UP</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>GUIDE-ARROW-UP</title>
+<path fill="#231f20" d="M819 900L845.25 2160L468.75 2160L495 900L67.029 1006.405C43.884 1012.16 19.714 1002.045 7.547 981.534C-3.065 963.645 -2.438 941.221 9.138 923.943L612.138 23.943C633.494 -7.931 680.506 -7.931 701.862 23.943L1304.862 923.943C1317.283 942.483 1317.019 966.763 1304.196 985.027C1291.373 1003.291 1268.629 1011.79 1246.971 1006.405Z"/>
+</svg>

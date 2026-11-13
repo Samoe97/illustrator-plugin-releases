@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18in" height="18in" viewBox="0 0 1296 1296">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D9-3</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D9-3</title>
+  <path d="M108 0L1188 0C1247.647 0 1296 48.353 1296 108L1296 1188C1296 1247.647 1247.647 1296 1188 1296L108 1296C48.353 1296 0 1247.647 0 1188L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 36L1188 36C1227.765 36 1260 68.235 1260 108L1260 1188C1260 1227.765 1227.765 1260 1188 1260L108 1260C68.235 1260 36 1227.765 36 1188L36 108C36 68.235 68.235 36 108 36Z" fill="#002f6c"/>
+  <path d="M137.257 974.4L137.257 909.399L244.439 909.399L649.219 262.341L1054 909.399L1158.889 909.399L1158.889 974.4ZM480.807 909.399L817.632 909.399L649.219 637.577Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1107.189 6908.578" width="15.378in" height="95.952in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-ALPHABET</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M0 9.37C163.295 -14.736 323.112 6.666 466.772 90.997C716.27 237.456 856.38 534.062 938.732 800.319C1003.873 1010.926 1042.546 1230.215 1067.7 1448.955C1092.334 1663.172 1103.658 1879.062 1106.465 2094.623L1106.85 2129.638L1107.056 2157.826L1107.168 2186.159L1107.184 2214.637L1107.126 2247.732L1107.024 2280.566L1106.877 2313.137L1106.683 2345.446L1106.441 2377.494L1106.15 2409.281L1105.808 2440.808L1105.414 2472.074L1104.966 2503.08L1104.464 2533.826L1103.906 2564.312L1103.291 2594.54L1102.617 2624.508L1101.883 2654.218L1101.087 2683.67L1100.229 2712.864L1099.308 2741.801L1098.32 2770.48L1097.266 2798.902L1096.144 2827.068L1094.953 2854.977L1093.692 2882.631L1092.358 2910.029L1090.951 2937.171L1089.469 2964.059C1081.963 3100.243 1070.657 3236.499 1053.044 3371.766C1035.349 3507.663 1010.771 3643.805 972.261 3775.453C935.153 3902.306 883.574 4027.351 805.28 4134.639L1104.716 6908.578L832.717 6908.578L585.497 4332.617C489.883 4386.581 382.336 4416.143 273.809 4429.359C273.809 4635.9 273.7 4842.442 273.467 5048.983L273.117 5358.953L272.315 5978.984L271.965 6288.954C271.732 6495.495 271.623 6702.037 271.623 6908.578L0 6908.578ZM273.809 1118.692L273.809 3321.997C525.757 3318.738 670.39 3173.432 748.858 2937.379C781.189 2840.119 800.059 2737.392 812.072 2635.75C829.223 2490.634 833.597 2343.576 833.181 2197.535C832.822 2071.457 828.953 1944.612 816.326 1819.124C805.854 1715.05 789.217 1609.498 758.539 1509.353C711.738 1356.58 630.37 1217.377 476.837 1154.688C412.48 1128.411 343.016 1118.559 273.809 1118.692Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

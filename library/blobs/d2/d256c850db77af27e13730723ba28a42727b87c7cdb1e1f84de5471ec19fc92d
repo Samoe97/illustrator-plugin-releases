@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 2160" width="30in" height="30in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>RS-103</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2025 0A135 135 0 0 1 2160 135L2160 2025A135 135 0 0 1 2025 2160L135 2160A135 135 0 0 1 0 2025L0 135A135 135 0 0 1 135 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2025 45C2074.674 45 2115 85.326 2115 135L2115 2025C2115 2074.674 2074.674 2115 2025 2115L135 2115C85.326 2115 45 2074.674 45 2025L45 135C45 85.326 85.326 45 135 45Z" fill="#693f23"/>
+  <path d="M1589.744 818.453L1867.552 818.453L1867.552 1473.192L280.117 1473.192L280.117 818.453L564.495 818.453L564.735 676.939C564.735 624.159 607.716 581.296 660.469 581.296L1493.232 581.296C1545.983 581.296 1588.874 624.188 1588.874 676.939L1589.744 818.453ZM835.825 1156.394C835.825 1023.351 727.973 915.498 594.929 915.498C461.886 915.498 354.034 1023.351 354.034 1156.394C354.034 1289.437 461.886 1397.29 594.929 1397.29C727.973 1397.29 835.825 1289.437 835.825 1156.394ZM1796.386 1156.394C1796.386 1023.351 1688.533 915.498 1555.49 915.498C1422.447 915.498 1314.594 1023.351 1314.594 1156.394C1314.594 1289.437 1422.447 1397.29 1555.49 1397.29C1688.533 1397.29 1796.386 1289.437 1796.386 1156.394ZM660.408 662.989L660.408 818.453L1493.831 818.453L1493.831 662.989L660.408 662.989ZM895.555 917.636L895.555 1157.882L1255.685 1157.882L1255.685 917.636L895.555 917.636Z" fill="#ffffff"/>
+</svg>

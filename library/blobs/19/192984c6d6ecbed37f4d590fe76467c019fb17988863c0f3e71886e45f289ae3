@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M5-2</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M5-2</title>
+  <path d="M61.103 0L802.897 0C836.643 0 864 27.357 864 61.103L864 586.897C864 620.643 836.643 648 802.897 648L61.103 648C27.357 648 0 620.643 0 586.897L0 61.103C0 27.357 27.357 0 61.103 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M61.103 27L802.897 27C821.731 27 837 42.269 837 61.103L837 586.897C837 605.731 821.731 621 802.897 621L61.103 621C42.269 621 27 605.731 27 586.897L27 61.103C27 42.269 42.269 27 61.103 27ZM54.801 54L54.801 594L809.202 594L809.202 54L54.801 54Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M283.218 533.096L387.271 533.096L387.271 398.914C387.271 394.639 389.282 390.496 392.525 387.735L489.958 304.769L513.012 363.361C516.138 371.305 524.134 376.345 532.637 375.883C540.908 375.434 548.536 369.383 550.661 361.345L610.672 134.36L372.899 160.974C353.919 163.098 348.651 188.02 365.596 197.201L421.732 227.616L293.486 336.97C286.776 342.692 283.218 350.035 283.218 358.886Z" fill="#231f20"/>
+  </svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2592 2952" width="36in" height="41in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-ISA</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M868.9 525.29L898.781 1054.643L1574.938 1054.908L1574.938 1302.142L923.623 1301.882L935.977 1468.976L1835.678 1462.943L2219.687 2347.746L2511.308 2242.688L2592 2434.444L2070.918 2638.396L1674.03 1710.309L706.386 1710.048L612.43 390.627C556.03 286.549 572.969 160.982 657.109 77.148C740.514 -5.952 868.369 -24.182 971.288 33.288C1071.997 89.524 1125.265 204.432 1101.015 317.461C1077.057 429.129 983.097 514.779 868.9 525.29ZM1842.1 2417.524C1683.573 2730.22 1358.138 2937.846 1008.148 2951.242C663.793 2964.422 338.181 2792.991 151.7 2500.969C38.728 2324.058 -14.143 2114.015 3.166 1905.028C31.832 1558.934 251.685 1246.798 567.945 1103.003L589.953 1389.61C386.38 1517.6 263.557 1748.248 264.857 1987.968C266.164 2228.802 391.848 2451.607 596.48 2580.048C801.953 2709.017 1058.059 2722.766 1275.659 2616.679C1490.291 2512.038 1641.854 2303.946 1670.015 2066.06Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

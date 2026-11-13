@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 6498.939 11015.424" width="90.263in" height="152.992in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-TURN-THRU</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M0 6333.869L2599.576 4130.784L2021.893 6058.485C2392.974 6041.026 2767.907 6049.691 3135.44 6106.986C3504.051 6164.45 3864.504 6272.18 4192.28 6452.646C4344.539 6536.476 4488.475 6635.031 4621.469 6746.948L4621.469 3580.013L3610.52 4406.171L5054.73 0L6498.939 4406.171L5487.996 3580.013L5487.996 11015.424L4621.469 11015.424L4621.469 9638.496C4621.469 9632.023 4621.07 9625.556 4620.849 9619.089C4602.134 9070.699 4480.619 8494.361 4106.534 8072.887C3983.567 7934.341 3838.731 7818.98 3677.71 7727.613C3350.376 7541.878 2972.046 7461.24 2599.576 7435.413L2021.893 7435.413L2310.735 9363.112Z" fill="#231f20"/>
+</svg>

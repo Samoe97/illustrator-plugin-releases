@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3240 2592">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M1-5</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M3078 0C3167.413 0 3240 72.587 3240 162L3240 2430C3240 2519.413 3167.413 2592 3078 2592L162 2592C72.587 2592 0 2519.413 0 2430L0 162C0 72.587 72.587 0 162 0Z" fill="#231f20"/>
+  <path d="M1296 2538C593.39 2538 31.418 1956.116 54.694 1254.081C65.952 914.537 215.113 596.599 468.151 370.116C696.324 165.889 989.795 54 1296 54L1944 54C2646.61 54 3208.582 635.884 3185.306 1337.919C3173.951 1680.396 3022.216 2001.011 2765.366 2227.644C2537.952 2428.303 2247.28 2538 1944 2538Z" fill="#ffffff"/>
+</svg>

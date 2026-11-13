@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 1512">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M5-2P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024, 11th Edition MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024, 11th Edition MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2160 1404A108 108 0 0 1 2052 1512L108 1512A108 108 0 0 1 0 1404L0 108A108 108 0 0 1 108 0L2052 0A108 108 0 0 1 2160 108Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M2133 1404C2133 1448.706 2096.706 1485 2052 1485L108 1485C63.294 1485 27 1448.706 27 1404L27 108C27 63.294 63.294 27 108 27L2052 27C2096.706 27 2133 63.294 2133 108ZM2088 108C2088 88.131 2071.869 72 2052 72L108 72C88.131 72 72 88.131 72 108L72 1404C72 1423.869 88.131 1440 108 1440L2052 1440C2071.869 1440 2088 1423.869 2088 1404Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M935.72 713.435L862.732 871.834C854.573 889.54 836.222 899.653 816.913 897.629C798.288 895.677 783.042 882.467 778.319 864.357L620.98 261L1240.362 332.837C1259.85 335.097 1275.449 349.494 1279.196 368.749C1282.743 386.974 1275.19 405.309 1259.514 415.388L1112.87 509.676L1442.184 795.944C1457.941 809.642 1467 829.519 1467 850.398L1467 1295.998L1197 1295.998L1197 957.022C1197 946.571 1192.465 936.62 1184.578 929.764Z" fill="#231f20"/>
+</svg>

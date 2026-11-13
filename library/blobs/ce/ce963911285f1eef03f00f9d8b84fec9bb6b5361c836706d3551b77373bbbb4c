@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1107.19 6908.579" width="15.378in" height="95.952in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>PM-ALPHABET</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M0 9.37C167.397 -15.341 330.483 7.835 476.348 96.729C713.068 240.992 849.211 520.807 931.092 776.082C997.788 984.017 1037.665 1201.011 1063.999 1417.502C1091.26 1641.628 1103.413 1867.654 1106.448 2093.345L1106.851 2129.637L1107.057 2157.825L1107.169 2186.158L1107.185 2214.636L1107.035 2278.067L1106.898 2309.419L1106.718 2340.529L1106.493 2371.397L1106.223 2402.023L1105.907 2432.409L1105.543 2462.553L1105.13 2492.457L1104.666 2522.12L1104.152 2551.544L1103.585 2580.727L1102.964 2609.671L1102.289 2638.376L1101.557 2666.842L1100.768 2695.069L1099.921 2723.058L1099.015 2750.808L1098.047 2778.321L1097.018 2805.596L1095.925 2832.634L1094.768 2859.435L1093.546 2885.999L1092.257 2912.327L1090.9 2938.419L1089.474 2964.275L1087.978 2989.895L1086.41 3015.28L1084.77 3040.43C1075.517 3182.328 1061.655 3324.517 1039.709 3465.044C1019.871 3592.074 992.757 3719.502 951.507 3841.413C883.218 4043.232 774.106 4227.505 583.035 4334.114C487.741 4387.284 381.679 4416.216 273.809 4429.358C273.809 4635.899 273.7 4842.441 273.467 5048.982L273.117 5358.952L272.315 5978.983L271.965 6288.954C271.732 6495.496 271.623 6702.037 271.623 6908.579L0 6908.579Z" fill="#231f20"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M6-5</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M6-5</title>
+  <path d="M43.2 0L820.8 0C844.659 0 864 19.341 864 43.2L864 604.8C864 628.659 844.659 648 820.8 648L43.2 648C19.341 648 0 628.659 0 604.8L0 43.2C0 19.341 19.341 0 43.2 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M43.2 27L820.8 27C829.747 27 837 34.253 837 43.2L837 604.8C837 613.747 829.747 621 820.8 621L43.2 621C34.253 621 27 613.747 27 604.8L27 43.2C27 34.253 34.253 27 43.2 27ZM54.801 54L54.801 594L809.202 594L809.202 54L54.801 54Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M671.784 528.118L468.182 505.529C451.564 503.685 446.915 481.385 461.793 473.539L509.727 448.261L295.621 265.731L276.675 315.834C270.817 331.325 247.738 330.02 243.576 314.268L192.219 119.886L395.826 142.475C403.301 143.304 409.371 148.734 410.892 156.12C412.449 163.68 408.665 170.578 402.218 174.465L354.277 199.743L568.383 382.273L587.333 332.169C590.122 324.796 596.74 320.983 604.45 320.983C611.61 320.983 618.628 326.909 620.431 333.732Z" fill="#231f20"/>
+  </svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="9in" viewBox="0 0 864 648">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R8-3hP</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>R8-3hP</title>
+  <path d="M63 0L801 0C835.794 0 864 28.206 864 63L864 585C864 619.794 835.794 648 801 648L63 648C28.206 648 0 619.794 0 585L0 63C0 28.206 28.206 0 63 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M63 27L801 27C820.882 27 837 43.118 837 63L837 585C837 604.882 820.882 621 801 621L63 621C43.118 621 27 604.882 27 585L27 63C27 43.118 43.118 27 63 27ZM63 54C58.029 54 54 58.029 54 63L54 585C54 589.971 58.029 594 63 594L801 594C805.971 594 810 589.971 810 585L810 63C810 58.029 805.971 54 801 54L63 54Z" fill="#a6192e" fill-rule="evenodd"/>
+  <path d="M270.9 514.026L693.562 514.026L693.562 463.401L270.801 463.401L281.561 435.349C285.227 425.792 274.178 417.104 265.717 422.934L170.438 488.586L265.717 554.235C274.182 560.068 285.226 551.378 281.561 541.823Z" fill="#a6192e"/>
+  </svg>
