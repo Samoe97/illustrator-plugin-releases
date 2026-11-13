@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="8in" height="5in" viewBox="0 0 576 360">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>R81B(CA)</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>Caltrans California MUTCD</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>R81B(CA)</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M108 0L468 0C527.647 0 576 48.353 576 108L576 252C576 311.647 527.647 360 468 360L108 360C48.353 360 0 311.647 0 252L0 108C0 48.353 48.353 0 108 0Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M108 18L468 18C517.706 18 558 58.294 558 108L558 252C558 301.706 517.706 342 468 342L108 342C58.294 342 18 301.706 18 252L18 108C18 58.294 58.294 18 108 18ZM108 36C68.235 36 36 68.235 36 108L36 252C36 291.764 68.235 324 108 324L468 324C507.764 324 540 291.764 540 252L540 108C540 68.235 507.764 36 468 36Z"/>
+<path fill="#231f20" d="M372.352 288L372.352 72L425.192 72C482.706 72 491.62 137.178 491.396 181.626C491.175 225.578 481.462 288 425.192 288ZM344.977 288L315.375 288L255.851 150.663L255.851 288L225.293 288L225.293 72L255.851 72L314.101 207.403L314.101 72L344.977 72ZM193.144 288L84.6 288L84.6 72L184.868 72L184.868 102.304L115.158 102.304L115.158 156.788L159.403 156.788L159.403 186.448L115.158 186.448L115.158 257.696L193.144 257.696ZM461.797 179.355C461.797 152.06 458.349 132.34 451.452 120.197C444.555 108.054 435.377 101.982 423.918 101.982L401.955 101.982L401.955 257.373L423.918 257.373C435.377 257.373 444.555 251.301 451.452 239.158C458.349 227.015 461.797 207.08 461.797 179.355Z" fill-rule="evenodd"/>
+</svg>
