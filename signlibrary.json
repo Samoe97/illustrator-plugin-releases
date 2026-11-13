@@ -1,28 +1,28 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.22",
+  "version": "0.3.23",
   "released": "2026-11-13",
-  "notes": "- Identify from photo: no freezing (live progress, Cancel), corners found automatically or with a tap, cleaner reading (spaces, misread words, AND/OR), and signs rebuilt as in the photo: size from proportions and letter heights, even line spacing, size groups, filled or inset borders.",
+  "notes": "- Search: a code typed with its hyphens matches exactly (R81 -> R81(CA), W11-1 -> W11-1); City of Sacramento copies are versions of their sign, not search results",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.22/SignLibrary-0.3.22-mac-2025.zip",
-      "sha256": "fec48b4e0dd4482a376ab17d1dc6de0ab9162e524a138a9f44161fd5de95b445",
-      "size": 5588689
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.23/SignLibrary-0.3.23-mac-2025.zip",
+      "sha256": "53cd27399fae7a79653de9a771f1ed3c07171a6117ce954574c6bd334138fd82",
+      "size": 5602380
     },
     "win-2024": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.22/SignLibrary-0.3.22-win-2024.zip",
-      "sha256": "d23cbfa0e968e6d1981e2c0750a77f0d27aa4ecdbbdf8b6045f1302eff9c4458",
-      "size": 4608299
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.23/SignLibrary-0.3.23-win-2024.zip",
+      "sha256": "284118f4567f6d6ea61bccd5b0ea0372f88e8a7d716c28dbc964455e0b033294",
+      "size": 4612244
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.22/SignLibrary-0.3.22-win-2024.zip",
-      "sha256": "d23cbfa0e968e6d1981e2c0750a77f0d27aa4ecdbbdf8b6045f1302eff9c4458",
-      "size": 4608299
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.23/SignLibrary-0.3.23-win-2024.zip",
+      "sha256": "284118f4567f6d6ea61bccd5b0ea0372f88e8a7d716c28dbc964455e0b033294",
+      "size": 4612244
     },
     "win-2026": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.22/SignLibrary-0.3.22-win-2024.zip",
-      "sha256": "d23cbfa0e968e6d1981e2c0750a77f0d27aa4ecdbbdf8b6045f1302eff9c4458",
-      "size": 4608299
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.23/SignLibrary-0.3.23-win-2024.zip",
+      "sha256": "284118f4567f6d6ea61bccd5b0ea0372f88e8a7d716c28dbc964455e0b033294",
+      "size": 4612244
     }
   }
 }
