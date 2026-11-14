@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="24in" viewBox="0 0 2160 1728">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>W16-2P</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>W16-2P 30x24</title>
+<path fill="#e57200" d="M108 0L2052 0C2111.647 0 2160 48.353 2160 108L2160 1620C2160 1679.647 2111.647 1728 2052 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M108 27L2052 27C2096.735 27 2133 63.265 2133 108L2133 1620C2133 1664.735 2096.735 1701 2052 1701L108 1701C63.265 1701 27 1664.735 27 1620L27 108C27 63.265 63.265 27 108 27ZM108 72C88.118 72 72 88.118 72 108L72 1620C72 1639.882 88.118 1656 108 1656L2052 1656C2071.882 1656 2088 1639.882 2088 1620L2088 108C2088 88.118 2071.882 72 2052 72L108 72Z"/>
+<path fill="#231f20" d="M1058.989 1422.391L779.102 1422.391L779.102 971.609L1044.86 971.609L1044.86 1042.928L850.42 1042.928L850.42 1153.94L981.617 1153.94L981.617 1226.603L850.42 1226.603L850.42 1349.727L1058.989 1349.727ZM1413.293 1422.391L1133.405 1422.391L1133.405 971.609L1399.164 971.609L1399.164 1042.928L1204.722 1042.928L1204.722 1153.94L1335.919 1153.94L1335.919 1226.603L1204.722 1226.603L1204.722 1349.727L1413.293 1349.727ZM712.597 1042.928L504.028 1042.928L504.028 1153.94L635.225 1153.94L635.225 1226.603L504.028 1226.603L504.028 1422.391L432.71 1422.391L432.71 971.609L712.597 971.609ZM1726.594 1034.853L1622.309 1034.853L1622.309 1422.391L1550.992 1422.391L1550.992 1034.853L1448.052 1034.853L1448.052 971.609L1726.594 971.609Z"/>
+</svg>

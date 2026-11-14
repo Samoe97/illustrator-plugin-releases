@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2160 1728" width="30in" height="24in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-US</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1080 0C1150.453 47.645 1231.766 80.929 1315.195 97.203C1398.341 113.421 1484.711 113.208 1567.776 96.576C1649.961 80.12 1730.323 47.056 1799.793 0.061L2160 360.35C2055.978 504.638 2036.359 694.368 2108.182 856.98C2113.679 869.424 2119.442 881.53 2124.471 894.203C2199.07 1082.157 2153.999 1296.317 2010.231 1438.459C1915.543 1532.076 1788.998 1584.071 1655.826 1584.071L1367.913 1584.071C1254.248 1584.071 1148.281 1637.38 1080 1728.194C1011.719 1637.381 905.751 1584.071 792.087 1584.071L504.174 1584.071C199.101 1584.071 -35.777 1315.374 4.516 1013.01C11.169 963.083 25.236 915.074 46.215 869.304C55.707 848.595 64.056 828.114 70.967 806.382C119.052 655.177 92.841 489.13 0 360.35L360.207 0.061C430.588 47.672 512.095 80.963 595.442 97.212C678.588 113.421 764.96 113.208 848.022 96.567C930.29 80.084 1010.458 47.029 1080 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+</svg>

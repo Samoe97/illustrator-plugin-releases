@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="18in" viewBox="0 0 2592 1296">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W1-6</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W1-6</title>
+  <path d="M135 0L2457 0C2531.558 0 2592 60.442 2592 135L2592 1161C2592 1235.558 2531.558 1296 2457 1296L135 1296C60.442 1296 0 1235.558 0 1161L0 135C0 60.442 60.442 0 135 0Z" fill="#e57200"/>
+  <path d="M135 27L2457 27C2516.647 27 2565 75.353 2565 135L2565 1161C2565 1220.647 2516.647 1269 2457 1269L135 1269C75.353 1269 27 1220.647 27 1161L27 135C27 75.353 75.353 27 135 27ZM135 72L2457 72C2491.794 72 2520 100.206 2520 135L2520 1161C2520 1195.794 2491.794 1224 2457 1224L135 1224C100.206 1224 72 1195.794 72 1161L72 135C72 100.206 100.206 72 135 72Z" fill="#231f20" fill-rule="evenodd"/>
+  <path fill="#231f20" d="M942.971 229.451C970.246 210.901 1007.62 218.023 1026.164 245.297C1039.117 264.344 1036.231 282.646 1029.351 307.348L976.019 486.118L2268 486.118L2268 810.38L976.019 810.38L1030.615 992.081C1036.316 1014.532 1038.554 1033.409 1026.164 1051.625C1007.62 1078.9 970.246 1086.015 942.971 1067.472L324 648.124Z"/>
+</svg>

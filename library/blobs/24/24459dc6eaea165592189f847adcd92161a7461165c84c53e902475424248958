@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="30in" viewBox="0 0 1728 2160">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-RECT-V</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-RECT-V Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M0 108C0 48.353 48.353 0 108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 2052C1728 2111.647 1679.647 2160 1620 2160L108 2160C48.353 2160 0 2111.647 0 2052Z M877.5 216C877.5 223.456 871.456 229.5 864 229.5C856.544 229.5 850.5 223.456 850.5 216C850.5 208.544 856.544 202.5 864 202.5C871.456 202.5 877.5 208.544 877.5 216Z M877.5 1944C877.5 1951.456 871.456 1957.5 864 1957.5C856.544 1957.5 850.5 1951.456 850.5 1944C850.5 1936.544 856.544 1930.5 864 1930.5C871.456 1930.5 877.5 1936.544 877.5 1944Z" fill-rule="evenodd"/>
+</svg>

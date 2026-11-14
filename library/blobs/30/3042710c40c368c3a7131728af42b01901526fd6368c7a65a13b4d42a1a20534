@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="48in" viewBox="0 0 2592 3456">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-RECT-V</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-RECT-V Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M0 216C0 96.706 96.706 0 216 0L2376 0C2495.293 0 2592 96.706 2592 216L2592 3240C2592 3359.293 2495.293 3456 2376 3456L216 3456C96.706 3456 0 3359.293 0 3240Z M445.5 432C445.5 439.456 439.456 445.5 432 445.5C424.544 445.5 418.5 439.456 418.5 432C418.5 424.544 424.544 418.5 432 418.5C439.456 418.5 445.5 424.544 445.5 432Z M445.5 3024C445.5 3031.456 439.456 3037.5 432 3037.5C424.544 3037.5 418.5 3031.456 418.5 3024C418.5 3016.544 424.544 3010.5 432 3010.5C439.456 3010.5 445.5 3016.544 445.5 3024Z M2173.5 432C2173.5 439.456 2167.456 445.5 2160 445.5C2152.544 445.5 2146.5 439.456 2146.5 432C2146.5 424.544 2152.544 418.5 2160 418.5C2167.456 418.5 2173.5 424.544 2173.5 432Z M2173.5 3024C2173.5 3031.456 2167.456 3037.5 2160 3037.5C2152.544 3037.5 2146.5 3031.456 2146.5 3024C2146.5 3016.544 2152.544 3010.5 2160 3010.5C2167.456 3010.5 2173.5 3016.544 2173.5 3024Z" fill-rule="evenodd"/>
+</svg>

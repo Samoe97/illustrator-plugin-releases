@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="40.873in" height="40.873in" viewBox="0 0 2942.864 2942.864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-DIAMOND</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-DIAMOND Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M1375.972 39.541C1428.693 -13.18 1514.171 -13.18 1566.891 39.541L2903.323 1375.972C2956.044 1428.693 2956.044 1514.171 2903.323 1566.891L1566.891 2903.323C1514.171 2956.044 1428.693 2956.044 1375.972 2903.323L39.541 1566.891C-13.18 1514.171 -13.18 1428.693 39.541 1375.972Z M1484.932 391.432C1484.932 398.888 1478.888 404.932 1471.432 404.932C1463.976 404.932 1457.932 398.888 1457.932 391.432C1457.932 383.976 1463.976 377.932 1471.432 377.932C1478.888 377.932 1484.932 383.976 1484.932 391.432Z M1484.932 2551.432C1484.932 2558.888 1478.888 2564.932 1471.432 2564.932C1463.976 2564.932 1457.932 2558.888 1457.932 2551.432C1457.932 2543.976 1463.976 2537.932 1471.432 2537.932C1478.888 2537.932 1484.932 2543.976 1484.932 2551.432Z" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="54.156in" height="47.962in" viewBox="0 0 3899.198 3453.23">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-TRIANGLE</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-TRIANGLE Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M39.014 432C-71.837 240 66.727 0 288.43 0L3610.769 0C3832.471 0 3971.035 240 3860.184 432L2199.014 3309.23C2088.163 3501.229 1811.035 3501.229 1700.184 3309.23Z M883.099 216C883.099 223.456 877.055 229.5 869.599 229.5C862.143 229.5 856.099 223.456 856.099 216C856.099 208.544 862.143 202.5 869.599 202.5C877.055 202.5 883.099 208.544 883.099 216Z M883.099 1512C883.099 1519.456 877.055 1525.5 869.599 1525.5C862.143 1525.5 856.099 1519.456 856.099 1512C856.099 1504.544 862.143 1498.5 869.599 1498.5C877.055 1498.5 883.099 1504.544 883.099 1512Z M3043.099 216C3043.099 223.456 3037.055 229.5 3029.599 229.5C3022.143 229.5 3016.099 223.456 3016.099 216C3016.099 208.544 3022.143 202.5 3029.599 202.5C3037.055 202.5 3043.099 208.544 3043.099 216Z M3043.099 1512C3043.099 1519.456 3037.055 1525.5 3029.599 1525.5C3022.143 1525.5 3016.099 1519.456 3016.099 1512C3016.099 1504.544 3022.143 1498.5 3029.599 1498.5C3037.055 1498.5 3043.099 1504.544 3043.099 1512Z" fill-rule="evenodd"/>
+</svg>

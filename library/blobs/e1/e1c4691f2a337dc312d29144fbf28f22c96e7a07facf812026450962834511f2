@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3240 2592" width="45in" height="36in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-INTERSTATE</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M3071.896 0C3179.787 233.788 3240 494.098 3240 768.481C3240 1709.415 2532.213 2485.016 1620 2592C707.787 2485.016 0 1709.415 0 768.481C0 494.098 60.213 233.788 168.104 0C398.634 67.177 642.44 103.203 894.659 103.203C1146.438 103.203 1389.828 67.296 1620 0.344C1850.172 67.296 2093.562 103.203 2345.342 103.203C2597.561 103.203 2841.366 67.177 3071.896 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+</svg>

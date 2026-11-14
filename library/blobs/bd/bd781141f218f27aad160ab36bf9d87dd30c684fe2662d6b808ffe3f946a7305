@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3240 2592" width="45in" height="36in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-INTERSTATE</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M3071.896 0C3179.787 233.788 3240 494.098 3240 768.481C3240 1709.415 2532.213 2485.016 1620 2592C707.787 2485.016 0 1709.415 0 768.481C0 494.098 60.213 233.788 168.104 0C398.634 67.177 642.44 103.203 894.659 103.203C1146.438 103.203 1389.828 67.296 1620 0.344C1850.172 67.296 2093.562 103.203 2345.342 103.203C2597.561 103.203 2841.366 67.177 3071.896 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M1634.023 432C1634.023 439.745 1627.745 446.023 1620 446.023C1612.255 446.023 1605.977 439.745 1605.977 432C1605.977 424.255 1612.255 417.977 1620 417.977C1627.745 417.977 1634.023 424.255 1634.023 432ZM1633.021 432C1633.021 424.809 1627.191 418.979 1620 418.979C1612.808 418.979 1606.979 424.809 1606.979 432C1606.979 439.191 1612.808 445.021 1620 445.021C1627.191 445.021 1633.021 439.191 1633.021 432Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1634.023 2160C1634.023 2167.745 1627.745 2174.023 1620 2174.023C1612.255 2174.023 1605.977 2167.745 1605.977 2160C1605.977 2152.255 1612.255 2145.977 1620 2145.977C1627.745 2145.977 1634.023 2152.255 1634.023 2160ZM1633.021 2160C1633.021 2152.809 1627.191 2146.979 1620 2146.979C1612.808 2146.979 1606.979 2152.809 1606.979 2160C1606.979 2167.191 1612.808 2173.021 1620 2173.021C1627.191 2173.021 1633.021 2167.191 1633.021 2160Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

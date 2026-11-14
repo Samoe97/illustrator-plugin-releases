@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="24in" viewBox="0 0 3456 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W1-6</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W1-6L</title>
+  <path d="M135 0L3321 0C3395.558 0 3456 60.442 3456 135L3456 1593C3456 1667.558 3395.558 1728 3321 1728L135 1728C60.442 1728 0 1667.558 0 1593L0 135C0 60.442 60.442 0 135 0Z" fill="#ffcd00"/>
+  <path d="M135 36L3321 36C3375.676 36 3420 80.324 3420 135L3420 1593C3420 1647.676 3375.676 1692 3321 1692L135 1692C80.324 1692 36 1647.676 36 1593L36 135C36 80.324 80.324 36 135 36ZM135 90L3321 90C3345.853 90 3366 110.147 3366 135L3366 1593C3366 1617.853 3345.853 1638 3321 1638L135 1638C110.147 1638 90 1617.853 90 1593L90 135C90 110.147 110.147 90 135 90Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1257.28 305.944L432 864.16L1257.28 1423.278C1293.644 1448.034 1343.476 1438.522 1368.204 1402.158C1384.727 1377.868 1381.76 1352.705 1374.138 1322.77L1301.353 1080.506L3023.971 1080.506L3023.971 648.164L1301.353 648.164L1372.451 409.797C1381.644 376.866 1385.484 352.459 1368.204 327.063C1343.476 290.701 1293.644 281.217 1257.28 305.944Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3240 2592" width="45in" height="36in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-US</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1620 0C1662.077 28.524 1707.54 53.761 1753.687 75.051C2033.877 204.323 2362.277 191.812 2631.815 41.641C2654.855 28.804 2677.889 14.939 2699.689 0.091L3240 540.525C3083.915 757.03 3054.583 1041.471 3162.272 1285.471C3169.398 1301.618 3176.968 1317.405 3183.667 1333.764C3263.726 1529.275 3258.115 1750.579 3168.181 1941.797C3052.599 2187.55 2812.863 2353.42 2541.925 2373.92C2522.567 2375.384 2503.152 2376.107 2483.739 2376.107L2051.869 2376.107C1881.371 2376.107 1722.422 2456.07 1620 2592.291C1517.579 2456.071 1358.628 2376.107 1188.131 2376.107L756.261 2376.107C317.067 2376.107 -29.436 2003.433 2.074 1565.397C8.616 1474.445 31.343 1386.817 69.322 1303.956C79.54 1281.662 89.017 1259.566 97.33 1236.476C181.343 1003.141 145.121 741.822 0 540.525L540.31 0.091C575.637 24.058 613.558 45.687 651.851 64.534C942.772 207.723 1289.445 195.458 1569.357 31.742C1586.507 21.711 1603.554 11.149 1620 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+</svg>

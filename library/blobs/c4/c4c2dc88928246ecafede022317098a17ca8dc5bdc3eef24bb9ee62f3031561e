@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="36in" viewBox="0 0 2592 2592">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-OCTAGON</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-OCTAGON Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M759.179 0L1832.821 0L2592 759.179L2592 1832.821L1832.821 2592L759.179 2592L0 1832.821L0 759.179Z M1309.5 216C1309.5 223.456 1303.456 229.5 1296 229.5C1288.544 229.5 1282.5 223.456 1282.5 216C1282.5 208.544 1288.544 202.5 1296 202.5C1303.456 202.5 1309.5 208.544 1309.5 216Z M1309.5 2376C1309.5 2383.456 1303.456 2389.5 1296 2389.5C1288.544 2389.5 1282.5 2383.456 1282.5 2376C1282.5 2368.544 1288.544 2362.5 1296 2362.5C1303.456 2362.5 1309.5 2368.544 1309.5 2376Z" fill-rule="evenodd"/>
+</svg>

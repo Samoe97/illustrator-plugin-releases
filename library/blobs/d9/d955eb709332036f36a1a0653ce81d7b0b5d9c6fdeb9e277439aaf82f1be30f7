@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="35.068in" viewBox="0 0 2592 2524.897">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-PENTAGON</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-PENTAGON Holes</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M1181.449 47.449C1244.714 -15.816 1347.286 -15.816 1410.551 47.449L2544.552 1181.449C2574.932 1211.83 2592 1253.035 2592 1296L2592 2362.897C2592 2452.368 2519.47 2524.897 2430 2524.897L162 2524.897C72.53 2524.897 0 2452.368 0 2362.897L0 1296C0 1253.035 17.068 1211.83 47.449 1181.449Z M1309.5 2308.897C1309.5 2316.353 1303.456 2322.397 1296 2322.397C1288.544 2322.397 1282.5 2316.353 1282.5 2308.897C1282.5 2301.442 1288.544 2295.397 1296 2295.397C1303.456 2295.397 1309.5 2301.442 1309.5 2308.897Z M1309.5 580.897C1309.5 588.353 1303.456 594.397 1296 594.397C1288.544 594.397 1282.5 588.353 1282.5 580.897C1282.5 573.442 1288.544 567.397 1296 567.397C1303.456 567.397 1309.5 573.442 1309.5 580.897Z" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18in" height="12in" viewBox="0 0 1296 864">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>W16-2P</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for the 2009 MUTCD)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<path d="M108 0L1188 0C1247.647 0 1296 48.353 1296 108L1296 756C1296 815.647 1247.647 864 1188 864L108 864C48.353 864 0 815.647 0 756L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+<path d="M108 27L1188 27C1232.735 27 1269 63.265 1269 108L1269 756C1269 800.735 1232.735 837 1188 837L108 837C63.265 837 27 800.735 27 756L27 108C27 63.265 63.265 27 108 27ZM108 54C78.177 54 54 78.177 54 108L54 756C54 785.823 78.177 810 108 810L1188 810C1217.823 810 1242 785.823 1242 756L1242 108C1242 78.177 1217.823 54 1188 54L108 54Z" fill="#231f20" fill-rule="evenodd"/>
+<path fill="#231f20" d="M636.51 720.863L483.446 720.863L483.446 474.342L628.783 474.342L628.783 513.344L522.448 513.344L522.448 574.054L594.196 574.054L594.196 613.792L522.448 613.792L522.448 681.125L636.51 681.125ZM830.269 720.863L677.206 720.863L677.206 474.342L822.543 474.342L822.543 513.344L716.207 513.344L716.207 574.054L787.956 574.054L787.956 613.792L716.207 613.792L716.207 681.125L830.269 681.125ZM447.077 513.344L333.015 513.344L333.015 574.054L404.764 574.054L404.764 613.792L333.015 613.792L333.015 720.863L294.014 720.863L294.014 474.342L447.077 474.342ZM1001.606 508.928L944.575 508.928L944.575 720.863L905.574 720.863L905.574 508.928L849.279 508.928L849.279 474.342L1001.606 474.342Z"/>
+</svg>
