@@ -1,28 +1,28 @@
 {
   "plugin": "SignLibrary",
-  "version": "0.3.25",
+  "version": "0.3.26",
   "released": "2026-11-17",
-  "notes": "- Search: an old sign code finds the sign it became (R1-4 finds R1-3P, M3-1 finds M3-1P); the other versions of a sign answer to their codes",
+  "notes": "- Sets are named by MUTCD edition: MUTCD 2023, MUTCD 2009, MUTCD 2003, CA MUTCD",
   "assets": {
     "mac-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.25/SignLibrary-0.3.25-mac-2025.zip",
-      "sha256": "75f8ffd548d5d304ca65e910f8468beaf596238417dd6b020a9f1e3f1150a636",
-      "size": 5609759
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.26/SignLibrary-0.3.26-mac-2025.zip",
+      "sha256": "36432895464c82f31367b609bc3d9635f8a7c62988ee9e2f6ee46e19ef07cbe1",
+      "size": 5608984
     },
     "win-2024": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.25/SignLibrary-0.3.25-win-2024.zip",
-      "sha256": "f078195556234229453a00e188a7fd70aba0e2d61d5dd59637b90877ec00d985",
-      "size": 4613456
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.26/SignLibrary-0.3.26-win-2024.zip",
+      "sha256": "af59de4347c9cb35bf3dbb6f241a9408d3522ce0960d806a12163a48ae521d40",
+      "size": 4613336
     },
     "win-2025": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.25/SignLibrary-0.3.25-win-2024.zip",
-      "sha256": "f078195556234229453a00e188a7fd70aba0e2d61d5dd59637b90877ec00d985",
-      "size": 4613456
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.26/SignLibrary-0.3.26-win-2024.zip",
+      "sha256": "af59de4347c9cb35bf3dbb6f241a9408d3522ce0960d806a12163a48ae521d40",
+      "size": 4613336
     },
     "win-2026": {
-      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.25/SignLibrary-0.3.25-win-2024.zip",
-      "sha256": "f078195556234229453a00e188a7fd70aba0e2d61d5dd59637b90877ec00d985",
-      "size": 4613456
+      "url": "https://raw.githubusercontent.com/Samoe97/illustrator-plugin-releases/main/signlibrary/0.3.26/SignLibrary-0.3.26-win-2024.zip",
+      "sha256": "af59de4347c9cb35bf3dbb6f241a9408d3522ce0960d806a12163a48ae521d40",
+      "size": 4613336
     }
   }
 }
