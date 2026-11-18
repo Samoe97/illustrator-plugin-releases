@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-0.015 -0.015 1730.254 1730.254" width="24.031in" height="24.031in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W31(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M921.237 23.233L1706.991 808.987C1737.988 839.984 1737.988 890.24 1706.991 921.237L921.237 1706.991C890.24 1737.988 839.984 1737.988 808.987 1706.991L23.233 921.237C-7.764 890.24 -7.764 839.984 23.233 808.987L808.987 23.233C839.984 -7.764 890.24 -7.764 921.237 23.233Z" fill="#ffcd00"/>
+  <path d="M907.206 37.265L1692.959 823.018C1716.207 846.266 1716.207 883.958 1692.959 907.206L907.206 1692.959C883.958 1716.207 846.266 1716.207 823.018 1692.959L37.265 907.206C14.017 883.958 14.017 846.266 37.265 823.018L823.018 37.265C846.266 14.017 883.958 14.017 907.206 37.265ZM883.82 60.65L1669.574 846.404C1679.906 856.736 1679.906 873.488 1669.574 883.82L883.82 1669.574C873.488 1679.906 856.736 1679.906 846.404 1669.574L60.65 883.82C50.318 873.488 50.318 856.736 60.65 846.404L846.404 60.65C856.736 50.318 873.488 50.318 883.82 60.65Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M 389.912,1027.261 L 389.912,676.8 L 612.158,676.8 L 612.158,731.529 L 450.106,731.529 L 450.106,818.881 L 561.229,818.881 L 561.229,874.131 L 450.106,874.131 L 450.106,971.48 L 625.467,971.48 L 625.467,1027.261 Z" fill="#231f20"/>
+  <path d="M 718.649,1027.261 L 718.649,676.8 L 779.416,676.8 L 918.322,900.444 L 918.322,676.8 L 977.35,676.8 L 977.35,1027.261 L 926.42,1027.261 L 777.685,787.831 L 777.685,1027.261 Z" fill="#231f20"/>
+  <path d="M 1101.5,1027.261 L 1101.5,676.8 L 1218.407,676.8 C 1264.31,676.8 1301.258,698.407 1327.4,736.537 C 1352.259,772.799 1360.6,815.373 1359.541,858.639 C 1358.481,901.967 1347.164,945.026 1318.273,978.35 C 1288.41,1012.795 1248.966,1027.261 1203.942,1027.261 Z M 1161.693,730.999 L 1161.693,972.01 L 1207.995,971.48 C 1226.68,971.266 1240.926,970.034 1257.028,958.835 C 1286.123,938.599 1297.365,900.636 1299.54,866.768 C 1302.088,827.086 1295.543,780.035 1265.981,751.231 C 1251.818,737.43 1234.855,730.999 1215.51,730.999 Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>
