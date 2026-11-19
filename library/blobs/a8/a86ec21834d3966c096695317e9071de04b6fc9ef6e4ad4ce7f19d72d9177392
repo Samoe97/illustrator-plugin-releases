@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for MUTCD 2003) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="24in" viewBox="0 0 1728 1728">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>R10-20a</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for MUTCD 2003) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for MUTCD 2003)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>R10-20a</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 1620C1728 1679.647 1679.647 1728 1620 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z"/>
+  <path fill="#231f20" fill-rule="evenodd" d="M108 38.4L1620 38.4C1658.439 38.4 1689.6 69.561 1689.6 108L1689.6 1620C1689.6 1658.439 1658.439 1689.6 1620 1689.6L108 1689.6C69.561 1689.6 38.4 1658.439 38.4 1620L38.4 108C38.4 69.561 69.561 38.4 108 38.4ZM108.001 96.001C101.373 96.001 96.001 101.373 96.001 108.001L96.001 1620C96.001 1626.628 101.373 1632 108.001 1632L1620 1632C1626.628 1632 1632 1626.628 1632 1620L1632 108.001C1632 101.373 1626.628 96.001 1620 96.001L108.001 96.001Z"/>
+</svg>

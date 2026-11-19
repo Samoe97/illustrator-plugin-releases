@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for MUTCD 2003) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24.087in" height="24.087in" viewBox="-3.148 -3.148 1734.295 1734.295">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>OM4-1</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for MUTCD 2003) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for MUTCD 2003)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>OM4-1</title>
+<path fill="#a6192e" fill-rule="evenodd" d="M28.321 788.029L788.029 28.321C829.987 -13.637 898.013 -13.637 939.971 28.321L1699.679 788.029C1741.637 829.987 1741.637 898.013 1699.679 939.971L939.971 1699.679C898.013 1741.637 829.987 1741.637 788.029 1699.679L28.321 939.971C-13.637 898.013 -13.637 829.987 28.321 788.029Z"/>
+</svg>

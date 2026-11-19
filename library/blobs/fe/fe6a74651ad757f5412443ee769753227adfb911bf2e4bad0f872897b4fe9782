@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1296 360" width="18in" height="5in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>G33-1(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M108 0L1188 0C1247.647 0 1296 48.353 1296 108L1296 252C1296 311.647 1247.647 360 1188 360L108 360C48.353 360 0 311.647 0 252L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 36L1188 36C1227.765 36 1260 68.235 1260 108L1260 252C1260 291.765 1227.765 324 1188 324L108 324C68.235 324 36 291.765 36 252L36 108C36 68.235 68.235 36 108 36Z" fill="#006747"/>
+  <path d="M243 135L883.333 135L877.633 79.325C875.92 62.594 895.273 52.127 908.337 62.719L1053 180L908.337 297.281C895.273 307.873 875.92 297.406 877.633 280.675L883.333 225L243 225Z" fill="#ffffff"/>
+</svg>
