@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1728 1728" width="24in" height="24in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R73-2(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1620 0A108 108 0 0 1 1728 108L1728 1620A108 108 0 0 1 1620 1728L108 1728A108 108 0 0 1 0 1620L0 108A108 108 0 0 1 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 27L1620 27C1664.735 27 1701 63.265 1701 108L1701 1620C1701 1664.735 1664.735 1701 1620 1701L108 1701C63.265 1701 27 1664.735 27 1620L27 108C27 63.265 63.265 27 108 27ZM108 72L1620 72C1639.882 72 1656 88.118 1656 108L1656 1620C1656 1639.882 1639.882 1656 1620 1656L108 1656C88.118 1656 72 1639.882 72 1620L72 108C72 88.118 88.118 72 108 72Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M335.222 501.753L625.37 305.86C646.366 291.684 674.004 311.92 666.861 336.185L640.479 425.809L1051.29 425.809C1238.668 425.809 1390.947 578.055 1390.947 765.44L1390.947 1410.645L1239.006 1410.645L1239.006 765.44C1239.006 660.289 1151.98 575.159 1046.782 577.829C945.185 580.409 863.64 663.796 863.64 765.485L863.64 792.502L863.72 844.763L953.159 818.381C977.436 811.22 997.705 838.777 983.483 859.846L787.617 1150.02L591.751 859.846C577.527 838.773 597.8 811.243 622.075 818.381L711.7 844.736L711.7 765.485C711.7 698.581 731.302 633.417 768.446 577.75L685.225 577.75L640.638 577.671L666.861 667.295C673.959 691.554 646.395 711.813 625.37 697.62Z" fill="#231f20"/>
+</svg>

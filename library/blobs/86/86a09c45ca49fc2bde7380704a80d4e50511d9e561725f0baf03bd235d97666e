@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2592 2592" width="36in" height="36in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R73-2(CA)</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the Caltrans California MUTCD specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>Caltrans California MUTCD</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M2430 0A162 162 0 0 1 2592 162L2592 2430A162 162 0 0 1 2430 2592L162 2592A162 162 0 0 1 0 2430L0 162A162 162 0 0 1 162 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M162 45L2430 45C2494.617 45 2547 97.383 2547 162L2547 2430C2547 2494.617 2494.617 2547 2430 2547L162 2547C97.383 2547 45 2494.617 45 2430L45 162C45 97.383 97.383 45 162 45ZM162 117L2430 117C2454.853 117 2475 137.147 2475 162L2475 2430C2475 2454.853 2454.853 2475 2430 2475L162 2475C137.147 2475 117 2454.853 117 2430L117 162C117 137.147 137.147 117 162 117Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M502.833 752.63L938.054 458.791C953.115 448.622 973.062 449.782 986.98 461.406C999.445 471.817 1004.902 488.613 1000.291 504.278L960.719 638.714L1576.935 638.714C1858.129 638.714 2086.42 866.955 2086.42 1148.16L2086.42 2115.967L1858.51 2115.967L1858.51 1148.16C1858.51 990.442 1727.96 862.739 1570.173 866.745C1417.788 870.614 1295.46 995.703 1295.46 1148.227L1295.46 1188.752L1295.579 1267.144L1429.738 1227.571C1447.223 1222.413 1466.112 1229.854 1475.862 1245.145C1484.576 1258.812 1484.285 1276.346 1475.225 1289.768L1181.425 1725.03L887.626 1289.768C877.486 1274.745 878.466 1254.951 890.027 1240.995C900.425 1228.442 917.405 1222.952 933.113 1227.571L1067.549 1267.104L1067.549 1148.227C1067.549 1047.921 1096.959 950.116 1152.594 866.625L1027.838 866.625L960.957 866.506L1000.291 1000.942C1005.394 1018.381 998.112 1037.1 982.904 1046.901C969.273 1055.685 951.496 1055.503 938.054 1046.429Z" fill="#231f20"/>
+</svg>
