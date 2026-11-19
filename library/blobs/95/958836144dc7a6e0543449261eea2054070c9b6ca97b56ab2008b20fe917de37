@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="12in" height="48in" viewBox="0 0 864 3456">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D10-2a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D10-2a</title>
+  <path d="M108 0L756 0C815.647 0 864 48.353 864 108L864 3348C864 3407.647 815.647 3456 756 3456L108 3456C48.353 3456 0 3407.647 0 3348L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 36L756 36C795.766 36 828 68.234 828 108L828 2430L36 2430L36 108C36 68.234 68.234 36 108 36Z" fill="#006747"/>
+  <path d="M36 2466L828 2466L828 3348C828 3387.766 795.766 3420 756 3420L108 3420C68.234 3420 36 3387.766 36 3348L36 2466Z" fill="#006747"/>
+  <path d="M291.897 432L255.789 432L255.789 261.349L221.401 369.242L185.723 261.349L185.723 432L149.616 432L149.616 144L180.995 144L221.401 261.349L260.088 144L291.897 144ZM714.384 432L604.342 432L604.342 144L710.515 144L710.515 181.397L640.45 181.397L640.45 255.331L687.303 255.331L687.303 293.588L640.45 293.588L640.45 394.603L714.384 394.603ZM560.373 432L450.331 432L450.331 144L486.438 144L486.438 394.603L560.373 394.603ZM390.887 432L354.779 432L354.779 144L390.887 144Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

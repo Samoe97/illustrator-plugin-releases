@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="6in" height="24in" viewBox="0 0 432 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D10-2a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D10-2a</title>
+  <path d="M54 0L378 0C407.823 0 432 24.177 432 54L432 1674C432 1703.823 407.823 1728 378 1728L54 1728C24.177 1728 0 1703.823 0 1674L0 54C0 24.177 24.177 0 54 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M54 18L378 18C397.883 18 414 34.117 414 54L414 1215L18 1215L18 54C18 34.117 34.117 18 54 18Z" fill="#006747"/>
+  <path d="M18 1233L414 1233L414 1674C414 1693.883 397.883 1710 378 1710L54 1710C34.117 1710 18 1693.883 18 1674L18 1233Z" fill="#006747"/>
+  <path d="M145.948 216L127.895 216L127.895 130.675L110.701 184.621L92.862 130.675L92.862 216L74.808 216L74.808 72L90.498 72L110.701 130.675L130.044 72L145.948 72ZM357.192 216L302.171 216L302.171 72L355.258 72L355.258 90.699L320.225 90.699L320.225 127.666L343.652 127.666L343.652 146.794L320.225 146.794L320.225 197.301L357.192 197.301ZM280.186 216L225.165 216L225.165 72L243.219 72L243.219 197.301L280.186 197.301ZM195.443 216L177.39 216L177.39 72L195.443 72Z" fill="#ffffff" fill-rule="evenodd"/>
+</svg>

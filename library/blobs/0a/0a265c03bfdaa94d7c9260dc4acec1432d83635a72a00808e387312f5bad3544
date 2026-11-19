@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24in" height="24in" viewBox="0 0 1728 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D9-10</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D9-10</title>
+  <path d="M108 0L1620 0C1679.647 0 1728 48.353 1728 108L1728 1620C1728 1679.647 1679.647 1728 1620 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 36L1620 36C1659.765 36 1692 68.235 1692 108L1692 1620C1692 1659.765 1659.765 1692 1620 1692L108 1692C68.235 1692 36 1659.765 36 1620L36 108C36 68.235 68.235 36 108 36Z" fill="#002f6c"/>
+  <path d="M1381.56 417.815Q1495.04 417.815 1541.464 523.558Q1587.888 629.302 1587.888 865.29Q1587.888 1092.251 1541.464 1202.507Q1495.04 1312.764 1381.56 1312.764Q1268.079 1312.764 1221.655 1202.507Q1175.231 1092.251 1175.231 865.29Q1175.231 629.302 1221.655 523.558Q1268.079 417.815 1381.56 417.815ZM732.698 1296L632.113 1296L468.34 784.048L468.34 1296L360.017 1296L360.017 432L468.34 432L623.086 902.687L623.086 432L732.698 432ZM1129.344 544.191L907.541 544.191L907.541 765.994L1035.206 765.994L1035.206 880.764L907.541 880.764L907.541 1296L799.218 1296L799.218 432L1129.344 432ZM1378.981 539.033Q1340.294 539.033 1315.792 584.812Q1291.291 630.591 1286.133 861.421Q1291.291 1092.251 1315.792 1138.03Q1340.294 1183.809 1378.981 1183.809Q1418.957 1183.809 1443.458 1138.03Q1467.96 1092.251 1473.118 861.421Q1467.96 630.591 1443.458 584.812Q1418.957 539.033 1378.981 539.033ZM248.362 1296L140.04 1296L140.04 432L248.362 432Z" fill="#ffffff" fill-rule="evenodd"/>
+  </svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for MUTCD 2003) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18in" height="9in" viewBox="0 0 1296 648">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>R1-3</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition, for MUTCD 2003) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition, for MUTCD 2003)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>R1-3</title>
+<path fill="#ffffff" d="M108 0 L1188 0 C1247.647 0 1296 48.353 1296 108 L1296 540 C1296 599.647 1247.647 648 1188 648 L108 648 C48.353 648 0 599.647 0 540 L0 108 C0 48.353 48.353 0 108 0Z" stroke="#231f20" stroke-width="1"/>
+  <path fill="#a6192e" d="M108 36 L1188 36 C1227.765 36 1260 68.235 1260 108 L1260 540 C1260 579.765 1227.765 612 1188 612 L108 612 C68.235 612 36 579.765 36 540 L36 108 C36 68.235 68.235 36 108 36Z"/>
+  <path fill="#ffffff" d="M 292.836,417.187 L 269.194,417.187 L 269.194,504.231 L 217.074,504.231 L 217.074,417.187 L 72,417.187 L 72,372.052 L 220.836,144.231 L 269.194,144.231 L 269.194,369.365 L 292.836,369.365 Z M 217.074,368.829 L 217.074,240.411 L 133.254,368.829 Z"/>
+  <path fill="#ffffff" d="M 448.287,356.121 L 448.287,308.126 L 322.051,308.126 L 322.051,356.121 L 448.287,356.121 Z"/>
+  <path fill="#ffffff" d="M 735.523,144.231 L 677.494,504.231 L 632.897,504.231 L 599.046,316.171 L 564.658,504.231 L 519.523,504.231 L 462.569,144.231 L 513.076,144.231 L 543.703,336.052 L 578.628,144.231 L 619.464,144.231 L 653.315,336.052 L 685.016,144.231 Z"/>
+  <path fill="#ffffff" d="M 979.899,504.231 L 927.713,504.231 L 902.427,405.777 L 825.493,405.777 L 801.282,504.231 L 749.635,504.231 L 839.481,143.769 L 890.053,143.769 Z M 890.053,355.204 L 863.691,251.37 L 838.405,355.204 Z"/>
+  <path fill="#ffffff" d="M 1224,144.231 L 1134.269,341.425 L 1134.269,504.231 L 1082.687,504.231 L 1082.687,341.425 L 994.031,144.231 L 1048.299,144.231 L 1109.016,274.261 L 1168.12,144.231 Z"/>
+</svg>

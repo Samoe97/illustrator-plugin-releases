@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1296 1307.156" width="18in" height="18.155in">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>BLANK-SHIELD-FOREST</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M1151.961 0A144 144 0 0 1 1293.792 168.898L1110.666 1212.077A114.955 114.955 0 0 1 997.442 1307.156L298.558 1307.156A114.955 114.955 0 0 1 185.334 1212.077L2.208 168.898A144 144 0 0 1 144.039 0Z M661.5 144C661.5 151.456 655.456 157.5 648 157.5C640.543 157.5 634.5 151.456 634.5 144C634.5 136.544 640.543 130.5 648 130.5C655.456 130.5 661.5 136.544 661.5 144Z M661.5 1224C661.5 1231.456 655.456 1237.5 648 1237.5C640.543 1237.5 634.5 1231.456 634.5 1224C634.5 1216.544 640.543 1210.5 648 1210.5C655.456 1210.5 661.5 1216.544 661.5 1224Z" fill="#ffffff" stroke="#231f20" stroke-width="1" fill-rule="evenodd"/>
+</svg>

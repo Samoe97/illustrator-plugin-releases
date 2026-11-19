@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="36in" height="18in" viewBox="0 0 2592 1296">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>M4-15</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>M4-15</title>
+  <path d="M108 0L2484 0C2543.647 0 2592 48.353 2592 108L2592 1188C2592 1247.647 2543.647 1296 2484 1296L108 1296C48.353 1296 0 1247.647 0 1188L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+  <path d="M108 27L2484 27C2528.735 27 2565 63.265 2565 108L2565 1188C2565 1232.735 2528.735 1269 2484 1269L108 1269C63.265 1269 27 1232.735 27 1188L27 108C27 63.265 63.265 27 108 27ZM108 72C88.118 72 72 88.118 72 108L72 1188C72 1207.882 88.118 1224 108 1224L2484 1224C2503.882 1224 2520 1207.882 2520 1188L2520 108C2520 88.118 2503.882 72 2484 72L108 72Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M767.396 440.812L634.143 440.812L634.143 936L543.014 936L543.014 440.812L411.48 440.812L411.48 360L767.396 360Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1067.07 946.316Q965.626 946.316 911.035 869.373Q856.444 792.43 856.444 648Q856.444 507.009 911.035 428.776Q965.626 350.543 1067.07 350.543Q1170.235 350.543 1223.966 428.776Q1277.697 507.009 1277.697 648Q1277.697 792.43 1223.966 869.373Q1170.235 946.316 1067.07 946.316ZM1067.07 441.672Q1006.891 441.672 979.381 498.842Q951.87 556.012 951.011 646.281Q951.011 747.725 978.091 800.167Q1005.172 852.609 1067.07 851.749Q1132.408 850.03 1157.339 797.588Q1182.271 745.146 1183.99 646.281Q1182.271 549.994 1155.19 497.552Q1128.109 445.11 1067.07 441.672Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1724.38 936L1366.745 936L1366.745 360L1457.873 360L1457.873 843.152L1724.38 843.152Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M2180.52 936L1822.884 936L1822.884 360L1914.013 360L1914.013 843.152L2180.52 843.152Z" fill="#231f20" fill-rule="evenodd"/>
+  </svg>

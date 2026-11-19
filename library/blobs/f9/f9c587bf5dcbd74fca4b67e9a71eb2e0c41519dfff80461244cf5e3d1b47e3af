@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30in" height="30in" viewBox="0 0 2160 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>D9-10</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>D9-10</title>
+  <path d="M135 0L2025 0C2099.558 0 2160 60.442 2160 135L2160 2025C2160 2099.558 2099.558 2160 2025 2160L135 2160C60.442 2160 0 2099.558 0 2025L0 135C0 60.442 60.442 0 135 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M135 54L2025 54C2069.735 54 2106 90.265 2106 135L2106 2025C2106 2069.735 2069.735 2106 2025 2106L135 2106C90.265 2106 54 2069.735 54 2025L54 135C54 90.265 90.265 54 135 54Z" fill="#002f6c"/>
+  <path d="M1726.986 522.269Q1868.836 522.269 1926.866 654.448Q1984.896 786.627 1984.896 1081.612Q1984.896 1365.313 1926.866 1503.134Q1868.836 1640.955 1726.986 1640.955Q1585.135 1640.955 1527.105 1503.134Q1469.075 1365.313 1469.075 1081.612Q1469.075 786.627 1527.105 654.448Q1585.135 522.269 1726.986 522.269ZM915.92 1620L790.189 1620L585.472 980.06L585.472 1620L450.069 1620L450.069 540L585.472 540L778.905 1128.358L778.905 540L915.92 540ZM1411.722 680.239L1134.468 680.239L1134.468 957.493L1294.05 957.493L1294.05 1100.955L1134.468 1100.955L1134.468 1620L999.065 1620L999.065 540L1411.722 540ZM1723.762 673.791Q1675.403 673.791 1644.777 731.015Q1614.15 788.239 1607.702 1076.776Q1614.15 1365.313 1644.777 1422.537Q1675.403 1479.761 1723.762 1479.761Q1773.732 1479.761 1804.359 1422.537Q1834.986 1365.313 1841.433 1076.776Q1834.986 788.239 1804.359 731.015Q1773.732 673.791 1723.762 673.791ZM310.507 1620L175.104 1620L175.104 540L310.507 540Z" fill="#ffffff" fill-rule="evenodd"/>
+  </svg>
