@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024 edition, for MUTCD 2023) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2592 3888">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>R3-1g</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024 edition, for MUTCD 2023) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024 edition, for MUTCD 2023)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M108 0L2484 0C2543.647 0 2592 48.353 2592 108L2592 3780C2592 3839.647 2543.647 3888 2484 3888L108 3888C48.353 3888 0 3839.647 0 3780L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M108 45L2484 45C2518.794 45 2547 73.206 2547 108L2547 3780C2547 3814.794 2518.794 3843 2484 3843L108 3843C73.206 3843 45 3814.794 45 3780L45 108C45 73.206 73.206 45 108 45ZM108 108L108 3780L2484 3780L2484 108L108 108Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M1564.965 1144.52L1135.62 1144.52L1135.62 1993.4L862.272 1993.4L862.272 1087.172C862.272 967.886 958.986 871.172 1078.272 871.172L1564.933 871.172L1515.51 701.72C1509.996 682.814 1517.231 662.589 1533.436 651.42C1548.938 640.737 1569.471 640.73 1584.984 651.346L2106 1007.9L1584.984 1364.454C1568.453 1375.767 1546.404 1374.944 1530.759 1362.386C1516.36 1350.829 1510.338 1331.813 1515.51 1314.08Z" fill="#231f20"/>
+  <path d="M2430 1314C2430 1940.291 1922.291 2448 1296 2448C669.709 2448 162 1940.291 162 1314C162 687.709 669.709 180 1296 180C1922.291 180 2430 687.709 2430 1314ZM727.595 592.895L2017.105 1882.405C2303.514 1519.551 2276.277 995.811 1945.233 664.767C1614.189 333.723 1090.449 306.486 727.595 592.895ZM574.895 745.595C283.355 1114.949 317.464 1649.633 662.529 1978.623C995.175 2295.773 1508.027 2316.403 1864.405 2035.105Z" fill="#a6192e" fill-rule="evenodd"/>
+</svg>

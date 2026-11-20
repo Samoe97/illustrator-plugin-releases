@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="132in" height="30in" viewBox="0 0 9504 2160">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>E1-5P</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>E1-5P</title>
+  <path d="M108 0L9396 0C9455.646 0 9504 48.353 9504 108L9504 2052C9504 2111.647 9455.646 2160 9396 2160L108 2160C48.353 2160 0 2111.647 0 2052L0 108C0 48.353 48.353 0 108 0Z" fill="#ffffff" stroke="#231f20" stroke-width="1"/>
+  <path d="M137.743 137.743L9366.257 137.743L9366.257 2022.257L137.743 2022.257L137.743 137.743Z" fill="#006747"/>
+  <path d="M2046.083 1424.356L1532.118 1424.356L1532.118 735.644L2034.776 735.644L2034.776 858.995L1657.526 858.995L1657.526 987.486L1863.112 987.486L1863.112 1112.894L1657.526 1112.894L1657.526 1301.005L2046.083 1301.005Z" fill="#ffffff"/>
+  <path d="M2927.868 735.644L3051.844 735.644L3051.844 1424.356L2927.868 1424.356Z" fill="#ffffff"/>
+  <path d="M3709.097 856.961L3510.714 856.961L3510.714 1424.356L3390.452 1424.356L3390.452 856.961L3192.069 856.961L3192.069 735.67L3709.097 735.67Z" fill="#ffffff"/>
+  <path d="M2760.903 1424.356L2615.971 1424.356L2461.788 1180.747L2309.66 1424.356L2164.728 1424.356L2389.836 1062.54L2184.258 735.67L2331.246 735.67L2461.788 946.387L2592.33 735.67L2739.319 735.67L2536.824 1062.54Z" fill="#ffffff"/>
+  </svg>

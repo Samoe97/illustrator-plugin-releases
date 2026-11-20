@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="15in" viewBox="0 0 3456 1080">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W16-8aP</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W16-8a</title>
+  <path d="M108 0L3348 0C3407.647 0 3456 48.353 3456 108L3456 972C3456 1031.647 3407.647 1080 3348 1080L108 1080C48.353 1080 0 1031.647 0 972L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+  <path d="M108 36L3348 36C3387.764 36 3420 68.235 3420 108L3420 972C3420 1011.765 3387.764 1044 3348 1044L108 1044C68.235 1044 36 1011.765 36 972L36 108C36 68.235 68.235 36 108 36ZM108 90C98.059 90 90 98.059 90 108L90 972C90 981.941 98.059 990 108 990L3348 990C3357.941 990 3366 981.941 3366 972L3366 108C3366 98.059 3357.941 90 3348 90L108 90Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M2998.905 615.588L3204.464 754.628L2998.905 893.89C2989.847 900.049 2977.436 897.686 2971.277 888.629C2967.163 882.578 2967.905 876.309 2969.799 868.854L2987.931 808.513L2772.465 808.513L2772.465 700.826L2987.931 700.826L2970.22 641.458C2967.935 633.253 2966.975 627.174 2971.277 620.849C2977.436 611.791 2989.847 609.429 2998.905 615.588Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M460.51 180.629L254.949 319.669L460.51 458.934C469.568 465.093 481.979 462.728 488.138 453.67C492.252 447.622 491.51 441.352 489.617 433.898L471.484 373.554L686.948 373.554L686.948 265.868L471.484 265.868L489.195 206.499C491.481 198.297 492.437 192.217 488.138 185.893C481.979 176.835 469.568 174.47 460.51 180.629Z" fill="#231f20" fill-rule="evenodd"/>
+  </svg>

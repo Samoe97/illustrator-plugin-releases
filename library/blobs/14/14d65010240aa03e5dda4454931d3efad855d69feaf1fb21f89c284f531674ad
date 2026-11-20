@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="60in" viewBox="0 0 3456 4320">
+<metadata id="signlib-rights">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="">
+      <dc:title>BLANK-RECT-V</dc:title>
+      <dc:creator>John S. Fuchs</dc:creator>
+      <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+      <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<title>BLANK-RECT-V Border</title>
+<path fill="#ffffff" stroke="#231f20" stroke-width="1" d="M108 0L3348 0C3407.647 0 3456 48.353 3456 108L3456 4212C3456 4271.647 3407.647 4320 3348 4320L108 4320C48.353 4320 0 4271.647 0 4212L0 108C0 48.353 48.353 0 108 0Z"/>
+<path fill="#231f20" fill-rule="evenodd" d="M108 54L3348 54C3377.823 54 3402 78.177 3402 108L3402 4212C3402 4241.823 3377.823 4266 3348 4266L108 4266C78.177 4266 54 4241.823 54 4212L54 108C54 78.177 78.177 54 108 54ZM144 144L144 4176L3312 4176L3312 144L144 144Z"/>
+</svg>

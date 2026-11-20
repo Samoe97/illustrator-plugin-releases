@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48in" height="24in" viewBox="0 0 3456 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W1-6</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2004 edition and 2012 Supplement, for MUTCD 2009)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <title>W1-6</title>
+  <path d="M108 0L3348 0C3407.647 0 3456 48.353 3456 108L3456 1620C3456 1679.647 3407.647 1728 3348 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+  <path d="M108 36L3348 36C3387.764 36 3420 68.235 3420 108L3420 1620C3420 1659.765 3387.764 1692 3348 1692L108 1692C68.235 1692 36 1659.765 36 1620L36 108C36 68.235 68.235 36 108 36ZM108 90C98.059 90 90 98.059 90 108L90 1620C90 1629.941 98.059 1638 108 1638L3348 1638C3357.941 1638 3366 1629.941 3366 1620L3366 108C3366 98.059 3357.941 90 3348 90L108 90Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M2198.706 305.934L3024 864.166L2198.706 1423.296C2162.339 1448.02 2112.506 1438.534 2087.781 1402.167C2071.261 1377.879 2074.246 1352.71 2081.847 1322.775L2154.642 1080.506L432 1080.506L432 648.157L2154.642 648.157L2083.532 409.798C2074.359 376.861 2070.51 352.459 2087.781 327.063C2112.506 290.697 2162.339 281.202 2198.706 305.934Z" fill="#231f20" fill-rule="evenodd"/>
+</svg>

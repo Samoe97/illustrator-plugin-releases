@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- signlib-rights: Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024 edition, for MUTCD 2023) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license. -->
+<!-- Redrawn by tools/redraw.py (frame from spec, Highway Gothic legend, outlines refitted) --><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 6048 1728">
+  <metadata id="signlib-rights">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>W12-2a</dc:title>
+        <dc:creator>John S. Fuchs</dc:creator>
+        <dc:rights>Artwork drawn by John S. Fuchs from the FHWA Standard Highway Signs (2024 edition, for MUTCD 2023) specifications. © John S. Fuchs. All rights reserved. Not for commercial use without a license.</dc:rights>
+        <dc:source>FHWA Standard Highway Signs (2024 edition, for MUTCD 2023)</dc:source>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <path d="M108 0L5940 0C5999.647 0 6048 48.353 6048 108L6048 1620C6048 1679.647 5999.647 1728 5940 1728L108 1728C48.353 1728 0 1679.647 0 1620L0 108C0 48.353 48.353 0 108 0Z" fill="#ffcd00"/>
+  <path d="M108 54L5940 54C5969.823 54 5994 78.177 5994 108L5994 1620C5994 1649.823 5969.823 1674 5940 1674L108 1674C78.177 1674 54 1649.823 54 1620L54 108C54 78.177 78.177 54 108 54ZM144 144L144 1584L5904 1584L5904 144L144 144Z" fill="#231f20" fill-rule="evenodd"/>
+  <path d="M2518.125 823.164L2193.158 823.164L2193.158 940.084L2372.836 940.084L2372.836 1045.827L2193.158 1045.827L2193.158 1296L2088.275 1296L2088.275 720L2518.125 720Z" fill="#231f20"/>
+  <path d="M2997.615 821.445L2831.693 821.445L2831.693 1296L2731.107 1296L2731.107 821.445L2565.185 821.445L2565.185 720L2997.615 720Z" fill="#231f20"/>
+  <path d="M4747.2 1296L4747.2 720L4850.9 720L4850.9 1296Z" fill="#231f20"/>
+  <path d="M5466.069 1296L5377.52 1296L5102.416 907.415L5102.416 1296L5001.831 1296L5001.831 720L5102.416 720L5367.204 1104.287L5367.204 720L5466.069 720Z" fill="#231f20"/>
+</svg>
